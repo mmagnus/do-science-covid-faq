@@ -9,12 +9,13 @@ Table of Contents
 =================
 
 * [do\-science\-covid\-faq](#do-science-covid-faq)
+* [Table of Contents](#table-of-contents)
   * [Dobre źródła](#dobre-%C5%BAr%C3%B3d%C5%82a)
   * [Inne zbiory Pytań i Odpowiedzi](#inne-zbiory-pyta%C5%84-i-odpowiedzi)
   * [Strony z które sprawdzają fejki](#strony-z-kt%C3%B3re-sprawdzaj%C4%85-fejki)
 * [Postaci, które się udzielają, a robią postawowe błędy w wypowiedziach](#postaci-kt%C3%B3re-si%C4%99-udzielaj%C4%85-a-robi%C4%85-postawowe-b%C5%82%C4%99dy-w-wypowiedziach)
   * [prof\. Roman Zieliński](#prof-roman-zieli%C5%84ski)
-* [Pytania](#pytania)
+* [Szczepienia](#szczepienia)
   * [Czy mRNA może być włączone do DNA?](#czy-mrna-mo%C5%BCe-by%C4%87-w%C5%82%C4%85czone-do-dna)
     * [Przez odwrotną transkryptazę? NIE](#przez-odwrotn%C4%85-transkryptaz%C4%99-nie)
     * [Przez retrotraspozony LINE? NIE \#LINE](#przez-retrotraspozony-line-nie-line)
@@ -27,11 +28,13 @@ Table of Contents
   * [mRNA a płody?](#mrna-a-p%C5%82ody)
   * [Jaka jest skuteczność szczepionki na grypę sezonowa?](#jaka-jest-skuteczno%C5%9B%C4%87-szczepionki-na-gryp%C4%99-sezonowa)
   * [Badania kliniczne Moderny trwają do?](#badania-kliniczne-moderny-trwaj%C4%85-do)
-* [Pielęgniarka umarła w UK? NIE](#piel%C4%99gniarka-umar%C5%82a-w-uk-nie)
   * [Poszczepienne problemy?](#poszczepienne-problemy)
-* [Posty Magnusowe]
-  * [Poradnik Antytrolla]
-  
+* [Fejki](#fejki)
+  * [Pielęgniarka umarła w UK? NIE](#piel%C4%99gniarka-umar%C5%82a-w-uk-nie)
+* [\#mrnawpigułce](#mrnawpigu%C5%82ce)
+  * [OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE \!11\!\!\!\!](#osoby-zmar%C5%82y-po-przyj%C4%99ciu-szczepionki-przeciwko-covid-19-wloncz-my%C5%9Blnie-11)
+  * [LUCYFERAZA RAZ\!](#lucyferaza-raz)
+
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ## Dobre źródła
@@ -61,7 +64,7 @@ Po angielsku:
 ## prof. Roman Zieliński
 Długi opis problemu z wywiadem z prof. Zielińskim https://biokompost.wordpress.com/2020/12/23/nieuctwo-z-glupiej-gory/?fbclid=IwAR0AKAWou6hXMJqS10Za2xToZufeHXjR20EMYtRw8Kh349n_kbPQ88RiHas 
 
-# Pytania
+# Szczepienia
 ## Czy mRNA może być włączone do DNA?
 ### Przez odwrotną transkryptazę? NIE
 
@@ -126,11 +129,6 @@ Skuteczność szczepionki na grypę to około 60%, te szczepionki na covid maja 
 
 FDA do 2020 https://www.fda.gov/media/144637/download 
 
-# Pielęgniarka umarła w UK? NIE
-
-Nie, nie umarła.
-https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html
-
 ## Poszczepienne problemy?
 Tak, były takie, choć też jest to podważane, ale być może konkretna szczepionka nie była w pełni bezpieczna.
 
@@ -139,10 +137,16 @@ Narkolepsja
 - https://www.mp.pl/szczepienia/specjalne/221171,narkolepsja-i-szczepienie-przeciwko-grypie-pandemicznej 
 
 
-# #mrnawpigułce
-## Poradnik Antytrolla
 
-OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE !11!!!!
+# Fejki
+
+## Pielęgniarka umarła w UK? NIE
+
+Nie, nie umarła.
+https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html
+
+# #mrnawpigułce
+## OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE !11!!!!
 
 Zasady antytrolla!
 
@@ -172,8 +176,8 @@ MOŻE MNIEJ MYŚLENIA, A WIĘCEJ CZYTANIA
 
 WŁONCZ CZYTANIE DO KOŃCA! :)
 
-## LUCYFERAZA RAZ! #mrnawpigułce
- 
+## LUCYFERAZA RAZ!
+
 Dzięki Zuzanna Szewczyk za inspiro 🙂
 
 Naprawdę proszę uważać na tego typu brednie, lub inne, ale tutaj to nawet ładnie skondensowane. Mamy po prostu wszystko co najgorze na jednym świstku.
@@ -192,3 +196,4 @@ Nie czytajcie takich rzeczy 🙂 (ja zrobiłem to za Was)
 
 Tutaj więcej o tym https://www.dziennikwschodni.pl/lublin/po-lublinie-kraza-ulotki-straszace-szczepieniami-rozprawia-sie-z-nimi-prof-z-umcs,n,1000281716.html
 
+![](imgs/ulotka.jpg)
