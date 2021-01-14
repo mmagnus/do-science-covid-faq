@@ -74,6 +74,15 @@ Zresztą jakby tak było, to sama infekcja Covidem powodowałaby, że jego RNA w
 
 Długi opis problemu z wywiadem z prof. Zielińskim https://biokompost.wordpress.com/2020/12/23/nieuctwo-z-glupiej-gory/?fbclid=IwAR0AKAWou6hXMJqS10Za2xToZufeHXjR20EMYtRw8Kh349n_kbPQ88RiHas 
 
+Tutaj też świetny artykuł
+
+https://www.polityka.pl/tygodnikpolityka/nauka/2097213,1,eksperci-przeciw-antynauce-rozbrajamy-fake-newsy-o-szczepionce.read
+
+Czy też tutaj:
+
+https://github.com/mmagnus/do-science-covid-faq#stanowisko-komitetu-genetyki-człowieka-i-patologii-molekularnej-pan-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywających-sars-cov-2 
+
+
 # Szczepienia
 ## Czy mRNA może być włączone do DNA?
 - to mRNA się nie replikuje!
@@ -162,74 +171,9 @@ Narkolepsja
 - https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
 - https://randomseed.pl/rna/reverse-engineering-kodu-zrodlowego-szczepionki-biontech-pfizer-covid-sars-cov-2/
 
-# Fejki
+# Mega podsumowanie
 
-## Pielęgniarka umarła w UK? NIE
-
-Nie, nie umarła.
-https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html
-
-# #mrnawpigułce
-
-https://www.facebook.com/hashtag/mrnawpigułce
-
-
-
-## OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE !11!!!!
-
-Zasady antytrolla!
-
-1. Nie udostępniaj czegoś czego nie przeczytałeś DO KOŃCA ;-)*
-2. Sprawdź kto jest autorem tej informacji? jakie jest źródło? niestety jest z tym bardzo różnie i dlatego warto po prostu wyguglować daną informację i zobaczyć czy coś o tym piszę ktoś komuś ufamy i czy czasem dana informacja nie jest już na stronach typu fakenews.pl. Fake z dzis ;-) https://fakenews.pl/spoleczenstwo/sztuczny-plastikowy-snieg-w-hiszpanii-pali-sie-na-czarno-to-naturalne-zjawisko/
-
-* 60% osób (na Twitterze) nie czyta to co udostępnia. 
-
-Niestety media się z nami bawią i wrzucają artykuły o tytułach jak tutaj:
-
-https://epoznan.pl/news-news-113694-szwecja_cztery_osoby_zmarly_po_przyjeciu_szczepionki_przeciw_covid_19
-
-a potem tłumaczą:
-
-> "Zmarłe osoby miały jakąś formę choroby podstawowej. Na razie nie widzimy związku przyczynowego między szczepieniem a śmiercią. Chcemy jednak dokładnie sprawdzić te przypadki" - oświadczyła Veronica Arthurson ze Szwedzkiej Agencji ds. Produktów Medycznych.
-
-lub:
-https://wtk.pl/news/65917-lekarz-z-wielkopolski-zachorowal-mimo-szczepienia-na-covid19
-
-> Jak to możliwe?  Otóż z badań przeprowadzonych przez Amerykańską Agencję ds. Żywności i Leków wynika, że szczepionka Pfizera przeciw COVID19 zaczyna chronić ludzi 10 dni po podaniu pierwszej dawki. Teoretycznie jest to więc możliwe, by zakazić się między momentem zaszczepienia a uzyskaniem odporności. 
-
-wykorzystują emocje związane ze szczepionkami, ale warto przeczytać do końca.
-
-Czytajmy do końca, lub nie czytajmy takich mediów i szukajmy czegoś co nami nie manipulują. I swoimi lajkami możemy wywierać nacisk, że czegoś takiego nie chcemy.
-
-MOŻE MNIEJ MYŚLENIA, A WIĘCEJ CZYTANIA
-
-WŁONCZ CZYTANIE DO KOŃCA! :)
-
-## LUCYFERAZA RAZ!
-
-Dzięki Zuzanna Szewczyk za inspiro 🙂
-
-Naprawdę proszę uważać na tego typu brednie, lub inne, ale tutaj to nawet ładnie skondensowane. Mamy po prostu wszystko co najgorze na jednym świstku.
-
-Już zaczynając od początku, mRNA ze szczepionki nie może replikować! A tym bardziej nie wiem jak ekspresja białek miała by spowodować uzyskanie *wiele kopii RNA* (!).
-
-Cały czas przytaczana jest historia jakiegoś Replixcel, ktora, nie ma nic wspólnego ze szczepionkami Pfizer/BioNTech ani Moderny. Wiec mamy tutaj kolejne manipulacje i wymienianie substancji (lucyferazę, to to białko od szatana?), których nie ma w tym szczepionkach. Wszystko tylko aby zbudzić strach, "Ej, cholera, może jednak te szczepionki nie takie dobre skoro ktoś tak napisał w internetach (i się nawet nie podpisał pod tym)".
-
-Reszta to też brednie, mRNA ze szczepionki nie może zmienić naszego DNA, bo nie tam takiej możliwości, nie ma w komórkach ludzkich takich enzymów!
-
-"*Pewne* jest tego, że genom zostanie zmieniony"... fajnie, chciałbym być czegoś pewnym w tych czasym. Zadroszczę tej pewności. Ale to też nie prawda, nie ma żadnych naukowych (opartych o wiedzę) przesłanek, że genom może być zmieniony.
-
-Ulotka nie podpisana, nastawiona na manipulacje i straszenie, wybranie wszystkiego negatywnego i wrzucone do jednego tekstu. Zresztą jak się czyta tyle nieprawd w jednym tekście to nie ma ochoty się punktować każdego zdania.
-
-Nie czytajcie takich rzeczy 🙂 (ja zrobiłem to za Was)
-
-Tutaj więcej o tym https://www.dziennikwschodni.pl/lublin/po-lublinie-kraza-ulotki-straszace-szczepieniami-rozprawia-sie-z-nimi-prof-z-umcs,n,1000281716.html
-
-![](imgs/ulotka.jpg)
-
-
-
-# Sandbox
+**autor: Agata**
 
 ![🦠](https://static.xx.fbcdn.net/images/emoji.php/v9/t9f/2/16/1f9a0.png) ![💉](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/2/16/1f489.png)![🧬](https://static.xx.fbcdn.net/images/emoji.php/v9/tce/2/16/1f9ec.png) To jest super-długi post dotyczący szczepień (głównie opartych o mRNA) przeciwko COVID-19, a pośrednio samego wirusa SARS-CoV-2.
 
@@ -553,3 +497,71 @@ Piśmiennictwo:
 12. https://www.hematology.org/covid-19/ash-astct-covid-19-and-vaccines
 
 Źródło http://www.ptg-e.org.pl/Stanowisko-Polskiego-Towarzystwa-Gastroenterologii-oraz-Konsultanta-Krajowego-w-dziedzinie-gastroenterologii-w-sprawie-szczepien-przeciw-COVID-19-u-pacjentow-z-nieswoistymi-chorobami-zapalnymi-jelit-,310.html 
+# #mrnawpigułce
+
+https://www.facebook.com/hashtag/mrnawpigułce
+
+
+
+## OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE !11!!!!
+
+Zasady antytrolla!
+
+1. Nie udostępniaj czegoś czego nie przeczytałeś DO KOŃCA ;-)*
+2. Sprawdź kto jest autorem tej informacji? jakie jest źródło? niestety jest z tym bardzo różnie i dlatego warto po prostu wyguglować daną informację i zobaczyć czy coś o tym piszę ktoś komuś ufamy i czy czasem dana informacja nie jest już na stronach typu fakenews.pl. Fake z dzis ;-) https://fakenews.pl/spoleczenstwo/sztuczny-plastikowy-snieg-w-hiszpanii-pali-sie-na-czarno-to-naturalne-zjawisko/
+
+* 60% osób (na Twitterze) nie czyta to co udostępnia. 
+
+Niestety media się z nami bawią i wrzucają artykuły o tytułach jak tutaj:
+
+https://epoznan.pl/news-news-113694-szwecja_cztery_osoby_zmarly_po_przyjeciu_szczepionki_przeciw_covid_19
+
+a potem tłumaczą:
+
+> "Zmarłe osoby miały jakąś formę choroby podstawowej. Na razie nie widzimy związku przyczynowego między szczepieniem a śmiercią. Chcemy jednak dokładnie sprawdzić te przypadki" - oświadczyła Veronica Arthurson ze Szwedzkiej Agencji ds. Produktów Medycznych.
+
+lub:
+https://wtk.pl/news/65917-lekarz-z-wielkopolski-zachorowal-mimo-szczepienia-na-covid19
+
+> Jak to możliwe?  Otóż z badań przeprowadzonych przez Amerykańską Agencję ds. Żywności i Leków wynika, że szczepionka Pfizera przeciw COVID19 zaczyna chronić ludzi 10 dni po podaniu pierwszej dawki. Teoretycznie jest to więc możliwe, by zakazić się między momentem zaszczepienia a uzyskaniem odporności. 
+
+wykorzystują emocje związane ze szczepionkami, ale warto przeczytać do końca.
+
+Czytajmy do końca, lub nie czytajmy takich mediów i szukajmy czegoś co nami nie manipulują. I swoimi lajkami możemy wywierać nacisk, że czegoś takiego nie chcemy.
+
+MOŻE MNIEJ MYŚLENIA, A WIĘCEJ CZYTANIA
+
+WŁONCZ CZYTANIE DO KOŃCA! :)
+
+## LUCYFERAZA RAZ!
+
+Dzięki Zuzanna Szewczyk za inspiro 🙂
+
+Naprawdę proszę uważać na tego typu brednie, lub inne, ale tutaj to nawet ładnie skondensowane. Mamy po prostu wszystko co najgorze na jednym świstku.
+
+Już zaczynając od początku, mRNA ze szczepionki nie może replikować! A tym bardziej nie wiem jak ekspresja białek miała by spowodować uzyskanie *wiele kopii RNA* (!).
+
+Cały czas przytaczana jest historia jakiegoś Replixcel, ktora, nie ma nic wspólnego ze szczepionkami Pfizer/BioNTech ani Moderny. Wiec mamy tutaj kolejne manipulacje i wymienianie substancji (lucyferazę, to to białko od szatana?), których nie ma w tym szczepionkach. Wszystko tylko aby zbudzić strach, "Ej, cholera, może jednak te szczepionki nie takie dobre skoro ktoś tak napisał w internetach (i się nawet nie podpisał pod tym)".
+
+Reszta to też brednie, mRNA ze szczepionki nie może zmienić naszego DNA, bo nie tam takiej możliwości, nie ma w komórkach ludzkich takich enzymów!
+
+"*Pewne* jest tego, że genom zostanie zmieniony"... fajnie, chciałbym być czegoś pewnym w tych czasym. Zadroszczę tej pewności. Ale to też nie prawda, nie ma żadnych naukowych (opartych o wiedzę) przesłanek, że genom może być zmieniony.
+
+Ulotka nie podpisana, nastawiona na manipulacje i straszenie, wybranie wszystkiego negatywnego i wrzucone do jednego tekstu. Zresztą jak się czyta tyle nieprawd w jednym tekście to nie ma ochoty się punktować każdego zdania.
+
+Nie czytajcie takich rzeczy 🙂 (ja zrobiłem to za Was)
+
+Tutaj więcej o tym https://www.dziennikwschodni.pl/lublin/po-lublinie-kraza-ulotki-straszace-szczepieniami-rozprawia-sie-z-nimi-prof-z-umcs,n,1000281716.html
+
+![](imgs/ulotka.jpg)
+
+
+
+
+# Fejki
+
+## Pielęgniarka umarła w UK? NIE
+
+Nie, nie umarła.
+https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html
+
