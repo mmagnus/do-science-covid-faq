@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img align="center" width="300px" src="imgs/logo.png"></center>
+
   <h1>do-science-covid-faq</h1>
+    <img align="center" width="300px" src="imgs/logo.png"></center>
 </div>
 
 
