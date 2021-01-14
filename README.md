@@ -29,7 +29,9 @@ Table of Contents
   * [Badania kliniczne Moderny trwają do?](#badania-kliniczne-moderny-trwaj%C4%85-do)
 * [Pielęgniarka umarła w UK? NIE](#piel%C4%99gniarka-umar%C5%82a-w-uk-nie)
   * [Poszczepienne problemy?](#poszczepienne-problemy)
-
+* [Posty Magnusowe]
+  * [Poradnik Antytrolla]
+  
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ## Dobre źródła
@@ -135,3 +137,38 @@ Tak, były takie, choć też jest to podważane, ale być może konkretna szczep
 Narkolepsja
 - https://biotechnologia.pl/farmacja/tajemnica-poszczepiennej-narkolepsji-wyjasniona,15407
 - https://www.mp.pl/szczepienia/specjalne/221171,narkolepsja-i-szczepienie-przeciwko-grypie-pandemicznej 
+
+
+# Posty
+## Poradnik Antytrolla
+
+OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE !11!!!!
+
+Zasady antytrolla!
+
+1. Nie udostępniaj czegoś czego nie przeczytałeś DO KOŃCA ;-)*
+2. Sprawdź kto jest autorem tej informacji? jakie jest źródło? niestety jest z tym bardzo różnie i dlatego warto po prostu wyguglować daną informację i zobaczyć czy coś o tym piszę ktoś komuś ufamy i czy czasem dana informacja nie jest już na stronach typu fakenews.pl. Fake z dzis ;-) https://fakenews.pl/spoleczenstwo/sztuczny-plastikowy-snieg-w-hiszpanii-pali-sie-na-czarno-to-naturalne-zjawisko/
+
+* 60% osób (na Twitterze) nie czyta to co udostępnia. 
+
+Niestety media się z nami bawią i wrzucają artykuły o tytułach jak tutaj:
+
+https://epoznan.pl/news-news-113694-szwecja_cztery_osoby_zmarly_po_przyjeciu_szczepionki_przeciw_covid_19
+
+a potem tłumaczą:
+
+> "Zmarłe osoby miały jakąś formę choroby podstawowej. Na razie nie widzimy związku przyczynowego między szczepieniem a śmiercią. Chcemy jednak dokładnie sprawdzić te przypadki" - oświadczyła Veronica Arthurson ze Szwedzkiej Agencji ds. Produktów Medycznych.
+
+lub:
+https://wtk.pl/news/65917-lekarz-z-wielkopolski-zachorowal-mimo-szczepienia-na-covid19
+
+> Jak to możliwe?  Otóż z badań przeprowadzonych przez Amerykańską Agencję ds. Żywności i Leków wynika, że szczepionka Pfizera przeciw COVID19 zaczyna chronić ludzi 10 dni po podaniu pierwszej dawki. Teoretycznie jest to więc możliwe, by zakazić się między momentem zaszczepienia a uzyskaniem odporności. 
+
+wykorzystują emocje związane ze szczepionkami, ale warto przeczytać do końca.
+
+Czytajmy do końca, lub nie czytajmy takich mediów i szukajmy czegoś co nami nie manipulują. I swoimi lajkami możemy wywierać nacisk, że czegoś takiego nie chcemy.
+
+MOŻE MNIEJ MYŚLENIA, A WIĘCEJ CZYTANIA
+
+WŁONCZ CZYTANIE DO KOŃCA! :)
+
