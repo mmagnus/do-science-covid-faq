@@ -139,7 +139,7 @@ Narkolepsja
 - https://www.mp.pl/szczepienia/specjalne/221171,narkolepsja-i-szczepienie-przeciwko-grypie-pandemicznej 
 
 
-# Posty
+# #mrnawpigułce
 ## Poradnik Antytrolla
 
 OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE !11!!!!
@@ -171,4 +171,24 @@ Czytajmy do końca, lub nie czytajmy takich mediów i szukajmy czegoś co nami n
 MOŻE MNIEJ MYŚLENIA, A WIĘCEJ CZYTANIA
 
 WŁONCZ CZYTANIE DO KOŃCA! :)
+
+## LUCYFERAZA RAZ! #mrnawpigułce
+ 
+Dzięki Zuzanna Szewczyk za inspiro 🙂
+
+Naprawdę proszę uważać na tego typu brednie, lub inne, ale tutaj to nawet ładnie skondensowane. Mamy po prostu wszystko co najgorze na jednym świstku.
+
+Już zaczynając od początku, mRNA ze szczepionki nie może replikować! A tym bardziej nie wiem jak ekspresja białek miała by spowodować uzyskanie *wiele kopii RNA* (!).
+
+Cały czas przytaczana jest historia jakiegoś Replixcel, ktora, nie ma nic wspólnego ze szczepionkami Pfizer/BioNTech ani Moderny. Wiec mamy tutaj kolejne manipulacje i wymienianie substancji (lucyferazę, to to białko od szatana?), których nie ma w tym szczepionkach. Wszystko tylko aby zbudzić strach, "Ej, cholera, może jednak te szczepionki nie takie dobre skoro ktoś tak napisał w internetach (i się nawet nie podpisał pod tym)".
+
+Reszta to też brednie, mRNA ze szczepionki nie może zmienić naszego DNA, bo nie tam takiej możliwości, nie ma w komórkach ludzkich takich enzymów!
+
+"*Pewne* jest tego, że genom zostanie zmieniony"... fajnie, chciałbym być czegoś pewnym w tych czasym. Zadroszczę tej pewności. Ale to też nie prawda, nie ma żadnych naukowych (opartych o wiedzę) przesłanek, że genom może być zmieniony.
+
+Ulotka nie podpisana, nastawiona na manipulacje i straszenie, wybranie wszystkiego negatywnego i wrzucone do jednego tekstu. Zresztą jak się czyta tyle nieprawd w jednym tekście to nie ma ochoty się punktować każdego zdania.
+
+Nie czytajcie takich rzeczy 🙂 (ja zrobiłem to za Was)
+
+Tutaj więcej o tym https://www.dziennikwschodni.pl/lublin/po-lublinie-kraza-ulotki-straszace-szczepieniami-rozprawia-sie-z-nimi-prof-z-umcs,n,1000281716.html
 
