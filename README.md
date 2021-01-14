@@ -70,7 +70,7 @@ Po angielsku:
 # Postaci, które się udzielają, a robią postawowe błędy w wypowiedziach
 ## prof. Roman Zieliński
 
-**A z zagrożeń żadne wymienione przez Zielińskiego nie ma sensu.**
+<span color="gray">A z zagrożeń żadne wymienione przez Zielińskiego nie ma sensu.</span>
 
 - to mRNA się nie replikuje! (więc cały ten fragment, góra tekstu, nie ma zupełnie sensu)
 - mRNA nie włącza się do DNA (więc kolejny fragment nie ma zupełnie sensu, i jest zbudowany na argumencie, że kiedyś używana DNA w terapiach genowych i ono mogło się włączyć do DNA) - w komórkach ludzkich nie ma ŻADNEGO enzymu, który wziąć mRNA ze szczepionki i je przepisać na DNA a następnie włączyć to DNA do genomu człowieka.
