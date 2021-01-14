@@ -1,6 +1,6 @@
 
 <div align="left">
-  <h1>do-science-covid-faq</h1>
+  <h1>Do Science! Covid FQA</h1>
     <img align="center" width="300px" src="imgs/logo.png"></center>
 </div>
 
@@ -9,7 +9,7 @@ Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 Table of Contents
 =================
 
-
+* [Do Science\! Covid FQA](#do-science-covid-fqa)
 * [Table of Contents](#table-of-contents)
   * [Dobre źródła](#dobre-%C5%BAr%C3%B3d%C5%82a)
   * [Inne zbiory Pytań i Odpowiedzi](#inne-zbiory-pyta%C5%84-i-odpowiedzi)
