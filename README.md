@@ -4,7 +4,7 @@
     <img align="center" width="300px" src="imgs/logo.png"></center>
 </div>
 
-<div style="background-color: coral;">A z zagrożeń żadne wymienione przez Zielińskiego nie ma sensu.</div>
+<div style="background-color: gray;"><p>A z zagrożeń żadne wymienione przez Zielińskiego nie ma sensu.</p></div>
 
 Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 
