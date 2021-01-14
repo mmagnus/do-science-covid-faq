@@ -9,46 +9,6 @@ Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 Table of Contents
 =================
 
-* [Do Science\! Covid FQA](#do-science-covid-fqa)
-* [Table of Contents](#table-of-contents)
-  * [Dobre źródła](#dobre-%C5%BAr%C3%B3d%C5%82a)
-  * [Inne zbiory Pytań i Odpowiedzi](#inne-zbiory-pyta%C5%84-i-odpowiedzi)
-  * [Strony z które sprawdzają fejki](#strony-z-kt%C3%B3re-sprawdzaj%C4%85-fejki)
-* [Postaci, które się udzielają, a robią postawowe błędy w wypowiedziach](#postaci-kt%C3%B3re-si%C4%99-udzielaj%C4%85-a-robi%C4%85-postawowe-b%C5%82%C4%99dy-w-wypowiedziach)
-  * [prof\. Roman Zieliński](#prof-roman-zieli%C5%84ski)
-* [Wyjątkowo dobre artykuły](#wyj%C4%85tkowo-dobre-artyku%C5%82y)
-  * [Wyjątkowo dobre filmy](#wyj%C4%85tkowo-dobre-filmy)
-* [Szczepienia](#szczepienia)
-  * [Czy mRNA może być włączone do DNA?](#czy-mrna-mo%C5%BCe-by%C4%87-w%C5%82%C4%85czone-do-dna)
-    * [Przez odwrotną transkryptazę? NIE](#przez-odwrotn%C4%85-transkryptaz%C4%99-nie)
-    * [Przez retrotraspozony LINE? NIE \#LINE](#przez-retrotraspozony-line-nie-line)
-  * [W co wchodzą liposomy z mRNA?](#w-co-wchodz%C4%85-liposomy-z-mrna)
-  * [Bezpieczeństwo](#bezpiecze%C5%84stwo)
-  * [Kto ponosi odpowiedzialność za szczepienia?](#kto-ponosi-odpowiedzialno%C5%9B%C4%87-za-szczepienia)
-  * [Jak to możliwe, że tak szybko gotowa?](#jak-to-mo%C5%BCliwe-%C5%BCe-tak-szybko-gotowa)
-  * [Czy lekarze nie chcą się szczepić?](#czy-lekarze-nie-chc%C4%85-si%C4%99-szczepi%C4%87)
-  * [Szczepienia a komórki płodów?](#szczepienia-a-kom%C3%B3rki-p%C5%82od%C3%B3w)
-  * [mRNA a płody?](#mrna-a-p%C5%82ody)
-  * [Jaka jest skuteczność szczepionki na grypę sezonowa?](#jaka-jest-skuteczno%C5%9B%C4%87-szczepionki-na-gryp%C4%99-sezonowa)
-  * [Badania kliniczne Moderny trwają do?](#badania-kliniczne-moderny-trwaj%C4%85-do)
-  * [Poszczepienne problemy historycznie?](#poszczepienne-problemy-historycznie)
-  * [Co zawiera sekwencja mRNA Pfizer/BioNTech?](#co-zawiera-sekwencja-mrna-pfizerbiontech)
-* [Mega podsumowanie](#mega-podsumowanie)
-* [Stanowiska](#stanowiska)
-  * [Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID\-19 oraz testach PCR wykrywających SARS\-CoV\-2](#stanowisko-komitetu-genetyki-cz%C5%82owieka-i-patologii-molekularnej-pan-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywaj%C4%85cych-sars-cov-2)
-  * [Stanowisko to jest również podzielane przez <strong>Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej</strong>](#stanowisko-to-jest-r%C3%B3wnie%C5%BC-podzielane-przez-polskie-towarzystwo-immunologii-do%C5%9Bwiadczalnej-i-klinicznej)
-* [\#mrnawpigułce](#mrnawpigu%C5%82ce)
-  * [OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE \!11\!\!\!\!](#osoby-zmar%C5%82y-po-przyj%C4%99ciu-szczepionki-przeciwko-covid-19-wloncz-my%C5%9Blnie-11)
-  * [LUCYFERAZA RAZ\!](#lucyferaza-raz)
-  * [PRZEPIS KULINARNY NA SZCZEPIONKĘ](#przepis-kulinarny-na-szczepionk%C4%99)
-  * [CZY RNA WEJDZIE MI DO MÓZGU?](#czy-rna-wejdzie-mi-do-m%C3%B3zgu)
-  * [KIEDYŚ TO BYŁY (SŁABE) TERAPIE GENOWE](#kiedy%C5%9B-to-by%C5%82y-s%C5%82abe-terapie-genowe)
-  * [O KATAROCZŁOWIEKU GMO\!](#o-katarocz%C5%82owieku-gmo)
-* [Fejki](#fejki)
-  * [Pielęgniarka umarła w UK? NIE](#piel%C4%99gniarka-umar%C5%82a-w-uk-nie)
-
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
-
 ## Dobre źródła
 
 - Polityka: https://www.polityka.pl/TygodnikPolityka/nauka/  
