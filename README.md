@@ -4,6 +4,7 @@
     <img align="center" width="300px" src="imgs/logo.png"></center>
 </div>
 
+Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 
 Table of Contents
 =================
