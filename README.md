@@ -62,10 +62,26 @@ Po angielsku:
 
 # Postaci, które się udzielają, a robią postawowe błędy w wypowiedziach
 ## prof. Roman Zieliński
+A z zagrożeń żadne wymienione przez Zielińskiego nie ma sensu. 
+
+- to mRNA się nie replikuje! (więc cały ten fragment, góra tekstu, nie ma zupełnie sensu)
+- mRNA nie włącza się do DNA (więc kolejny fragment nie ma zupełnie sensu, i jest zbudowany na argumencie, że kiedyś używana DNA w terapiach genowych i ono mogło się włączyć do DNA) - w komórkach ludzkich nie ma ŻADNEGO enzymu, który wziąć mRNA ze szczepionki i je przepisać na DNA a następnie włączyć to DNA do genomu człowieka.
+- Telomeraza nie może sobie działać na byle jakim mRNA, więc nie zadziała na mRNA.
+
+Zresztą jakby tak było, to sama infekcja Covidem powodowałaby, że jego RNA wchodziłby do naszych genów i je zmieniał, a o tym jakoś nikt nie mówi. Dlatego mRNA szczepionki miałby by się integrować w genom a RNA z wirusa już nie?
+
 Długi opis problemu z wywiadem z prof. Zielińskim https://biokompost.wordpress.com/2020/12/23/nieuctwo-z-glupiej-gory/?fbclid=IwAR0AKAWou6hXMJqS10Za2xToZufeHXjR20EMYtRw8Kh349n_kbPQ88RiHas 
 
 # Szczepienia
 ## Czy mRNA może być włączone do DNA?
+- to mRNA się nie replikuje!
+- mRNA nie włącza się do DNA (więc kolejny fragment nie ma zupełnie sensu, i jest zbudowany na argumencie, że kiedyś używana DNA w terapiach genowych i ono mogło się włączyć do DNA) - w komórkach ludzkich nie ma ŻADNEGO enzymu, który wziąć mRNA ze szczepionki i je przepisać na DNA a następnie włączyć to DNA do genomu człowieka.
+- Telomeraza nie może sobie działać na byle jakim mRNA, więc nie zadziała na mRNA.
+
+Zresztą jakby tak było, to sama infekcja Covidem powodowałaby, że jego RNA wchodziłby do naszych genów i je zmieniał, a o tym jakoś nikt nie mówi. Dlatego mRNA szczepionki miałby by się integrować w genom a RNA z wirusa już nie?
+
+
+
 ### Przez odwrotną transkryptazę? NIE
 
 ### Przez retrotraspozony LINE? NIE #LINE
@@ -131,14 +147,18 @@ Skuteczność szczepionki na grypę to około 60%, te szczepionki na covid maja 
 
 FDA do 2020 https://www.fda.gov/media/144637/download 
 
-## Poszczepienne problemy?
+## Poszczepienne problemy historycznie?
+
 Tak, były takie, choć też jest to podważane, ale być może konkretna szczepionka nie była w pełni bezpieczna.
 
 Narkolepsja
 - https://biotechnologia.pl/farmacja/tajemnica-poszczepiennej-narkolepsji-wyjasniona,15407
 - https://www.mp.pl/szczepienia/specjalne/221171,narkolepsja-i-szczepienie-przeciwko-grypie-pandemicznej 
 
+## Co zawiera sekwencja mRNA Pfizer/BioNTech?
 
+- https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+- https://randomseed.pl/rna/reverse-engineering-kodu-zrodlowego-szczepionki-biontech-pfizer-covid-sars-cov-2/
 
 # Fejki
 
@@ -148,6 +168,11 @@ Nie, nie umarła.
 https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html
 
 # #mrnawpigułce
+
+https://www.facebook.com/hashtag/mrnawpigułce
+
+
+
 ## OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE !11!!!!
 
 Zasady antytrolla!
@@ -423,3 +448,46 @@ Nawet jak ktoś już oglądał, to warto sobie od czasu do czasu przypomnieć ![
 ![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/t4b/2/16/1f4cc.png)  Grafika stąd: „Here’s the visual proof of why vaccines do more good than harm” [https://www.sciencemag.org/.../here-s-visual-proof-why...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.sciencemag.org%2Fnews%2F2017%2F04%2Fhere-s-visual-proof-why-vaccines-do-more-good-harm%3Futm_campaign%3DScienceNow%26utm_source%3DContractor%26utm_medium%3DFacebook%26fbclid%3DIwAR30C-BHeoS6lVps4g3n5rq8nYVvR9-3Afee-TGAGkhOVPIB7NVpieLk54A&h=AT22lLgxVTmJgeOnMwadg0IUN5oTJ-c13VdTqu_WRbJ5kFrsw3OCLIwOkMmxSOSVG7JYllhtFkxnheeTsSRPgJpqiQhibQhr2NvxWIOQMKyHo5EEzG6pSbDHb-sRGiIZQQ2gqSI&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s)
 
 Mam nadzieję, że komuś się to przyda. Enjoy!
+
+
+
+# PAN 2021
+
+
+
+**STANOWISKO**
+**Komitetu Genetyki Człowieka i Patologii Molekularnej PAN**
+**w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID-19 oraz testach PCR wykrywających SARS-CoV-2**
+**z dnia 4 stycznia 2021 roku**
+
+W ostatnim czasie, głównie w mediach społecznościowych, ukazują się wypowiedzi pod postacią wywiadów, sygnowane przez osoby posiadające tytuł naukowy. Wypowiedzi te wprowadzają dezinformację na temat wirusa SARS-CoV-2 i szczepionek przeciw COVID-19. Jednym z przykładów jest internetowy wywiad O szczepionce genetycznej Pfizera i testach PCR prof. Romana Zielińskiego udzielony Agnieszce Kisielewskiej. Takie wypowiedzi pozostają w sprzeczności z aktualnym stanem wiedzy w zakresie genetyki medycznej i diagnostyki laboratoryjnej.
+Członkowie Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, reprezentanci z wyboru krajowego środowiska genetyków medycznych i patologów, zaniepokojeni brakiem podstaw naukowych takich wypowiedzi i ich ewidentną szkodliwością społeczną, czują się w obowiązku ostrzec potencjalnych czytelników.
+\1. Autorzy wypowiedzi **nie są fachowcami w zakresie genetyki medycznej**. Diagnostyka laboratoryjna i genetyka medyczna to odrębne dziedziny, w których autorzy wypowiedzi nie mają recenzowanego dorobku publikacyjnego. Świadczy o tym baza PubMed, prezentująca wszystkie istotne publikacje biomedyczne na świecie, gdzie autorzy wypowiedzi reprezentowani są w sposób ilościowo i jakościowo marginalny. Żadna z ich prac nie dotyczy genetyki człowieka, tylko np. mikroorganizmów lub małż z Jeziora Miedwie. Według miarodajnej bazy Scopus, również wskaźniki bibliometryczne tychże autorów są w rzeczywistości istotnie niższe od podawanych w tekście.
+\2. Przedstawiane tezy konstruowane są w sposób niejasny, przy użyciu szczątkowej, nierzadko opacznej, wiedzy biologicznej. **Nadmierne posługiwanie się naukowym żargonem** u niezorientowanego odbiorcy ma wywołać wrażenie merytorycznej kompetencji.
+Komitet z zasady nie dyskutuje problematyki nie popartej dowodami naukowymi. Jednak w tym przypadku, widząc jakie szkody pociąga za sobą zaistnienie przedmiotowych tez w przestrzeni publicznej, uznano za właściwe sprostowanie najbardziej rażących z nich:
+a. **Próba dyskredytacji molekularnych testów** na obecność SARS-CoV-2, opartych o technikę PCR lub ilościową RT-PCR jest błędna. Wyjaśniono to już w https://konkret24.tvn24.pl/zdrowie,110/wywiad-o-nieskutecznosci-testow-na-covid-19-wyjasniamy-manipulacyjne-tezy,1028628.html. Techniki te dają się doskonale wystandaryzować, szczególnie w ich odmianie ilościowej, używanej w identyfikacji wirusa SARS-CoV-2. Istotą techniki PCR jest specyficzne namnożenie niewielkiej liczby kopii ściśle określonego fragmentu materiału genetycznego, nawet w mieszaninie zawierającej przewagę innych sekwencji. Specyficzność prawidłowo zaprojektowanej reakcji, przy równoczesnym zastosowaniu odpowiednich kontroli, jest jedną z niekwestionowanych zalet techniki PCR, która od lat stanowi złoty standard w molekularnej diagnostyce genetycznej na całym świecie.
+b. **Jest nieprawdą**, że RNA podawany w szczepionce przeciw COVID-19 zostaje przepisany na DNA. Podawana w szczepionce konstrukcja genowa(mRNA) nie ulega odwrotnej transkrypcji, nie wnika do jądra komórkowego, nie zostaje również wbudowana do genomu komórkowego. RNA stanowi tylko matrycę w procesie translacji zachodzącej w cytoplazmie, umożliwiając komórce gospodarza syntezę jednego określonego białka wirusowego (nie całego wirusa). Białko to tworzy kolec koronawirusa SARS-CoV-2 i przeciwko niemu uruchamiana jest odpowiedź immunologiczna organizmu. A o to właśnie w szczepionce chodzi. Dodatkowo, podany mRNA, ze względu na swoją znaczną niestabilność (stąd uciążliwa konieczność transportu w temp. -70 st. C), po uruchomieniu procesu translacji ulega nieodwracalnemu rozpadowi.
+c. **Szczepionki anty-COVID-19** oparte są na opracowywanym przez wiele lat modelu molekularnych szczepionek mRNA i poddawane były badaniom klinicznym zgodnie ze standardowymi procedurami. To, że nie rekomenduje się podawania ich ciężarnym, wynika z konieczności przeprowadzenia w dalszej kolejności dodatkowego, odrębnego cyklu badań, co jest elementem standardowej procedury badań klinicznych leków. 
+d. **Rzekomo negatywny wpływ szczepionki na procesy rozrodcze** powodowany ma być podobieństwem białka kolca wirusa i białka syncytyny. W wypowiedziach internetowych mylone są pojęcia homologii i reakcji krzyżowych. Białko kolca wirusa SARS-CoV-2 i syncytyna zawierają niewielkie fragmenty o pewnym podobieństwie sekwencji aminokwasów, jednak nie oznacza to że przeciwciała na to białko będą reagowały z syncytyną. Fragment jaki białko kolca (glikoproteina S) dzieli z syncytynami jest zbyt mały, aby wywołać immunologiczną reakcję krzyżową. Nie wykazano reaktywności krzyżowej swoistych przeciwciał antywirusowych z syncytyną człowieka obecną w plemnikach. Nie stwierdzono także wpływu infekcji SARS-CoV-2, a tym bardziej szczepienia przeciw COVID-19, na zdrowie reprodukcyjne kobiet. Podsumowując, nie ma żadnych naukowo uzasadnionych przyczyn aby sądzić, że szczepionka może w jakikolwiek sposób zagrażać płodności kobiet lub mężczyzn czy rozrodowi w ogólności.
+\3. Powszechnym obyczajem w nauce jest poddawanie wszelkich wyników badań **recenzji zewnętrznej**, dokonywanej przez niezależnych specjalistów będących autorytetami z danej dziedziny. Tezy z omawianych wywiadów takiego procesu nigdy nie przeszły. Członkowie Komitetu, jako profesjonaliści, mogliby takiej recenzji dokonać, jednak najpierw tezy takie musiałyby zostać sformułowane w sposób właściwy dla prac naukowych, a nie funkcjonować jedynie w postaci bezkrytycznie publikowanych enuncjacji medialnych.
+Przypominamy, że aktualną wiedzę naukową na temat pandemii można uzyskać na stronie [www.naukaprzeciwpandemii.pl](http://www.naukaprzeciwpandemii.pl/).
+Członkowie Komitetu z całą mocą podkreślają, że jedyną naukowo umocowaną metodą kontrolowanego przerwania epidemii SARS-CoV-2 jest zaszczepienie się szczepionką przeciw COVID-19.
+
+
+Pod stanowiskiem podpisało się 34 członków Komitetu ([lista w załączeniu](http://www.komgen.pan.pl/images/pdf/kgcipm-stanowisko-szczepienia-COVID-19-podpisy.pdf)).
+
+[Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN](http://www.komgen.pan.pl/images/pdf/kgcipm-stanowisko-szczepienia-COVID-19-tekst.pdf)
+
+
+Za Komitet Genetyki Człowieka 
+i Patologii Molekularnej PAN
+
+Przewodniczący
+/-/ prof. dr hab. med. Michał Witt
+
+ 
+
+Stanowisko to jest również podzielane przez **Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej**, reprezentowane przez prof. dr hab. Macieja Kurpisza, Prezesa Towarzystwa. Tekst stanowiska załączono poniżej.
+
+[Stanowisko Polskiego Towarzystwa Immunologii Doświadczalnej i Klinicznej](http://www.komgen.pan.pl/images/pdf/PTiDK-stanowisko2021-01-12.pdf)
+
