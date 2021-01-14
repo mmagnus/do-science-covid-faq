@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="right">
 
   <h1>do-science-covid-faq</h1>
     <img align="center" width="300px" src="imgs/logo.png"></center>
