@@ -9,7 +9,7 @@ Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 Table of Contents
 =================
 
-* [do\-science\-covid\-faq](#do-science-covid-faq)
+
 * [Table of Contents](#table-of-contents)
   * [Dobre źródła](#dobre-%C5%BAr%C3%B3d%C5%82a)
   * [Inne zbiory Pytań i Odpowiedzi](#inne-zbiory-pyta%C5%84-i-odpowiedzi)
