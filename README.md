@@ -4,7 +4,18 @@
     <img align="center" width="300px" src="imgs/logo.png"></center>
 </div>
 
-<div style="background-color: gray;"><p>A z zagrożeń żadne wymienione przez Zielińskiego nie ma sensu.</p></div>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+```diff
+A z zagrożeń żadne wymienione przez Zielińskiego nie ma sensu.
+```
+
 
 Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 
