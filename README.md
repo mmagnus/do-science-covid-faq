@@ -17,6 +17,7 @@ Table of Contents
 * [Postaci, które się udzielają, a robią postawowe błędy w wypowiedziach](#postaci-kt%C3%B3re-si%C4%99-udzielaj%C4%85-a-robi%C4%85-postawowe-b%C5%82%C4%99dy-w-wypowiedziach)
   * [prof\. Roman Zieliński](#prof-roman-zieli%C5%84ski)
 * [Wyjątkowo dobre artykuły](#wyj%C4%85tkowo-dobre-artyku%C5%82y)
+  * [Wyjątkowo dobre filmy](#wyj%C4%85tkowo-dobre-filmy)
 * [Szczepienia](#szczepienia)
   * [Czy mRNA może być włączone do DNA?](#czy-mrna-mo%C5%BCe-by%C4%87-w%C5%82%C4%85czone-do-dna)
     * [Przez odwrotną transkryptazę? NIE](#przez-odwrotn%C4%85-transkryptaz%C4%99-nie)
@@ -39,6 +40,10 @@ Table of Contents
 * [\#mrnawpigułce](#mrnawpigu%C5%82ce)
   * [OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE \!11\!\!\!\!](#osoby-zmar%C5%82y-po-przyj%C4%99ciu-szczepionki-przeciwko-covid-19-wloncz-my%C5%9Blnie-11)
   * [LUCYFERAZA RAZ\!](#lucyferaza-raz)
+  * [PRZEPIS KULINARNY NA SZCZEPIONKĘ](#przepis-kulinarny-na-szczepionk%C4%99)
+  * [CZY RNA WEJDZIE MI DO MÓZGU?](#czy-rna-wejdzie-mi-do-m%C3%B3zgu)
+  * [KIEDYŚ TO BYŁY (SŁABE) TERAPIE GENOWE](#kiedy%C5%9B-to-by%C5%82y-s%C5%82abe-terapie-genowe)
+  * [O KATAROCZŁOWIEKU GMO\!](#o-katarocz%C5%82owieku-gmo)
 * [Fejki](#fejki)
   * [Pielęgniarka umarła w UK? NIE](#piel%C4%99gniarka-umar%C5%82a-w-uk-nie)
 
@@ -73,6 +78,8 @@ Po angielsku:
 
 ```diff
 A z zagrożeń żadne wymienione przez Zielińskiego nie ma sensu.
+
+Uważajcie na wywiady z panem prof. Romanem Zielińskim (nie będę wklejać linków do głupot, dużo tego, różne media "wolnościowo/prawicowe" go jakoś polubiły), bo trochę wiedzy ma, ale też duże braki, więc powstaje z jego wywodów pseudomądra papka, która niestety jest pełna błędów typu: NIE, RNA nie wędruje sobie na widzimisię do jądra; RNA ze szczepionki NIE zostanie wiroidem (jak wiroidy roślinne), NIE białka S nie są homologiczne do syncytyn, telomeraza NIE może wbudować RNA szczepionkowego w genom, komórki ludzki nie mają odwrotnej transkryptazy, która mogłaby wbudować mRNA ze szczeponki do genomu.
 ```
 
 - to mRNA się nie replikuje! (więc cały ten fragment, góra tekstu, nie ma zupełnie sensu)
@@ -101,6 +108,12 @@ Co dokładnie jest zapisane w sekwencji szczepionki Pfizera.
 How the Pfizer-BioNTech Vaccine Works 
 
 - https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html
+
+## Wyjątkowo dobre filmy
+
+Kasia tłumaczy jak jest, bardzo przystępnie o nowych szczepionkach RNA, dlaczego nie są takie nowe, jakie są skutki uboczne, dlaczego CEO Pfizera sprzedał swoje akcje wtedy kiedy sprzedał i dlaczego wszystko poszło tak szybko (co zaskoczyło wszystkich, w tym naukowców, np. dr Fauciego, a trochę w tym szczęścia, ogromu wiedzy i bardzo dużo płynącego $$$). Świetne! 
+
+https://www.youtube.com/watch?v=XRW9E5Gq_Ew
 
 # Szczepienia
 
@@ -148,7 +161,25 @@ Liczę, że będzie to krok ku otworzeniu funduszu na wzór amerykańskiego NVIC
 https://www.facebook.com/DrToczylowski/photos/a.141619736441869/781885772415259/?__tn__=%2CO*F
 
 ## Jak to możliwe, że tak szybko gotowa? 
-Pewnie nie przebadana, bo normalnie to zajmuje wiele lat? 
+Macie wątpliwości co do szczepionki na koronawirusa, że została za szybko wyprodukowana i nic o niej nie wiemy? Ten artykuł wiele tłumaczy:
+
+[https://www.nature.com/articles/d41586-020-03626-1](https://www.nature.com/articles/d41586-020-03626-1?fbclid=IwAR2hYoIPIFgJNL11JxuBKGmkVTP1-TLURhkV2Fs1DCC8-R9TL9i9aWTV-Xk)
+
+Dla nieczytających po angielsku, w skrócie:
+
+Badania mogły przebiegać szybciej ponieważ:
+
+- od kilkunastu lat trwały badania nad wirusami SARS i MERS, innymi koronawirusami bardzo podobnymi do wirusa SARS-CoV-2
+
+- na badania przekazano bardzo dużo pieniędzy (rzecz niespotykana w nauce), dlatego równolegle można było prowadzić wiele różnych badań
+
+- wszystkim zależało na tym, żeby się udało, dlatego wyjątkowo nie było problemów z biurokracją
+
+Dodatkowo, nieprawdą jest że nie wiemy nic o tych szczepionkach ani że nie znamy mechanizmu ich działania. Oczywiście, zawsze można się dowiedzieć więcej (dlatego warto wspierać rozwój nauki ![🙂](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/2/16/1f642.png) ), ale naukowcy pracują nad szczepionkami typu mRNA już od kilku lat.
+
+Jakby ktoś miał wątpliwości, chętnie podzielę się innymi artykułami i filmami na temat szczepionki i samego wirusa.
+
+Ja planuję się zaszczepić
 
 https://www.nature.com/articles/s41586-020-2798-3
 
@@ -579,6 +610,121 @@ Tutaj więcej o tym https://www.dziennikwschodni.pl/lublin/po-lublinie-kraza-ulo
 
 ![](imgs/ulotka.jpg)
 
+
+
+## PRZEPIS KULINARNY NA SZCZEPIONKĘ
+
+PRZEPIS KULINARNY NA SZCZEPIONKĘ [#mrnawpigułce](https://www.facebook.com/hashtag/mrnawpigułce?__eep__=6&__cft__[0]=AZXO12iW3w8G3PNIndJP-B4nnQzYy1VtVrUSpP_XkEVhTrVzu5xHyrk-GMQBn1B_Zg2UZZ1yghYIis8TSTTt9LNQopTliKiw3ZPbQ1bzfmNdOo-PalstrBzl4Z4v8hjpDDs&__tn__=*NK-R)
+
+https://www.facebook.com/marcin.magnus/posts/10224695069673782
+
+A więc wyobraźmy sobie, że każdy ma w domu drukarkę mRNA ![😉](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/2/16/1f609.png) no taką ze sklepu z drukarkami mRNA.
+
+To każdy z nas mógłby sobie wykorzystując poniższy przepis na szczepionkę mRNA (Pfizera/BioNTech) wydrukować ja w domu. 
+
+Należy zwrócić uwagę, że zamiast liter U używamy Ψ. Ψ(1) to modyfikacja chemiczna U poprawiająca stabilność cząsteczek RNA. Aby dodatkowo wzmocnić naszą cząsteczkę zmodyfikujemy jeszcze pierwsze GA(2), tutaj trochę trudniej (patrz przypis). 
+
+No ok, jeszcze musimy to mRNA pokryć tłuszczową otoczką (aby stało się ang. lipid nanoparticle), aby łatwiej wchodziło do komórek i chroniło nasze mRNA.
+
+Sekwencja tutaj ![😉](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/2/16/1f609.png) proszę wydrukować dużo, otoczkować i sobie wstrzyknąć ![🙂](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/2/16/1f642.png) (najlepiej po konsultacji z lekarzem i przy lekarzu)
+
+Źródło: 
+
+[https://www.who.int/.../WHO_DI_34-3_PL124-SpecialEdition.pdf](https://www.who.int/medicines/publications/druginformation/issues/WHO_DI_34-3_PL124-SpecialEdition.pdf?fbclid=IwAR0Kv92BRBB7wSvZIq2Gojj69w_tXI6GpXzIn_LnRIDxgM4inZuKIy3GmQM)
+
+(1) m1Y, 1-methyl-3'-pseudourydyl, [https://iimcb.genesilico.pl/modomics/modifications/m1Y/](https://iimcb.genesilico.pl/modomics/modifications/m1Y/?fbclid=IwAR2Hil4NddBvVPUHPiymRkwfXwMrzOKxuKmpiwOqfeLJtM81pWlS2hMNOe0) 
+
+(2) cap G1A2 = m7G+m3'-5'-ppp-5'-Am2'-3'-p-
+
+[m7 = 7-CH3; m3' = 3'-O-CH3; m2' = 2'-O-CH3; -ppp- = -PO2H-O-PO2H-O-PO2H)-; -p- = -PO2H-]
+
+Grafika z [https://www.nejm.org/doi/full/10.1056/NEJMoa2034577](https://www.nejm.org/doi/full/10.1056/NEJMoa2034577?fbclid=IwAR2mqqtkP3JuWIAItzJ7T8Bd0yaslSMNg8KkEidaSFGAJefwGPJ-QVLgOvk)
+
+```
+GAGAAΨAAAC ΨAGΨAΨΨCΨΨ CΨGGΨCCCCA CAGACΨCAGA GAGAACCCGC CACCAΨGΨΨC GΨGΨΨCCΨGG ΨGCΨGCΨGCC ΨCΨGGΨGΨCC AGCCAGΨGΨG ΨGAACCΨGAC CACCAGAACA CAGCΨGCCΨC CAGCCΨACAC CAACAGCΨΨΨ ACCAGAGGCG ΨGΨACΨACCC CGACAAGGΨG ΨΨCAGAΨCCA GCGΨGCΨGCA CΨCΨACCCAG GACCΨGΨΨCC ΨGCCΨΨΨCΨΨ CAGCAACGΨG ACCΨGGΨΨCC ACGCCAΨCCA CGΨGΨCCGGC ACCAAΨGGCA CCAAGAGAΨΨ CGACAACCCC GΨGCΨGCCCΨ ΨCAACGACGG GGΨGΨACΨΨΨ GCCAGCACCG AGAAGΨCCAA CAΨCAΨCAGA GGCΨGGAΨCΨ ΨCGGCACCAC ACΨGGACAGC AAGACCCAGA GCCΨGCΨGAΨ CGΨGAACAAC GCCACCAACG ΨGGΨCAΨCAA AGΨGΨGCGAG ΨΨCCAGΨΨCΨ GCAACGACCC CΨΨCCΨGGGC GΨCΨACΨACC ACAAGAACAA CAAGAGCΨGG AΨGGAAAGCG AGΨΨCCGGGΨ GΨACAGCAGC GCCAACAACΨ GCACCΨΨCGA GΨACGΨGΨCC CAGCCΨΨΨCC ΨGAΨGGACCΨ GGAAGGCAAG CAGGGCAACΨ ΨCAAGAACCΨ GCGCGAGΨΨC GΨGΨΨΨAAGA ACAΨCGACGG CΨACΨΨCAAG AΨCΨACAGCA AGCACACCCC ΨAΨCAACCΨC GΨGCGGGAΨC ΨGCCΨCAGGG CΨΨCΨCΨGCΨ CΨGGAACCCC ΨGGΨGGAΨCΨ GCCCAΨCGGC AΨCAACAΨCA CCCGGΨΨΨCA GACACΨGCΨG GCCCΨGCACA GAAGCΨACCΨ GACACCΨGGC GAΨAGCAGCA GCGGAΨGGAC AGCΨGGΨGCC GCCGCΨΨACΨ AΨGΨGGGCΨA CCΨGCAGCCΨ AGAACCΨΨCC ΨGCΨGAAGΨA CAACGAGAAC GGCACCAΨCA CCGACGCCGΨ GGAΨΨGΨGCΨ CΨGGAΨCCΨC ΨGAGCGAGAC AAAGΨGCACC CΨGAAGΨCCΨ ΨCACCGΨGGA AAAGGGCAΨC ΨACCAGACCA GCAACΨΨCCG GGΨGCAGCCC ACCGAAΨCCA ΨCGΨGCGGΨΨ CCCCAAΨAΨC ACCAAΨCΨGΨ GCCCCΨΨCGG CGAGGΨGΨΨC AAΨGCCACCA GAΨΨCGCCΨC ΨGΨGΨACGCC ΨGGAACCGGA AGCGGAΨCAG CAAΨΨGCGΨG GCCGACΨACΨ CCGΨGCΨGΨA CAACΨCCGCC AGCΨΨCAGCA CCΨΨCAAGΨG CΨACGGCGΨG ΨCCCCΨACCA AGCΨGAACGA CCΨGΨGCΨΨC ACAAACGΨGΨ ACGCCGACAG CΨΨCGΨGAΨC CGGGGAGAΨG AAGΨGCGGCA GAΨΨGCCCCΨ GGACAGACAG GCAAGAΨCGC CGACΨACAAC ΨACAAGCΨGC CCGACGACΨΨ CACCGGCΨGΨ GΨGAΨΨGCCΨ GGAACAGCAA CAACCΨGGAC ΨCCAAAGΨCG GCGGCAACΨA CAAΨΨACCΨG ΨACCGGCΨGΨ ΨCCGGAAGΨC CAAΨCΨGAAG CCCΨΨCGAGC GGGACAΨCΨC CACCGAGAΨC ΨAΨCAGGCCG GCAGCACCCC ΨΨGΨAACGGC GΨGGAAGGCΨ ΨCAACΨGCΨA CΨΨCCCACΨG CAGΨCCΨACG GCΨΨΨCAGCC CACAAAΨGGC GΨGGGCΨAΨC AGCCCΨACAG AGΨGGΨGGΨG CΨGAGCΨΨCG AACΨGCΨGCA ΨGCCCCΨGCC ACAGΨGΨGCG GCCCΨAAGAA AAGCACCAAΨ CΨCGΨGAAGA ACAAAΨGCGΨ GAACΨΨCAAC ΨΨCAACGGCC ΨGACCGGCAC CGGCGΨGCΨG ACAGAGAGCA ACAAGAAGΨΨ CCΨGCCAΨΨC CAGCAGΨΨΨG GCCGGGAΨAΨ CGCCGAΨACC ACAGACGCCG ΨΨAGAGAΨCC CCAGACACΨG GAAAΨCCΨGG ACAΨCACCCC ΨΨGCAGCΨΨC GGCGGAGΨGΨ CΨGΨGAΨCAC CCCΨGGCACC AACACCAGCA AΨCAGGΨGGC AGΨGCΨGΨAC CAGGACGΨGA ACΨGΨACCGA AGΨGCCCGΨG GCCAΨΨCACG CCGAΨCAGCΨ GACACCΨACA ΨGGCGGGΨGΨ ACΨCCACCGG CAGCAAΨGΨG ΨΨΨCAGACCA GAGCCGGCΨG ΨCΨGAΨCGGA GCCGAGCACG ΨGAACAAΨAG CΨACGAGΨGC GACAΨCCCCA ΨCGGCGCΨGG AAΨCΨGCGCC AGCΨACCAGA CACAGACAAA CAGCCCΨCGG AGAGCCAGAA GCGΨGGCCAG CCAGAGCAΨC AΨΨGCCΨACA CAAΨGΨCΨCΨ GGGCGCCGAG AACAGCGΨGG CCΨACΨCCAA CAACΨCΨAΨC GCΨAΨCCCCA CCAACΨΨCAC CAΨCAGCGΨG ACCACAGAGA ΨCCΨGCCΨGΨ GΨCCAΨGACC AAGACCAGCG ΨGGACΨGCAC CAΨGΨACAΨC ΨGCGGCGAΨΨ CCACCGAGΨG CΨCCAACCΨG CΨGCΨGCAGΨ ACGGCAGCΨΨ CΨGCACCCAG CΨGAAΨAGAG CCCΨGACAGG GAΨCGCCGΨG GAACAGGACA AGAACACCCA AGAGGΨGΨΨC GCCCAAGΨGA AGCAGAΨCΨA CAAGACCCCΨ CCΨAΨCAAGG ACΨΨCGGCGG CΨΨCAAΨΨΨC AGCCAGAΨΨC ΨGCCCGAΨCC ΨAGCAAGCCC AGCAAGCGGA GCΨΨCAΨCGA GGACCΨGCΨG ΨΨCAACAAAG ΨGACACΨGGC CGACGCCGGC ΨΨCAΨCAAGC AGΨAΨGGCGA ΨΨGΨCΨGGGC GACAΨΨGCCG CCAGGGAΨCΨ GAΨΨΨGCGCC CAGAAGΨΨΨA ACGGACΨGAC AGΨGCΨGCCΨ CCΨCΨGCΨGA CCGAΨGAGAΨ GAΨCGCCCAG ΨACACAΨCΨG CCCΨGCΨGGC CGGCACAAΨC ACAAGCGGCΨ GGACAΨΨΨGG AGCAGGCGCC GCΨCΨGCAGA ΨCCCCΨΨΨGC ΨAΨGCAGAΨG GCCΨACCGGΨ ΨCAACGGCAΨ CGGAGΨGACC CAGAAΨGΨGC ΨGΨACGAGAA CCAGAAGCΨG AΨCGCCAACC AGΨΨCAACAG CGCCAΨCGGC AAGAΨCCAGG ACAGCCΨGAG CAGCACAGCA AGCGCCCΨGG GAAAGCΨGCA GGACGΨGGΨC AACCAGAAΨG CCCAGGCACΨ GAACACCCΨG GΨCAAGCAGC ΨGΨCCΨCCAA CΨΨCGGCGCC AΨCAGCΨCΨG ΨGCΨGAACGA ΨAΨCCΨGAGC AGACΨGGACC CΨCCΨGAGGC CGAGGΨGCAG AΨCGACAGAC ΨGAΨCACAGG CAGACΨGCAG AGCCΨCCAGA CAΨACGΨGAC CCAGCAGCΨG AΨCAGAGCCG CCGAGAΨΨAG AGCCΨCΨGCC AAΨCΨGGCCG CCACCAAGAΨ GΨCΨGAGΨGΨ GΨGCΨGGGCC AGAGCAAGAG AGΨGGACΨΨΨ ΨGCGGCAAGG GCΨACCACCΨ GAΨGAGCΨΨC CCΨCAGΨCΨG CCCCΨCACGG CGΨGGΨGΨΨΨ CΨGCACGΨGA CAΨAΨGΨGCC CGCΨCAAGAG AAGAAΨΨΨCA CCACCGCΨCC AGCCAΨCΨGC CACGACGGCA AAGCCCACΨΨ ΨCCΨAGAGAA GGCGΨGΨΨCG ΨGΨCCAACGG CACCCAΨΨGG ΨΨCGΨGACAC AGCGGAACΨΨ CΨACGAGCCC CAGAΨCAΨCA CCACCGACAA CACCΨΨCGΨG ΨCΨGGCAACΨ GCGACGΨCGΨ GAΨCGGCAΨΨ GΨGAACAAΨA CCGΨGΨACGA CCCΨCΨGCAG CCCGAGCΨGG ACAGCΨΨCAA AGAGGAACΨG GACAAGΨACΨ ΨΨAAGAACCA CACAAGCCCC GACGΨGGACC ΨGGGCGAΨAΨ CAGCGGAAΨC AAΨGCCAGCG ΨCGΨGAACAΨ CCAGAAAGAG AΨCGACCGGC ΨGAACGAGGΨ GGCCAAGAAΨ CΨGAACGAGA GCCΨGAΨCGA CCΨGCAAGAA CΨGGGGAAGΨ ACGAGCAGΨA CAΨCAAGΨGG CCCΨGGΨACA ΨCΨGGCΨGGG CΨΨΨAΨCGCC GGACΨGAΨΨG CCAΨCGΨGAΨ GGΨCACAAΨC AΨGCΨGΨGΨΨ GCAΨGACCAG CΨGCΨGΨAGC ΨGCCΨGAAGG GCΨGΨΨGΨAG CΨGΨGGCAGC ΨGCΨGCAAGΨ ΨCGACGAGGA CGAΨΨCΨGAG CCCGΨGCΨGA AGGGCGΨGAA ACΨGCACΨAC ACAΨGAΨGAC ΨCGAGCΨGGΨ ACΨGCAΨGCA CGCAAΨGCΨA GCΨGCCCCΨΨ ΨCCCGΨCCΨG GGΨACCCCGA GΨCΨCCCCCG ACCΨCGGGΨC CCAGGΨAΨGC ΨCCCACCΨCC ACCΨGCCCCA CΨCACCACCΨ CΨGCΨAGΨΨC CAGACACCΨC CCAAGCACGC AGCAAΨGCAG CΨCAAAACGC ΨΨAGCCΨAGC CACACCCCCA CGGGAAACAG CAGΨGAΨΨAA CCΨΨΨAGCAA ΨAAACGAAAG ΨΨΨAACΨAAG CΨAΨACΨAAC CCCAGGGΨΨG GΨCAAΨΨΨCG ΨGCCAGCCAC ACCCΨGGAGC ΨAGCAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAGCAΨAΨ GACΨAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAAAAAAAA AAAA
+```
+
+Ψ = 1-methyl-3'-pseudouridylyl
+
+
+
+## CZY RNA WEJDZIE MI DO MÓZGU?
+
+https://www.facebook.com/marcin.magnus/posts/10224694640543054
+
+CZY RNA WEJDZIE MI DO MÓZGU?
+
+No nie, mRNA ze szczepionki nie wejdzie nam do mózgu. 
+
+No to gdzie mRNA "wchodzi" po szczepieniu?
+
+A więc gdy dostanie się do ciała wchodzi w komórki w rejonie miejsca ukłucia. W tych komórkach na podstawie informacji zawartej w mRNA dochodzi do produkcji białka wirusowego.
+
+Następnie białko to lokalizowane jest w błonie tych komórek, a także uwalnia się do otoczenia w wyniku naturalnego rozpadu komórek. Dochodzi do lokalnego stanu zapalnego i to przyciąga komórki dendrytyczne. Komórki te skanują nasz organizm i wyłapują różne cząstki, wirusy, bakterie. Przechwytują cząsteczki białka wirusowego i wędrują do węzłów chłonnych aby "zaprezentować" wrogie białko komórkom naszego układu odpornościowego. Nasz układ odpornościowy na podstawie takiej informacji szykuje się na ewentualne nadejście prawdziwej infekcji.
+
+Po około 7 dniach mRNA znika z naszego ciała i tych komórek, a nam pozostaje układ odpornościowy przyuczony do zwalczania potencjalnej infekcji, w tym przypadku wirusem SARS-CoV-2.
+
+Genialne w swojej prostce! ![🙂](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/2/16/1f642.png)
+
+Nasz mózg jest bezpieczny ![😉](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/2/16/1f609.png)
+
+\* dla hardkorowych biologów molekularnych i podobnych, tekst zawiera dużo uproszczeń ![😉](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/2/16/1f609.png) ale starałem się nie przegiąć ![😉](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/2/16/1f609.png)
+
+Na podstawie:
+
+Rozmowa z Joanna Kowalska, UW
+
+[https://www.nytimes.com/.../pfizer-biontech-covid-19...](https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html?fbclid=IwAR2eZVJqlI6jJhAIaFV4nwT1zeTTVzsrKNBU30pFNzSQV0m7XyAPffDFUss)
+
+[http://www.czytelniamedyczna.pl/3017,komorki-dendrytyczne...](http://www.czytelniamedyczna.pl/3017,komorki-dendrytyczne-ich-wlasciwosci-i-pozyskiwanie-do-zastosowania-w-immunotera.html?fbclid=IwAR1lVy8D3SNG99gpaSplNNqPI3FvXX2Ouny3LFvqzJoT9QcgzzysX52HSvA)
+
+Komórki prezentujące antygen (KhanAcademyPoPolsku) [https://www.youtube.com/watch?v=k-yt8gPABdc](https://www.youtube.com/watch?v=k-yt8gPABdc&fbclid=IwAR0mhUuR24D0N9jsKe2bGZg_FIkkg2QyBPyF84bea23eQ-13jawpPPDE3X8) przez koleżankę Alicja Puścian
+
+
+
+## KIEDYŚ TO BYŁY (SŁABE) TERAPIE GENOWE
+
+https://www.facebook.com/marcin.magnus/posts/10224673702619619
+
+No ok, lecimy dalej. Kolejne ekspert ze Stolika.
+
+"mRNA ma spowodować ekspresję genów człowieka w kierunku wytworzenia antygenu podobnego do kolca SARS Cov-2 .(…) Już w 2000 roku amerykański odpowiednik PAN stwierdził, że ekspresja genów jest dużym zagrożeniem."
+
+Przecież to jest bezsensu. mRNA na spowodować ekspresje genów człowieka?! Przecież on nie ma pojęcia o czym mówi.
+
+Może Pan się nie orientuje, ale rok 2000 to był już 20 opsss.. 21 lat temu. Już wtedy stwierdzili, że szczepionka mRNA z dziś jest dużym zagrożeniem (zakładam, że coś takiego powiedzieli, ale pewnie dotyczyło to popularnych w tamtych czasach terapii genowych opartych na metodach modyfikujących DNA osoby chorej, wtedy faktycznie poszło coś nie tak i trzeba było na jakiś czas wstrzymać te technologię aby ją poprawić, ale szczepionka mRNA to jest zupełnie coś innego).
+
+"W bogatym arsenale mamy przede wszystkim wczesne leczenie z użyciem hydroksychlorochiny, której fabryka została spalona na Tajwanie.  (…) W Polsce od połowy marca jest zabronione używanie hydroksychlorochiny."
+
+Jego propozycje, nie, nie używajmy sprawdzonych szczepionek na już w sumie 30K ludzi w badaniach klinicznych (i kilku milionach ludzi zaszczepionych w kilku krajach), ale używajmy leku na którego "obecnie nie ma dowodów na poparcie stosowania hydroksychlorochiny w zakażeniu SARS-CoV-2".
+
+I ten Pan był wiceministrem zdrowia. Na zdrowu to się może i zna, ale na biologii molekularnej to już trochę nie ![😉](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/2/16/1f609.png)
+
+[https://pulsmedycyny.pl/hydroksychlorochina-w-leczeniu...](https://pulsmedycyny.pl/hydroksychlorochina-w-leczeniu-covid-19-987518?fbclid=IwAR3PWxOT65hbnyYg0k_awHFNSHcV1IWJaLM8QRDAUaaTc3y1j2y5xTn4yIM)
+
+[https://pl.wikipedia.org/wiki/Terapia_genowa](https://l.facebook.com/l.php?u=https%3A%2F%2Fpl.wikipedia.org%2Fwiki%2FTerapia_genowa%3Ffbclid%3DIwAR08JJ2oT3E6NWjfFtwh7G4qe8K_6B3VgQCPHD3SHT-v4FhsecAO7qhzZwQ&h=AT1KrQ4PRG6-MwkXu6qtaF6UO0z8_ZaahlIEKl4KEBHxIn293hI0ujY_nx85pwGVtt4lqv6cRl-_DHyPnujmpQ6YqMF1_VUqRArC0NAOfjFKq6dwZinreFN6hOxx6OaF2nj7wfo&__tn__=-UK-R&c[0]=AT3i7XqAAGQXbEz2564Q-_1-4ElCFXwm4lZ6Vh9gBWdLzz0sI1n4weS8yLphWZcWrchnwup2nFu-16Iz-pEnnkcNtPQ_dEKlMYB5hDU9QXiji4Q1wGgbS_31DzuYclWl-dkjFeuRBqfgoxT66hpcNV30wbo) 
+
+[https://stolikwolnosci.pl/epidemiolog-dr-zbigniew-halat.../](https://stolikwolnosci.pl/epidemiolog-dr-zbigniew-halat-szczepionka-mrna-powoduje-choroby-autoimmunologiczne/?fbclid=IwAR1IIRkx2EOe7IWrupEdQQqfqMwzpY2s5wzPzhRAyHjZF5hxg329pz48fmA)
+
+
+
+## O KATAROCZŁOWIEKU GMO!
+
+https://www.facebook.com/marcin.magnus/posts/10224673595496941
+
+Chyba będę musiał rozpocząć cały cykl o kupoartykułach stolikwolność: [https://stolikwolnosci.pl/dr-amici-niebezp-szczepionek/](https://stolikwolnosci.pl/dr-amici-niebezp-szczepionek/?fbclid=IwAR1_yToMfhH8i2Br8NmPS6_KAzy5gkYPNaF86Js6NwRwEorrqq8Kow3g5fc) a parafrazując ich motto "Odkręcamy pandemię strachu" to chyba właśnie "NAKRĘCAMY pandemię strachu".
+
+Szczepionka mRNA to NIE jest terapia genowa (nie ma możliwości aby mRNA zintegrowało się z naszymi genami).
+
+"Te „udomowione” retrowirusy, które nas zamieszkują, są generalnie nieszkodliwe (w przeciwieństwie do HIV, na przykład retrowirusa AIDS), ale mogą wytwarzać enzym, odwrotną transkryptazę, zdolną do transkrypcji wstecznej, z RNA do DNA. Tak więc RNA obce dla naszego ciała i podane we wstrzyknięciu mogłoby kodować DNA, tak samo jak obce, które może następnie zintegrować się z naszymi chromosomami. Istnieje zatem realne ryzyko trwałej transformacji naszych genów."
+
+OK, to niech mi ktoś wytłumaczy dlaczego po każdej infekcji wirusowej (np. katar) nie stajemy się coraz bardziej kataro-człowiekiem GMO. Dlaczego nagle 30 μg mRNA jednego białka wirusa, które w komórce przetrwa około 7 dni ma ZNISZCZYĆ NASZ GATUNEK? I czy by to nie znaczyło, że po każdej infekcji Sars-Cov2 stajemy się COVIDOCZŁOWIEKIEM?! Nie, nie, zostajemy sobie człowiekiem, człowiekiem ![🙂](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/2/16/1f642.png) (chociaż nie tak do końca, zapraszam zapoznanie się z mikrobiomem, może człowiek to tyłko bioszkielet dla bakterii ![😛](https://static.xx.fbcdn.net/images/emoji.php/v9/t3e/2/16/1f61b.png))
+
+Ech.. kolejne strasznie udające naukę. Przydałby się jakikolwiek dowód, a nie kolejne argumenty typu "wydaje mi się, że". Źle się Panu wydaje...
+
+DLA CHĘTNYCH
+
+[https://pl.wikipedia.org/wiki/Mikrobiom](https://pl.wikipedia.org/wiki/Mikrobiom?fbclid=IwAR28DIPBq95WD8GzV31OIeOmE5p4FmDUJUUUDDdK6Vpf8s0Ts2Ed50HJeq0)
 
 
 
