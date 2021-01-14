@@ -451,14 +451,11 @@ Nawet jak ktoś już oglądał, to warto sobie od czasu do czasu przypomnieć ![
 
 Mam nadzieję, że komuś się to przyda. Enjoy!
 
-# PAN 2021
+# Stanowiska
 
-**STANOWISKO**
-**Komitetu Genetyki Człowieka i Patologii Molekularnej PAN**
-**w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID-19 oraz testach PCR wykrywających SARS-CoV-2**
-**z dnia 4 stycznia 2021 roku**
+## Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID-19 oraz testach PCR wykrywających SARS-CoV-2
 
-W ostatnim czasie, głównie w mediach społecznościowych, ukazują się wypowiedzi pod postacią wywiadów, sygnowane przez osoby posiadające tytuł naukowy. Wypowiedzi te wprowadzają dezinformację na temat wirusa SARS-CoV-2 i szczepionek przeciw COVID-19. Jednym z przykładów jest internetowy wywiad O szczepionce genetycznej Pfizera i testach PCR prof. Romana Zielińskiego udzielony Agnieszce Kisielewskiej. Takie wypowiedzi pozostają w sprzeczności z aktualnym stanem wiedzy w zakresie genetyki medycznej i diagnostyki laboratoryjnej.
+W ostatnim czsie, głównie w mediach społecznościowych, ukazują się wypowiedzi pod postacią wywiadów, sygnowane przez osoby posiadające tytuł naukowy. Wypowiedzi te wprowadzają dezinformację na temat wirusa SARS-CoV-2 i szczepionek przeciw COVID-19. Jednym z przykładów jest internetowy wywiad O szczepionce genetycznej Pfizera i testach PCR prof. Romana Zielińskiego udzielony Agnieszce Kisielewskiej. Takie wypowiedzi pozostają w sprzeczności z aktualnym stanem wiedzy w zakresie genetyki medycznej i diagnostyki laboratoryjnej.
 Członkowie Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, reprezentanci z wyboru krajowego środowiska genetyków medycznych i patologów, zaniepokojeni brakiem podstaw naukowych takich wypowiedzi i ich ewidentną szkodliwością społeczną, czują się w obowiązku ostrzec potencjalnych czytelników.
 
 \1. Autorzy wypowiedzi **nie są fachowcami w zakresie genetyki medycznej**. Diagnostyka laboratoryjna i genetyka medyczna to odrębne dziedziny, w których autorzy wypowiedzi nie mają recenzowanego dorobku publikacyjnego. Świadczy o tym baza PubMed, prezentująca wszystkie istotne publikacje biomedyczne na świecie, gdzie autorzy wypowiedzi reprezentowani są w sposób ilościowo i jakościowo marginalny. Żadna z ich prac nie dotyczy genetyki człowieka, tylko np. mikroorganizmów lub małż z Jeziora Miedwie. Według miarodajnej bazy Scopus, również wskaźniki bibliometryczne tychże autorów są w rzeczywistości istotnie niższe od podawanych w tekście.
@@ -493,7 +490,66 @@ Przewodniczący
 
 źródło http://www.komgen.pan.pl/index.php?option=com_content&view=article&id=140:stanowisko-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywajacych-sars-cov-2-z-dnia-4-stycznia-2021-roku&catid=32&lang=pl-pl&Itemid=188 
 
-Stanowisko to jest również podzielane przez **Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej**, reprezentowane przez prof. dr hab. Macieja Kurpisza, Prezesa Towarzystwa. Tekst stanowiska załączono poniżej.
+## Stanowisko to jest również podzielane przez **Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej**, reprezentowane przez prof. dr hab. Macieja Kurpisza, Prezesa Towarzystwa. Tekst stanowiska załączono poniżej.
 
 [Stanowisko Polskiego Towarzystwa Immunologii Doświadczalnej i Klinicznej](http://www.komgen.pan.pl/images/pdf/PTiDK-stanowisko2021-01-12.pdf)
 
+05.01.2021
+
+Stanowisko Polskiego Towarzystwa Gastroenterologii oraz Konsultanta Krajowego w dziedzinie gastroenterologii w sprawie szczepień przeciw COVID-19 u pacjentów z nieswoistymi chorobami zapalnymi jelit.
+
+**NOWE !!! (05.01.2021)**. Wersja do druku (pdf) - [LINK](http://www.ptg-e.org.pl/pobierz/d303dfe7cdaf6add835ba3ae39fdc506/)
+
+ 
+
+Piotr Eder (1), Michał Łodyga (2), Agnieszka Dobrowolska (1), Jarosław Reguła (3), Grażyna Rydzewska (2,4)
+
+1. Katedra i Klinika Gastroenterologii, Dietetyki i Chorób Wewnętrznych, Uniwersytetu Medycznego w Poznaniu, Szpital Kliniczny im. H. Święcickiego w Poznaniu
+2. Klinika Chorób Wewnętrznych i Gastroenterologii z Pododdziałem Leczenia Nieswoistych Chorób Zapalnych Jelit, Centralny Szpital Kliniczny MSWiA w Warszawie
+3. Klinika Gastroenterologii Onkologicznej, Narodowy Instytut Onkologii im. M. Skłodowskiej-Curie Państwowy Instytut Badawczy w Warszawie
+4. Collegium Medicum, Uniwersytet Jana Kochanowskiego w Kielcach
+
+ 
+
+​          Pandemia COVID-19 (*ang*. coronavirus disease 2019) w sposób istotny zmieniła funkcjonowanie całego świata, zarówno w wymiarze zdrowotnym, społecznym, jak i gospodarczym. Stanowi największe wyzwanie cywilizacyjne dla ludzkości od czasów II wojny światowej. Jak dotąd odnotowano ponad 80 milionów zakażeń wirusem SARS-CoV-2 (*ang.* severe acute respiratory syndrome coronavirus-2), a prawie 2 miliony osób zmarło z powodu tej choroby zakaźnej (stan na dzień 04.01.2021r.) [1]. Nieznane natomiast są dokładne statystyki, dotyczące liczby pacjentów, u których zakażenie nie spowodowało zgonu, ale doprowadziło do istotnych powikłań narządowych. Nieznane są także odległe skutki przebycia zakażenia nowym gatunkiem koronawirusa.
+
+​            Biorąc pod uwagę powyższe dane, konieczne jest podjęcie działań, zmierzających do zmniejszenia częstości zakażeń SARS-CoV-2, zwłaszcza w grupach podwyższonego ryzyka ciężkiego przebiegu COVID-19. Jednym z kluczowych rozwiązań, służących temu celowi, jest wprowadzenie powszechnych szczepień przeciw COVID-19. Dzięki postępom w zakresie biotechnologii i biologii molekularnej, możliwe było stworzenie i zarejestrowanie w relatywnie krótkim czasie takich szczepionek. W chwili obecnej (stan na dzień 04.01.2021r.) dostępne są trzy szczepionki przeciw COVID-19 [2-6]. Kluczowym składnikiem zarówno preparatu Comirnaty® (producent Pfizer® oraz BioNTech®), jak i preparatu firmy Moderna®, jest fragment informacyjnego kwasu rybonukleinowego (mRNA) [2-5]. Cząsteczka mRNA po podaniu osobie szczepionej wykorzystuje aparat translacyjny gospodarza (rybosomy) do syntezy fragmentu białka S wirusa SARS-CoV-2, które odgrywa kluczową rolę w procesie zakażania komórek przez nowy gatunek koronawirusa. Proteina ta zostaje następnie zaprezentowana na błonie komórkowej komórek mięśniowych gospodarza, co generuje odpowiedź immunologiczną. Jako że cząsteczka mRNA jest bardzo nietrwała, ulega ona szybkiej degradacji wewnątrzkomórkowej. W ostatnich dniach w niektórych krajach zatwierdzono także do użytku szczepionkę o nieco odmiennym mechanizmie działania (producent AstraZeneca®). Bazuje ona na zmodyfikowanym, niezdolnym do namnażania i wywołania choroby adenowirusie, który również zawiera w swoim materiale genetycznym sekwencję, kodującą białko S wirusa SARS-CoV-2. Po podaniu, adenowirus wnika do ludzkich komórek, które następnie wytwarzają białko S, prezentują je na błonie komórkowej, wywołując odpowiedź immunologiczną [6].
+
+​               Przeprowadzone do tej pory na szeroką skalę badania kliniczne, a także praktyczne obserwacje, bazujące na wykonanych od momentu rejestracji omawianych preparatów szczepieniach, nie przyniosły żadnych niepokojących danych, dotyczących istotnego ryzyka działań niepożądanych [2-6]. Najczęściej zgłaszane są – ból w miejscu podania szczepionki i osłabienie. Objawy te ustępują zwykle w ciągu kilkudziesięciu godzin od aplikacji szczepionki. Inne niepożądane odczyny poszczepienne (np. gorączka, ból głowy) występują względnie rzadko i najczęściej także mają charakter samoograniczający. Wczesne analizy skuteczności szczepionek wskazują natomiast, że zmniejszają one nawet o 95% ryzyko objawowego zakażenia SARS-CoV-2 [2-6].  
+
+​               Jak dotąd nie udowodniono jednoznacznie, by nieswoista choroba zapalna jelit (NChZJ) istotnie zwiększała ryzyko zakażenia SARS-CoV-2, natomiast istnieją dowody, że niektóre leki mogą stanowić czynnik ryzyka ciężkiego przebiegu COVID-19 [7,8]. Dotychczas zalecane środki prewencji zakażenia wirusem SARS-CoV-2 w odniesieniu do chorych z NChZJ obejmowały jedynie metody nieswoiste (dystansowanie społeczne, stosowanie maseczek ochronnych, dezynfekcja). W świetle obecnej wiedzy nie ma badań, które jednoznacznie wskazywałyby na to czy bezpieczeństwo i skuteczność szczepienia przeciw COVID-19 wśród chorych na NChZJ różnią się w porównaniu do populacji osób bez NChZJ. Dotychczas przeprowadzone badania kliniczne, dotyczące przydatności szczepień przeciw COVID-19, nie były ukierunkowane na ocenę w grupach pacjentów w stanie immunosupresji czy pacjentów chorujących na choroby autoimmunizacyjne. Biorąc jednak pod uwagę dostępne dane naukowe na temat profilu bezpieczeństwa innych szczepionek u chorych z NChZJ, należy przypuszczać że także zatwierdzone do tej pory szczepionki przeciw COVID-19 nie będą różnić się częstością niepożądanych odczynów poszczepiennych w porównaniu do osób niechorujących na NChZJ [9,10]. Dostępne szczepionki przeciw COVID-19 należą do grupy szczepionek nieżywych, dlatego też nie mogą wywołać choroby infekcyjnej nawet u pacjentów w stanie immunosupresji. Nie ma także danych, które świadczyłyby o tym, że NChZJ lub leki stosowane w ich terapii mogą wpływać negatywnie na skuteczność szczepień przeciw COVID-19. Wyniki badań w tym kontekście w odniesieniu do innych szczepionek nie są jednoznaczne, ale większość z nich nie wskazuje, by ewentualna niższa immunogenność szczepień miała istotne znaczenie kliniczne [9,10].
+
+ 
+
+​              **Biorąc pod uwagę powyższe dane, a także uwzględniając zalecenia innych towarzystw (m.in. onkologicznych, hematologicznych), Polskie Towarzystwo Gastroenterologii, a także konsultant krajowy w dziedzinie gastroenterologii rekomendują, aby u każdego dorosłego pacjenta z NChZJ rozważyć zastosowanie czynnej immunoprofilaktyki przeciw COVID-19. Rekomendacja ta odnosi się także do pacjentów, którzy przechorowali COVID-19 (dotyczy pacjentów bez aktywnego zakażenia SARS-CoV-2) [11,12].** 
+
+ 
+
+​              Ponadto w oparciu o dotychczasową wiedzę należy stwierdzić, że:
+
+- NChZJ w stadium remisji nie stanowi przeciwwskazania do szczepienia.
+- Korzyści z zastosowania czynnej immunoprofilaktyki mogą być największe u pacjentów nie stosujących leków o działaniu immunosupresyjnym. Dlatego też u chorych, u których planowane jest włączenie terapii lekami immunomodulacyjnymi lub biologicznymi, **należy przeprowadzić szczepienia przed rozpoczęciem leczenia, o ile jest to możliwe**.
+- W przypadku stosowania leków wpływających na mechanizmy immunologiczne**, szczepienie jest również zalecane.** 
+- Racjonalne wydaje się takie zaplanowanie dawek szczepionki, aby nie nakładały się z momentem podania dawki leku biologicznego. Optymalny odstęp czasowy, jaki należy zachować między podaniem leku biologicznego, a aplikacją szczepionki, nie został jednak do tej pory jednoznacznie określony.
+- U chorych, u których stosowane przewlekle leki immunomodulacyjne warunkują remisję NChZJ, **nie należy tych leków odstawiać** i sytuacja ta nie stanowi przeciwwskazania do szczepienia przeciw COVID-19.
+- **Jedynym bezwzględnym przeciwwskazaniem** do szczepienia przeciw COVID-19 jest ogólnoustrojowa **reakcja anafilaktyczna po poprzedniej dawce szczepionki** lub **przebyta ogólnoustrojowa reakcja anafilaktyczna na substancje, wchodzące w skład szczepionki**. Należy także zachować szczególną ostrożność u osób, u których wystąpiła reakcja anafilaktyczna w przeszłości na jakąkolwiek substancję. 
+- **Przeciwwskazaniem czasowym jest aktywna, niekontrolowana postać NChZJ**. W takich sytuacjach w pierwszej kolejności należy doprowadzić do remisji choroby, a następnie ponownie przeprowadzić kwalifikację do szczepienia.
+
+​                Wraz z postępem wiedzy na temat skuteczności i bezpieczeństwa szczepień przeciw COVID-19, powyższe zalecenia będą wymagały aktualizacji. Biorąc jednak pod uwagę dotychczasowe dane naukowe, istnieją wszelkie przesłanki ku temu by sądzić, że wdrożenie powszechnej, czynnej immunoprofilaktyki przeciw zakażeniu SARS-CoV-2, jest jedynym sposobem na zakończenie trwającej obecnie pandemii. Wprowadzenie szczepień ochronnych uznawane jest za jedno z najważniejszych osiągnięć współczesnej medycyny, zmieniających historię ludzkości. Propagowanie wiedzy w tym zakresie, popartej wiarygodnymi danymi naukowymi, jest obowiązkiem każdego lekarza. Natomiast aktywne i powszechne włączanie się w program szczepień ochronnych stanowi jeden z fundamentów odpowiedzialności społecznej.   
+
+Piśmiennictwo:
+
+1. https://www.worldometers.info/coronavirus/
+2. Polack FP, Thomas SJ, Kitchin N, et al. Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine. N Engl J Med 2020; 383:2603-2615.
+3. Jackson LA, Anderson EJ, Rouphael NG, et al. An mRNA Vaccine against SARS-CoV-2 — Preliminary Report. N Engl J Med 2020; 383:1920-1931.
+4. Anderson EJ, Rouphael NG, Widge AT, et al. Safety and Immunogenicity of SARS-CoV-2 mRNA-1273 Vaccine in Older Adults. N Engl J Med 2020; 383:2427-2438.
+5. Baden LR, Sahly HM, Essink B, et al. Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine. December 30, 2020, DOI: 10.1056/NEJMoa2035389
+6. Voysey M, Costa Clemens SA, Madhi SA, et al. Safety and efficacy of the ChAdOx1 nCoV-19 vaccine(AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK. Lancet 2020, https://doi.org/10.1016/S0140-6736(20)32661-1
+7. Ungaro RC, Brenner EJ, Gearry RB, et al. Effect of IBD medications on COVID-19 outcomes: results from an international registry. http://dx.doi.org/10.1136/gutjnl-2020-322539
+8. Łodyga M, Eder P, Dobrowolska A, et al. The position statement of the Polish Society of Gastroenterology and the Polish National Consultant in Gastroenterology regarding the management of patients with inflammatory bowel disease during the COVID-19 pandemic. Gastroenterol Rev 2020; 15: 85–88.
+9. Kumar A, Quraishi M, Segal J, et al. COVID-19 vaccinations in patients with IBD. Lancet 2020; 11: 965-966.
+10. Manser C, Maillard M, Rogler G, et al. Vaccination in patients with IBD. Digestion 2020; 1010: 58-68.
+11. https://www.esmo.org/covid-19-and-cancer/covid-19-vaccination
+12. https://www.hematology.org/covid-19/ash-astct-covid-19-and-vaccines
+
+Źródło http://www.ptg-e.org.pl/Stanowisko-Polskiego-Towarzystwa-Gastroenterologii-oraz-Konsultanta-Krajowego-w-dziedzinie-gastroenterologii-w-sprawie-szczepien-przeciw-COVID-19-u-pacjentow-z-nieswoistymi-chorobami-zapalnymi-jelit-,310.html 
