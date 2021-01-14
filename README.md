@@ -16,6 +16,7 @@ Table of Contents
   * [Strony z które sprawdzają fejki](#strony-z-kt%C3%B3re-sprawdzaj%C4%85-fejki)
 * [Postaci, które się udzielają, a robią postawowe błędy w wypowiedziach](#postaci-kt%C3%B3re-si%C4%99-udzielaj%C4%85-a-robi%C4%85-postawowe-b%C5%82%C4%99dy-w-wypowiedziach)
   * [prof\. Roman Zieliński](#prof-roman-zieli%C5%84ski)
+* [Wyjątkowo dobre artykuły](#wyj%C4%85tkowo-dobre-artyku%C5%82y)
 * [Szczepienia](#szczepienia)
   * [Czy mRNA może być włączone do DNA?](#czy-mrna-mo%C5%BCe-by%C4%87-w%C5%82%C4%85czone-do-dna)
     * [Przez odwrotną transkryptazę? NIE](#przez-odwrotn%C4%85-transkryptaz%C4%99-nie)
@@ -34,7 +35,7 @@ Table of Contents
 * [Mega podsumowanie](#mega-podsumowanie)
 * [Stanowiska](#stanowiska)
   * [Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID\-19 oraz testach PCR wykrywających SARS\-CoV\-2](#stanowisko-komitetu-genetyki-cz%C5%82owieka-i-patologii-molekularnej-pan-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywaj%C4%85cych-sars-cov-2)
-  * [Stanowisko to jest również podzielane przez <strong>Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej</strong>, reprezentowane przez prof\. dr hab\. Macieja Kurpisza, Prezesa Towarzystwa\. Tekst stanowiska załączono poniżej\.](#stanowisko-to-jest-r%C3%B3wnie%C5%BC-podzielane-przez-polskie-towarzystwo-immunologii-do%C5%9Bwiadczalnej-i-klinicznej-reprezentowane-przez-prof-dr-hab-macieja-kurpisza-prezesa-towarzystwa-tekst-stanowiska-za%C5%82%C4%85czono-poni%C5%BCej)
+  * [Stanowisko to jest również podzielane przez <strong>Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej</strong>](#stanowisko-to-jest-r%C3%B3wnie%C5%BC-podzielane-przez-polskie-towarzystwo-immunologii-do%C5%9Bwiadczalnej-i-klinicznej)
 * [\#mrnawpigułce](#mrnawpigu%C5%82ce)
   * [OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE \!11\!\!\!\!](#osoby-zmar%C5%82y-po-przyj%C4%99ciu-szczepionki-przeciwko-covid-19-wloncz-my%C5%9Blnie-11)
   * [LUCYFERAZA RAZ\!](#lucyferaza-raz)
@@ -87,8 +88,19 @@ Czy też tutaj:
 
 https://github.com/mmagnus/do-science-covid-faq#stanowisko-komitetu-genetyki-człowieka-i-patologii-molekularnej-pan-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywających-sars-cov-2 
 
+# Wyjątkowo dobre artykuły
+
+Co dokładnie jest zapisane w sekwencji szczepionki Pfizera.
+
+- https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+- https://randomseed.pl/rna/reverse-engineering-kodu-zrodlowego-szczepionki-biontech-pfizer-covid-sars-cov-2/
+
+How the Pfizer-BioNTech Vaccine Works 
+
+- https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html
 
 # Szczepienia
+
 ## Czy mRNA może być włączone do DNA?
 - to mRNA się nie replikuje!
 - mRNA nie włącza się do DNA (więc kolejny fragment nie ma zupełnie sensu, i jest zbudowany na argumencie, że kiedyś używana DNA w terapiach genowych i ono mogło się włączyć do DNA) - w komórkach ludzkich nie ma ŻADNEGO enzymu, który wziąć mRNA ze szczepionki i je przepisać na DNA a następnie włączyć to DNA do genomu człowieka.
@@ -439,7 +451,11 @@ Przewodniczący
 
 źródło http://www.komgen.pan.pl/index.php?option=com_content&view=article&id=140:stanowisko-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywajacych-sars-cov-2-z-dnia-4-stycznia-2021-roku&catid=32&lang=pl-pl&Itemid=188 
 
-## Stanowisko to jest również podzielane przez **Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej**, reprezentowane przez prof. dr hab. Macieja Kurpisza, Prezesa Towarzystwa. Tekst stanowiska załączono poniżej.
+## Stanowisko to jest również podzielane przez **Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej**
+
+##  
+
+Rreprezentowane przez prof. dr hab. Macieja Kurpisza, Prezesa Towarzystwa. Tekst stanowiska załączono poniżej.
 
 [Stanowisko Polskiego Towarzystwa Immunologii Doświadczalnej i Klinicznej](http://www.komgen.pan.pl/images/pdf/PTiDK-stanowisko2021-01-12.pdf)
 
