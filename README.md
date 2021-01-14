@@ -1,6 +1,36 @@
-# do-science-covid-faq
 
-![](imgs/logo.png)
+<div align="center">
+  <img align="center" width="300px" src="imgs/logo.png"></center>
+  <h1>do-science-covid-faq</h1>
+</div>
+
+
+Table of Contents
+=================
+
+* [do\-science\-covid\-faq](#do-science-covid-faq)
+  * [Dobre źródła](#dobre-%C5%BAr%C3%B3d%C5%82a)
+  * [Inne zbiory Pytań i Odpowiedzi](#inne-zbiory-pyta%C5%84-i-odpowiedzi)
+  * [Strony z które sprawdzają fejki](#strony-z-kt%C3%B3re-sprawdzaj%C4%85-fejki)
+* [Postaci, które się udzielają, a robią postawowe błędy w wypowiedziach](#postaci-kt%C3%B3re-si%C4%99-udzielaj%C4%85-a-robi%C4%85-postawowe-b%C5%82%C4%99dy-w-wypowiedziach)
+  * [prof\. Roman Zieliński](#prof-roman-zieli%C5%84ski)
+* [Pytania](#pytania)
+  * [Czy mRNA może być włączone do DNA?](#czy-mrna-mo%C5%BCe-by%C4%87-w%C5%82%C4%85czone-do-dna)
+    * [Przez odwrotną transkryptazę? NIE](#przez-odwrotn%C4%85-transkryptaz%C4%99-nie)
+    * [Przez retrotraspozony LINE? NIE \#LINE](#przez-retrotraspozony-line-nie-line)
+  * [W co wchodzą liposomy z mRNA?](#w-co-wchodz%C4%85-liposomy-z-mrna)
+  * [Bezpieczeństwo](#bezpiecze%C5%84stwo)
+  * [Kto ponosi odpowiedzialność za szczepienia?](#kto-ponosi-odpowiedzialno%C5%9B%C4%87-za-szczepienia)
+  * [Jak to możliwe, że tak szybko gotowa?](#jak-to-mo%C5%BCliwe-%C5%BCe-tak-szybko-gotowa)
+  * [Czy lekarze nie chcą się szczepić?](#czy-lekarze-nie-chc%C4%85-si%C4%99-szczepi%C4%87)
+  * [Szczepienia a komórki płodów?](#szczepienia-a-kom%C3%B3rki-p%C5%82od%C3%B3w)
+  * [mRNA a płody?](#mrna-a-p%C5%82ody)
+  * [Jaka jest skuteczność szczepionki na grypę sezonowa?](#jaka-jest-skuteczno%C5%9B%C4%87-szczepionki-na-gryp%C4%99-sezonowa)
+  * [Badania kliniczne Moderny trwają do?](#badania-kliniczne-moderny-trwaj%C4%85-do)
+* [Pielęgniarka umarła w UK? NIE](#piel%C4%99gniarka-umar%C5%82a-w-uk-nie)
+  * [Poszczepienne problemy?](#poszczepienne-problemy)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ## Dobre źródła
 
