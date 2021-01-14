@@ -1,5 +1,7 @@
 # do-science-covid-faq
 
+![](imgs/logo.png)
+
 ## Dobre źródła
 
 - Polityka: https://www.polityka.pl/TygodnikPolityka/nauka/  
@@ -43,9 +45,7 @@ Source: internety, grupa pro-naukowa na fb
 
 ## W co wchodzą liposomy z mRNA?
 
-Do tej pory sama myślałam, ze mRNA jest dostarczane bezpośrednio do komórek dendrytycznych, ale im więcej wiadomo tym bardziej mam wątpliwości. Wydaje mi się, że po wstrzyknięciu domięśniowym mRNA zostaje tam gdzie zostało wstrzyknięte, czyli zostaje pochłonięte przez "okoliczne" komórki. Tworzy się takie miejscowe zapalenie, które przyciąga komórki dendrytyczne i aktywuje cały proces immunizacji. Nie ma raczej opcji, żeby to mRNA trafiło do odległych tkanek, czy krążyło po organizmie. Tym bardziej, że 30 ug to dawka iście homeopatyczna. My do transfekcji komórek na jednym dołku w płytce 96 dołkowej używamy 25 ng mRNA, czyli tylko 1000 razy mniej.
-
-(od Jonna Kowalska, UW)
+TODO
 
 ## Bezpieczeństwo
 
@@ -62,8 +62,6 @@ Dlaczego tak się stało?
 Szczepiona przeciwko boreliozie nie była zalecana dla wszystkich, a jedynie dla grup ryzyka, czyli osób przebywających na obszarach endemicznego występowania boreliozy. Z tego powodu LYMERix nie została objęta rządowym systemem odszkodowań powstałych po szczepieniu - National Vaccine Injury Compensation Program (NVICP). Program NVICP powstał właśnie z myślą o tym, żeby producenci szczepionek mogli zajmować się szczepieniami, a nie walkami w sądach (nie oznacza to jednak, że szczepienia nie podlegają żadnej kontroli - wciąż są to najbardziej rygorystycznie kontrolowane produkty medyczne na świecie). W przypadku licznych, nawet kompletnie nieuzasadnionych oskarżeń, producenci szczepionek musieliby podnieść ceny szczepionek lub zupełnie zrezygnowaliby z ich produkcji. Dlatego w razie powikłań, osoby poszkodowane mogą oczekiwać pomocy nie od producenta, a od rządu USA. Szczepionka LYMERix nie miała tej ochrony i została po prostu zniszczona przez liczne pozwy, plotki i fałszywe oskarżenia.
 Dlatego polski Narodowy Program Szczepień przeciwko COVID-19 uwzględnia utworzenie funduszu kompensacyjnego, z którego popłyną odszkodowania dla osób mających niepożądane odczyny poszczepienne. Pozwala to producentom zająć się dopracowywaniem szczepionki, a jednocześnie zapewnia pomoc w przypadku powikłań.
 Liczę, że będzie to krok ku otworzeniu funduszu na wzór amerykańskiego NVICP, którego moim zdaniem w Polsce bardzo brakuje. 
-
-#covid19 #szczepimysie #koronawirus See Less
 
 https://www.facebook.com/DrToczylowski/photos/a.141619736441869/781885772415259/?__tn__=%2CO*F
 
@@ -95,6 +93,11 @@ Skuteczność szczepionki na grypę to około 60%, te szczepionki na covid maja 
 ## Badania kliniczne Moderny trwają do?
 
 FDA do 2020 https://www.fda.gov/media/144637/download 
+
+# Pielęgniarka umarła w UK? NIE
+
+Nie, nie umarła.
+https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html
 
 ## Poszczepienne problemy?
 Tak, były takie, choć też jest to podważane, ale być może konkretna szczepionka nie była w pełni bezpieczna.
