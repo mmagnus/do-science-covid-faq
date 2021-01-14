@@ -4,6 +4,7 @@
     <img align="center" width="300px" src="imgs/logo.png"></center>
 </div>
 
+Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 
 Table of Contents
 =================
@@ -46,6 +47,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ## Inne zbiory Pytań i Odpowiedzi
 
+- http://www.komgen.pan.pl/index.php?option=com_content&view=article&id=140:stanowisko-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywajacych-sars-cov-2-z-dnia-4-stycznia-2021-roku&catid=32&lang=pl-pl&Itemid=188
 - https://www.gov.pl/web/szczepimysie/pytania-i-odpowiedzi
 
 ## Strony z które sprawdzają fejki
@@ -449,11 +451,7 @@ Nawet jak ktoś już oglądał, to warto sobie od czasu do czasu przypomnieć ![
 
 Mam nadzieję, że komuś się to przyda. Enjoy!
 
-
-
 # PAN 2021
-
-
 
 **STANOWISKO**
 **Komitetu Genetyki Człowieka i Patologii Molekularnej PAN**
