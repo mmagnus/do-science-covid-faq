@@ -107,6 +107,8 @@ https://www.nature.com/articles/s41586-020-2798-3
 
 https://www.polityka.pl/tygodnikpolityka/nauka/1981764,1,ekspresowe-szczepionki-na-covid-jak-powstaly-i-czy-sa-bezpieczne.read
 
+https://www.crazynauka.pl/dlaczego-szczepionka-przeciw-covid-19-powstala-tak-szybko/
+
 ## Czy lekarze nie chcą się szczepić?
 
 Jakbyście gdzieś widzieli argument "lekarze sie nie chcą szczepić" to można wrzucać to badanie PR
