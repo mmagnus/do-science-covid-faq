@@ -6,8 +6,7 @@
 
 Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 
-Table of Contents
-=================
+
 
 ## Dobre źródła
 
@@ -32,6 +31,14 @@ Po angielsku:
 
 - https://www.reuters.com/article/uk-fact-check-mrna-vaccine-storage-temp-idUSKBN28E28D
 - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters 
+
+Obowiązkowi film o prawdzie, fałszu, problemach poznawczych.
+
+Na koniec – Krótki film o prawdzie i fałszu:
+
+[https://youtu.be/T1vW8YDDCSc](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FT1vW8YDDCSc%3Ffbclid%3DIwAR2zu33Iwdh1I9XtlL86nsmlBdQ8UOjXteVJmP1JmjYd-dSzY2Ntu2hvqJw&h=AT0l8ZaYX4lrh9RYZ1RWs-JAGI0XIZwhc5wF8IqgEYovPUN2WnmsxuAqtgoYabKK0j_0yNGf1Av-FrO1Q7-NdIhFzNfj1dfZJ_ZyQ7UP5J9jIEYCX99ATvlob3hhFrvsslnl83w&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s)
+
+
 
 # Postaci, które się udzielają, a robią postawowe błędy w wypowiedziach
 ## prof. Roman Zieliński
@@ -75,8 +82,7 @@ Kasia tłumaczy jak jest, bardzo przystępnie o nowych szczepionkach RNA, dlacze
 
 https://www.youtube.com/watch?v=XRW9E5Gq_Ew
 
-# Szczepienia
-
+# FAQ
 ## Czy mRNA może być włączone do DNA?
 - to mRNA się nie replikuje!
 - mRNA nie włącza się do DNA (więc kolejny fragment nie ma zupełnie sensu, i jest zbudowany na argumencie, że kiedyś używana DNA w terapiach genowych i ono mogło się włączyć do DNA) - w komórkach ludzkich nie ma ŻADNEGO enzymu, który wziąć mRNA ze szczepionki i je przepisać na DNA a następnie włączyć to DNA do genomu człowieka.
@@ -88,7 +94,7 @@ Zresztą jakby tak było, to sama infekcja Covidem powodowałaby, że jego RNA w
 
 ### Przez odwrotną transkryptazę? NIE
 
-### Przez retrotraspozony LINE? NIE #LINE
+### Przez retrotraspozony LINE? NIE
 
 mRNA przetranskrybowane z retrotranspozonów LINE może się wiązać ze swoimi białkami ORF1 i ORF2 w cytoplazmie, tworząc tzw. kompleks rybonukleoproteinowy, który jest następnie transportowany z powrotem do jądra komórki. Tam ORF2 zaczyna odgrywać rolę endonukleazy ("otwierającej" łańcuch DNA w celu wklejenia do niego nowej kopii LINE) oraz odwrotnej transkryptazy (przepisującej mRNA z powrotem na DNA).
 
@@ -97,28 +103,6 @@ mRNA przetranskrybowane z retrotranspozonów LINE może się wiązać ze swoimi 
 Tak czy siak nie ma mowy, żeby rewertaza transpozonu albo zabłąkanego retrowirusa w rodzaju HIV uprowadziła szczepionkowe mRNA. To są enzymy specyficzne, rozpoznające "swoją" sekwencję. Używanie uniwersalnego enzymu odwrotnej transkrypcji byłoby sprzeczne z egoistycznym interesem wirusa.
 
 Source: internety, grupa pro-naukowa na fb
-
-## W co wchodzą liposomy z mRNA?
-
-TODO
-
-## Bezpieczeństwo
-
-Dlaczego uważasz, że na "argumenty naukowe" musimy poczekać? Już je mamy i są ogólnodostępne, każdy się może z nimi zapoznać - szczepionki mRNA są testowane od 30 lat, a sama szczepionka na COVID nie była tworzona od zera, a na podstawie szczepionki na SARS, która jest w użyciu od lat 18. Żadnych długofalowych skutków ubocznych nie stwierdzono. Jeśli zaś chodzi o szczepionkę na COVID, to chwilowo wśród 3 milionów zaszczepionych (na całym świecie) wystąpiło 6 reakcji alergicznych. Ponadto szczepionka była testowana tak samo jak wszystkie inne leki i szczepionki, żaden etap badań klinicznych nie został pominięty. -- Janina dailry
-
-Sęk w tym, że nasz rząd zawłaszczył sobie (propagandowo) szczepionkę wynegocjowaną przez UE. I to nie naszego rządu należy słuchać w tym zakresie, tylko naukowców i specjalistów z instytucji unijnych (European Centre for Disease Prevention and Control - ECDC i EMA), którzy nad szczepionką pracowali i którzy ją starannie zlustrowali przed jej zatwierdzeniem. Zaręczam Ci, że najmniejsza wątpliwość zdyskredytowałaby tę szczepionkę, bo nikt w UE nie zaryzykowałby zatwierdzenia preparatu dla 450 milionów ludzi, który byłby niebezpieczny. -- Ola, crazy nauka
-
-## Kto ponosi odpowiedzialność za szczepienia?
-
-Słyszeliście zapewne, że Pfizer i inni producenci szczepionek na COVID-19 nie odpowiadają za powikłania po szczepieniach? O co w tym chodzi?
-Opowiem Wam co się dzieje, kiedy firma ponosi bezpośrednią odpowiedzialność za możliwe problemy po szczepieniach. 
-Od lat 70-tych ubiegłego wieku liczba przypadków boreliozy w USA gwałtownie rosła, sięgając w śmiałych szacunkach nawet kilkudziesięciu tysięcy rocznie. Firma SmithKline Beecham Pharmaceuticals (dzisiejszy GSK) opracowała więc pierwszą na świecie szczepionkę przeciwko boreliozie - LYMERix. W badaniach klinicznych jej skuteczność oszacowano na 78%. Od 1998 do 2000 roku podano w USA około 1.5 miliona dawek. Szczepionka była dobrze tolerowana i naprawdę skuteczna. Niestety, szybko pojawiły się pierwsze doniesienia o przypuszczalnych powikłaniach po szczepieniu. Do roku 2000 w bazie VAERS zarejestrowano kilkadziesiąt poważnych skutków ubocznych tej szczepionki. Było to dokładnie 66 poważnych powikłań na 1.5 miliona dawek. Co to jest VAERS? Baza VAERS jest prostym narzędziem dostępnym dla wszystkich, przy pomocy którego każdy może zgłosić dowolne działanie niepożądane szczepienia i nie jest to weryfikowane. Trafiają tam takie zgłoszenia, jak nawet przemiana w Hulka po szczepieniu. Wydaje się bez sensu, jednak w tym vaersowym chaosie można zauważyć pewne ważne sygnały. Jest to taki szczepionkowy system wczesnego ostrzegania. Dzięki bazie VAERS z rynku wycofano np. pierwszą szczepionkę przeciwko rotawirusom, bo zauważono wyraźnie większą częstość zgłoszeń wgłobienia jelita. W przypadku szczepionki przeciwko boreliozie po przeanalizowaniu raportów uznano, że nie ma żadnych podstaw do uznania szczepionki za niebezpieczną, a raportowane powikłania nie mają związku ze szczepieniem. Jednak ziarno niepewności zostało zasiane. Firmę zaczęły zalewać pozwy sądowe. W gazetach pojawiały się sugestywne nagłówki. Ludzie przestali kupować szczepionkę i ostatecznie w roku 2002, cztery lata po jej zarejestrowaniu, firma zdecydowała wycofać swoją szczepionkę z rynku. Druga firma (współczesny Sanofi) pracująca nad konkurencyjną szczepionką, w obliczu złej reputacji LYMERix, także porzuciła swój projekt. Do dziś nie mamy szczepionki przeciwko boreliozie i prawdopodobnie jeszcze długo jej nie będziemy mieć.
-Dlaczego tak się stało? 
-Szczepiona przeciwko boreliozie nie była zalecana dla wszystkich, a jedynie dla grup ryzyka, czyli osób przebywających na obszarach endemicznego występowania boreliozy. Z tego powodu LYMERix nie została objęta rządowym systemem odszkodowań powstałych po szczepieniu - National Vaccine Injury Compensation Program (NVICP). Program NVICP powstał właśnie z myślą o tym, żeby producenci szczepionek mogli zajmować się szczepieniami, a nie walkami w sądach (nie oznacza to jednak, że szczepienia nie podlegają żadnej kontroli - wciąż są to najbardziej rygorystycznie kontrolowane produkty medyczne na świecie). W przypadku licznych, nawet kompletnie nieuzasadnionych oskarżeń, producenci szczepionek musieliby podnieść ceny szczepionek lub zupełnie zrezygnowaliby z ich produkcji. Dlatego w razie powikłań, osoby poszkodowane mogą oczekiwać pomocy nie od producenta, a od rządu USA. Szczepionka LYMERix nie miała tej ochrony i została po prostu zniszczona przez liczne pozwy, plotki i fałszywe oskarżenia.
-Dlatego polski Narodowy Program Szczepień przeciwko COVID-19 uwzględnia utworzenie funduszu kompensacyjnego, z którego popłyną odszkodowania dla osób mających niepożądane odczyny poszczepienne. Pozwala to producentom zająć się dopracowywaniem szczepionki, a jednocześnie zapewnia pomoc w przypadku powikłań.
-Liczę, że będzie to krok ku otworzeniu funduszu na wzór amerykańskiego NVICP, którego moim zdaniem w Polsce bardzo brakuje. 
-
-https://www.facebook.com/DrToczylowski/photos/a.141619736441869/781885772415259/?__tn__=%2CO*F
 
 ## Jak to możliwe, że tak szybko gotowa? 
 Macie wątpliwości co do szczepionki na koronawirusa, że została za szybko wyprodukowana i nic o niej nie wiemy? Ten artykuł wiele tłumaczy:
@@ -155,15 +139,9 @@ Jakbyście gdzieś widzieli argument "lekarze sie nie chcą szczepić" to można
 - https://www.facebook.com/DrToczylowski/photos/a.141619736441869/781732925763877
 
 
-## Szczepienia a komórki płodów?
-
-## mRNA a płody?
+## Szczepionki (mRNA) a płody?
 
 W procesie produkcji szczepionek mRNA nie wykorzystuje się linii komórkowych, nie ma mowy, o żadnych komórkach z płodów.
-
-## Jaka jest skuteczność szczepionki na grypę sezonowa?
-
-Skuteczność szczepionki na grypę to około 60%, te szczepionki na covid maja skuteczność 95% [https://www.nejm.org/doi/full/10.1056/NEJMoa2034577]
 
 ## Badania kliniczne Moderny trwają do?
 
@@ -182,29 +160,9 @@ Narkolepsja
 - https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
 - https://randomseed.pl/rna/reverse-engineering-kodu-zrodlowego-szczepionki-biontech-pfizer-covid-sars-cov-2/
 
-# Mega podsumowanie
+## Na pierwszy ogień artykuły bardziej ogólne i tylko po polsku (ale potem też jest kilka polskich).
 
-**autor: Agata**
-
-![🦠](https://static.xx.fbcdn.net/images/emoji.php/v9/t9f/2/16/1f9a0.png) ![💉](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/2/16/1f489.png)![🧬](https://static.xx.fbcdn.net/images/emoji.php/v9/tce/2/16/1f9ec.png) To jest super-długi post dotyczący szczepień (głównie opartych o mRNA) przeciwko COVID-19, a pośrednio samego wirusa SARS-CoV-2.
-
-============================
-
-Czasem zdarzy mi się dorzucić tutaj dodatkowe linki albo coś "świeższego"; oznaczam takie rzeczy emotikonką NEW --> ![🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png)
-
-============================
-
-Cześć czołem! Święta minęły, czas wrócić do wirusa ![😅](https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/2/16/1f605.png)
-
-Od kilku dni zbieram do kupy informacje o szczepionkach żeby spróbować rozwiać wątpliwości, które pewnie wiele osób ma, co do najnowszych szczepionek przeciw COVID-19. Informacji jest masa, większość z Was już pewnie rzyga tym tematem, co doskonale rozumiem. I rozumiem też, że można zgłupieć i zagubić się w gąszczu informacji (często sprzecznych) przeplatanych wyssanymi z palca kłamstwami i fejkami. Stąd ten post (który pomimo dużej ilości linków, nadal nie wyczerpuje tematu).
-
-Niestety dla osób nieczytających po angielsku - większość załączonych tekstów jest właśnie po angielsku, bo po angielsku są wszystkie publikacje naukowe. Dodatkowo publikacje są pisane dość specyficznym językiem, nie każdy się w tym odnajdzie. Bardzo (!) dobre artykuły ma też chociażby New York Times (dzielę się poniżej kilkoma z nich), ale to nadal język angielski… Starałam się wyszukiwać coś polskiego (linki oznaczone flagą Polski), a nadal sensownego i bez nadmiernych uproszczeń, ale nie jest to łatwa rzecz! (psst.. jak coś to podobno przeglądarka Chrome/google translate nieźle sobie radzi z tłumaczeniem nawet tekstów naukowych).
-
-W tym poście jedynie te linki podsuwam - bez komentarzy własnych - żeby każdy sam mógł sobie spojrzeć i poczytać. Jak coś to mogę próbować odpowiadać na bardziej szczegółowe pytania, ale ostrzegam, że nie wiem wszystkiego, bo się nie da ![🙃](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/2/16/1f643.png) Biologia jest bardzo szeroką nauką (heh, jak każda), a nasz organizm czy nawet pojedyncza komórka jest w swojej budowie i funkcjonowaniu cholernie skomplikowana. 
-
-Z racji tego, że jako tako znam się na biologii RNA (bo od licencjatu przez magisterkę, na doktoracie kończąc wszystkie moje projekty związane były z RNA), to temat szczepionki opartej o mRNA jest dla mnie ważny i ciekawy oraz na tyle istotny, że aż go poruszam w tym super długim poście ![😁](https://static.xx.fbcdn.net/images/emoji.php/v9/tee/2/16/1f601.png) 
-
-![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/t4b/2/16/1f4cc.png) Na pierwszy ogień artykuły bardziej ogólne i tylko po polsku (ale potem też jest kilka polskich). Czyli po trochu o wszystkim co związane ze szczepionką przeciwko COVID-19 (i samym wirusem):
+Czyli po trochu o wszystkim co związane ze szczepionką przeciwko COVID-19 (i samym wirusem):
 
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Skarbnica i kompendium wiedzy o szczepionkach generalnie, ale i konkretnie o tych “przeciwcovidowych” oraz o ich przyspieszonym procesie badań klinicznych. Jedno z moich ulubionych podsumowań, bo pisane bardziej naukowo niż popularno-naukowo, ale nadal przystępnie. Pod linkiem do pobrania Biała Księga “Szczepienia przeciw COVID-19. Innowacyjne – technologie i efektywność”: [https://naukaprzeciwpandemii.pl/...](https://naukaprzeciwpandemii.pl/?fbclid=IwAR1D3lDe1P96NYagTMzThRsLu6pIHCh6oP8Ac-LfbbhTwXApBXLvsEFbRow#biala-ksiega) 
 
@@ -220,13 +178,11 @@ Z racji tego, że jako tako znam się na biologii RNA (bo od licencjatu przez ma
 
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Opracowanie Polskiej Akademii Nauk, “Zrozumieć COVID”: [https://informacje.pan.pl/.../ZrozumiecCovid19...](https://informacje.pan.pl/images/2020/opracowanie-covid19-14-09-2020/ZrozumiecCovid19_opracowanie_PAN.pdf?fbclid=IwAR2DEcAJAtu6PhJdqFceOFfRs0i9uQWokklSzn1Bkp7fOCyfxeeChikgTec) 
 
-\- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Coś od Kasi Gandor: 11 pytań o szczepionki mRNA [https://youtu.be/XRW9E5Gq_Ew](https://youtu.be/XRW9E5Gq_Ew?fbclid=IwAR16odtP8lCVWcxBOHzhLbwcZU4-IyYZ0oBz-n24jLtlDmV14YZz3BbiS8s) 
-
 \- ![🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png) ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Eksperci przeciw antynauce. Rozbrajamy fake newsy o szczepionce [https://www.polityka.pl/.../2097213,1,eksperci-przeciw...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.polityka.pl%2Ftygodnikpolityka%2Fnauka%2F2097213%2C1%2Ceksperci-przeciw-antynauce-rozbrajamy-fake-newsy-o-szczepionce.read%3Ffbclid%3DIwAR0P7kDuKybNy0o2xPZdMf8exCCwm-J_55nLO-FtP6WYwful1rmpGjV2P0k&h=AT3PXpRENJiCPtfKWUpO5-RS-fPY0BdyaY7Q7NbXqxuWeyOABGIfAmo3boD5DQUBcXj-_6ukTFIYMyRJJBFPXdASJ-pJHCkSgALqCUTl2O0yMdfV0u9tE7YWgkhQhoEm3syT62E&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
 ![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/t4b/2/16/1f4cc.png) A poniżej artykuły o bardziej zawężonej tematyce, skupione na konkretnych zagadnieniach dotyczących szczepionki czy też samego wirusa SARS-CoV-2.
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Co to właściwie jest ten wirus, jak jest zbudowany i jak nas atakuje?
+## Co to właściwie jest ten wirus, jak jest zbudowany i jak nas atakuje?
 
 \- Coronavirus biology and replication: implications for SARS-CoV-2 [https://www.nature.com/articles/s41579-020-00468-6](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41579-020-00468-6%3Ffbclid%3DIwAR0jOMSHCIoWonrxtjTSNMBw7akiMDIXC_MD51ul5rnMXLvj0aUvkYAuXIQ&h=AT0mxBdiAnrxianuIBuh8ATVzTAggXqqHqQEJGL_d9s7csqIPsQHQIICE1dGpH-rJZAr-s-KbF5-aKte3N2OYbY3Pgrw30Knku0sIiXS5QtTsFSHpjPk1xrrDFa2iujP2XwbnQA&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
@@ -240,19 +196,19 @@ Z racji tego, że jako tako znam się na biologii RNA (bo od licencjatu przez ma
 
 \- Mechanisms of SARS-CoV-2 Transmission and Pathogenesis [https://www.cell.com/action/showPdf...](https://www.cell.com/action/showPdf?pii=S1471-4906(20)30233-7&fbclid=IwAR0P7kDuKybNy0o2xPZdMf8exCCwm-J_55nLO-FtP6WYwful1rmpGjV2P0k) 
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) O szczepionkach mRNA ogólnie, m.in. jak to się zaczęło i kiedy, jakie są możliwe drogi podania, z jakimi problemami dotyczącymi szczepionek mRNA nauka się zmagała/zmaga, jakie niewiadome pozostały (naukowe prace przeglądowe z różnych lat):
+## O szczepionkach mRNA ogólnie, m.in. jak to się zaczęło i kiedy, jakie są możliwe drogi podania, z jakimi problemami dotyczącymi szczepionek mRNA nauka się zmagała/zmaga, jakie niewiadome pozostały (naukowe prace przeglądowe z różnych lat):
 
-\- Developing mRNA-vaccine technologies, 2012: [https://www.ncbi.nlm.nih.gov/.../PMC35.../pdf/rna-9-1319.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3597572%2Fpdf%2Frna-9-1319.pdf%3Ffbclid%3DIwAR1-3CyGMbvdVbRoZc0nrbxCQPG2zlQRly9JE4eQMQfxwurPfjk0o0Nx_Eg&h=AT203e_pbO-lyM5Vwb9NS_s74SFDitGFlEE4vWwaAfOcw-05kWyTIAjbk1L5rM6ILRAeMN0ov_mEyDjtZt6CU3-3Winpsinyo6FJrcFQA0OYltJFBeT_WkKQdNj6DTLG__Y54b8&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
+Developing mRNA-vaccine technologies, 2012: [https://www.ncbi.nlm.nih.gov/.../PMC35.../pdf/rna-9-1319.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3597572%2Fpdf%2Frna-9-1319.pdf%3Ffbclid%3DIwAR1-3CyGMbvdVbRoZc0nrbxCQPG2zlQRly9JE4eQMQfxwurPfjk0o0Nx_Eg&h=AT203e_pbO-lyM5Vwb9NS_s74SFDitGFlEE4vWwaAfOcw-05kWyTIAjbk1L5rM6ILRAeMN0ov_mEyDjtZt6CU3-3Winpsinyo6FJrcFQA0OYltJFBeT_WkKQdNj6DTLG__Y54b8&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
-\- mRNA vaccines — a new era in vaccinology, 2018: [https://www.nature.com/articles/nrd.2017.243...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.nature.com%2Farticles%2Fnrd.2017.243%3Ffbclid%3DIwAR2C1qJSzAGu48rqMZ41czX47bUTSpb-hEJg-z3Yk_Sk9eVqk_pBIhg4ZtY&h=AT3pwI6BjwFEA7RIpws_RGtxKFATifPQT8szVo3zecwj6IQbJ0cbAqHyckGUGOJYpuViTaKZLNdqH5CNxH0mlX-Z-bFMzvIiBnowGshy3W8f9pnbB-YxOF8C__lLEtg13JZMCGM&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
+mRNA vaccines — a new era in vaccinology, 2018: [https://www.nature.com/articles/nrd.2017.243...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.nature.com%2Farticles%2Fnrd.2017.243%3Ffbclid%3DIwAR2C1qJSzAGu48rqMZ41czX47bUTSpb-hEJg-z3Yk_Sk9eVqk_pBIhg4ZtY&h=AT3pwI6BjwFEA7RIpws_RGtxKFATifPQT8szVo3zecwj6IQbJ0cbAqHyckGUGOJYpuViTaKZLNdqH5CNxH0mlX-Z-bFMzvIiBnowGshy3W8f9pnbB-YxOF8C__lLEtg13JZMCGM&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
-\- Delivering the Messenger: Advances in Technologies for Therapeutic mRNA Delivery, 2019: [https://www.ncbi.nlm.nih.gov/.../PMC6453548/pdf/main.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC6453548%2Fpdf%2Fmain.pdf%3Ffbclid%3DIwAR2GaUCCgNlU2OeIVYiXgQdVOt_GQERUnGY83XZ4RurCgMYX6Tlb8NECQF8&h=AT2ida8iSjkf_R2K5Iqu-QowMmdxfCxDtWYsuSBLPuoTzKIzC5suw70gD9cqO66vKtaVdpTajz3CHbYoqsE5OVdvrYF5AMDhnYCJDgvBw5TUfEZQ0JbYl8pxUetxD4JC_cYOj-0&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
+Delivering the Messenger: Advances in Technologies for Therapeutic mRNA Delivery, 2019: [https://www.ncbi.nlm.nih.gov/.../PMC6453548/pdf/main.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC6453548%2Fpdf%2Fmain.pdf%3Ffbclid%3DIwAR2GaUCCgNlU2OeIVYiXgQdVOt_GQERUnGY83XZ4RurCgMYX6Tlb8NECQF8&h=AT2ida8iSjkf_R2K5Iqu-QowMmdxfCxDtWYsuSBLPuoTzKIzC5suw70gD9cqO66vKtaVdpTajz3CHbYoqsE5OVdvrYF5AMDhnYCJDgvBw5TUfEZQ0JbYl8pxUetxD4JC_cYOj-0&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
-\- ![🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png) mRNA-based therapeutics — developing a new class of drugs, 2014:  [https://www.nature.com/articles/nrd4278...](https://www.nature.com/articles/nrd4278?cacheBust=1508171532658&fbclid=IwAR1-3CyGMbvdVbRoZc0nrbxCQPG2zlQRly9JE4eQMQfxwurPfjk0o0Nx_Eg)
+mRNA-based therapeutics — developing a new class of drugs, 2014:  [https://www.nature.com/articles/nrd4278...](https://www.nature.com/articles/nrd4278?cacheBust=1508171532658&fbclid=IwAR1-3CyGMbvdVbRoZc0nrbxCQPG2zlQRly9JE4eQMQfxwurPfjk0o0Nx_Eg)
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Czy szczepionki powstały “za szybko”? Czy przeszły wszystkie badania? Czy można im ufać?
+## Czy szczepionki powstały “za szybko”? Czy przeszły wszystkie badania? Czy można im ufać?
 
-\- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Dlaczego szczepionka przeciw COVID-19 powstałą tak szybko? (by Crazy nauka): [https://www.crazynauka.pl/dlaczego-szczepionka-przeciw.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.crazynauka.pl%2Fdlaczego-szczepionka-przeciw-covid-19-powstala-tak-szybko%2F%3Ffbclid%3DIwAR3-o2ArOhh9qOJQrhtWl1kNdEaY6cXhPq48Jxg86BVxkP0UbQOJm9eBBn0&h=AT3689ccY2HhJG1-OxNtr6ybp6Ms_mwu13qf045AtNjZpNZB8T4A4o2ezw4OIN5ApX_QlYb631eNsdeVZKt04weQaUnGGqbmCuB1abuQEnOchRBVWb3rlXeb-esd48_Sh8BIJZU&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
+ ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Dlaczego szczepionka przeciw COVID-19 powstałą tak szybko? (by Crazy nauka): [https://www.crazynauka.pl/dlaczego-szczepionka-przeciw.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.crazynauka.pl%2Fdlaczego-szczepionka-przeciw-covid-19-powstala-tak-szybko%2F%3Ffbclid%3DIwAR3-o2ArOhh9qOJQrhtWl1kNdEaY6cXhPq48Jxg86BVxkP0UbQOJm9eBBn0&h=AT3689ccY2HhJG1-OxNtr6ybp6Ms_mwu13qf045AtNjZpNZB8T4A4o2ezw4OIN5ApX_QlYb631eNsdeVZKt04weQaUnGGqbmCuB1abuQEnOchRBVWb3rlXeb-esd48_Sh8BIJZU&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Ekspresowe szczepionki na covid. Jak powstały i czy są bezpieczne? (by dr hab. n.med. Piotr Rzymski): [https://www.polityka.pl/.../1981764,1,ekspresowe...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.polityka.pl%2Ftygodnikpolityka%2Fnauka%2F1981764%2C1%2Cekspresowe-szczepionki-na-covid-jak-powstaly-i-czy-sa-bezpieczne.read%3Ffbclid%3DIwAR3-o2ArOhh9qOJQrhtWl1kNdEaY6cXhPq48Jxg86BVxkP0UbQOJm9eBBn0&h=AT1w49gUOsYzURVRtVecrB7VhokW2KxziLyXCzVQdaVHFo-4JoQlMAoxypuF3LFF__jOw4BW4MR-JAJ2y822OEZ7cDVsrfHRWT-ssik4bw-3I93tjk_dyuSnw3vl0KGJrZ_a7Jg&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
@@ -264,7 +220,7 @@ Z racji tego, że jako tako znam się na biologii RNA (bo od licencjatu przez ma
 
 \- Dla super ciekawskich: FDA Briefing Document, czyli co przeanalizowała Amerykańska FDA i na jakiej podstawie dopuścila szczepionkę Pfizera do użycia [https://www.fda.gov/media/144245/download](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.fda.gov%2Fmedia%2F144245%2Fdownload%3Ffbclid%3DIwAR3fwLi1uGpI1mRnoWbBrpGdeJoUkK6JeiklN4IEutKt6N6bHF8FdHJEjEo&h=AT0pU32DXX471QoCjbJrzBY1HnK7UUjbSpJTRkgJyuMcg29dCAih9BNrC0XEX_cwUOSBysQaxEcJEj7fSuMmyo0uX66OkdvfZ0mFoZc0v11UBHaYNYlD04ULGd_VnvI5f2fCzs0&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Jak konkretnie działają szczepionki Pfizera/Moderny (oparte o mRNA)?
+## Jak konkretnie działają szczepionki Pfizera/Moderny (oparte o mRNA)?
 
 \- ![🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png) ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Świetny post o tym co robi nasz układ odpornościowy w odpowiedzi na szczepionkę mRNA (czyli jak powstaje odporność): [https://www.facebook.com/wojti.glac/posts/2762475584005592](https://www.facebook.com/wojti.glac/posts/2762475584005592?__cft__[0]=AZWQRq5TNdjT7Yy4rkoJNbtlegph4oICTdGK6OA-cKkr4jXV4JIZUCe-pIoHKKcmIpPXdQLRYNz471jD_Chp18VTvTceWytueMqaQK7lfXZjnWeWrGGfvpDlEH9o8NzQnIt89hYuYq5waBrXx9iDgoAc&__tn__=-UK-R)
 
@@ -272,7 +228,7 @@ Z racji tego, że jako tako znam się na biologii RNA (bo od licencjatu przez ma
 
 \- Moderna: [https://www.nytimes.com/.../moderna-covid-19-vaccine.html...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2020%2Fhealth%2Fmoderna-covid-19-vaccine.html%3Ffbclid%3DIwAR1RUcRRcrNuJmqxd0J6JaANJbhnKMD8HNYPZ1hiWy5mydm38dDZH96CkM8&h=AT1iJ9WO9UC0I6987NnlpftVC_GBPlMX5MrEJbLKGoZB64dshSR3RFnJn7KpqqpnOvTxK2SMo4jEcXKBVlZRCovF2RFY09HmUNIdYdg8c89okqBemuvv5vjq1ewwsdU3gv-Gsag&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s)  
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) A co w takiej szczepionce właściwie jest? Czy może ona zmienić ludzki genom?
+## A co w takiej szczepionce właściwie jest? Czy może ona zmienić ludzki genom?
 
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Artykuł z 2018. Trochę o tym, że zjadanie jakiegokolwiek materiału genetycznego (DNA czy RNA) nie powoduje, że wbudowuje się ono w nasz genom: “DNA w szczepionkach, czyli o tym dlaczego nie wyrosną nam skrzydła po spożyciu rosołu z kury”  [https://www.crazynauka.pl/dna-w-szczepionkach-czyli-o.../](https://www.crazynauka.pl/dna-w-szczepionkach-czyli-o-tym-dlaczego-nie-wyrosna-nam-skrzydla-po-spozyciu-rosolu-z-kury/?fbclid=IwAR1M8lo1SRFu7CQFJBil7bt48aFnXMvMlz-sovHMNEmy0efRuFSmhCRpnEw) 
 
@@ -290,13 +246,13 @@ a tu polskie tłumaczenie: [https://randomseed.pl/.../reverse-engineering-kodu..
 
 \- ![🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png) ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Świetnie napisany post skupiający się konkretnie na cząsteczce mRNA zawartej w szczepionce, prosty i konkretny opis z ładnym rysunkiem poglądowym: [https://www.facebook.com/joanna.zalewska.39108/posts/200964331524720](https://www.facebook.com/joanna.zalewska.39108/posts/200964331524720?__cft__[0]=AZWQRq5TNdjT7Yy4rkoJNbtlegph4oICTdGK6OA-cKkr4jXV4JIZUCe-pIoHKKcmIpPXdQLRYNz471jD_Chp18VTvTceWytueMqaQK7lfXZjnWeWrGGfvpDlEH9o8NzQnIt89hYuYq5waBrXx9iDgoAc&__tn__=-UK-R) 
 
- ![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Słyszałem/-am, że szczepionki mogą powodować bezpłodność i zagrażać ciąży: 
+##  Słyszałem/-am, że szczepionki mogą powodować bezpłodność i zagrażać ciąży: 
 
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Szczepionki przeciwko SARS-CoV-2, płodność kobiet i syncytyna, tłumaczy wirusolożka Emilia Skirmuntt [https://www.mp.pl/.../255705,szczepionki-przeciwko-sars...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mp.pl%2Fszczepienia%2Fekspert%2Fekspert-covid-19%2F255705%2Cszczepionki-przeciwko-sars-cov-2-plodnosc-kobiet-i-syncytyna%3Ffbclid%3DIwAR1M8lo1SRFu7CQFJBil7bt48aFnXMvMlz-sovHMNEmy0efRuFSmhCRpnEw&h=AT3hmEoqUEJP0j5SXuYmLTdq8i7l7mbLF5lJr_vMfDIHDIm3QKSZNZv91tDGcZdmNYM-KGTTiVA0TtLRlu7QvCt8CNj6bccFb1sRKwD0Qtspdg0J3wd8fnsyIBGJikJP3eNCRJQ&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Czy szczepionka zagraża ciąży? I czy będzie skuteczna mimo mutacji wirusa? Prof. Szuster-Ciesielska odpowiada [https://www.wp.pl/...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.wp.pl%2F%3Fs%3Dportal.abczdrowie.pl%2Fprof-szuster-ciesielska-o-szczepionkach-pfitzera-i-moderny-beda-nas-chronily-przed-roznymi-typami-koronawirusow-wideo%26src01%3D8d289%26c%3D168%26fbclid%3DIwAR3oa58QxlZrvAEHCrmZNSqunUReSe5R6W_9DGIlOIUkwweBsDFkH4zKJnE&h=AT3flA70i5IHQ3PM0pgl0PhEk0dnHC8D1stxHEqZ8j4eAn7Q2jnNOsuGoU-KOA9rEgmtBHG06jtFBgl192Q-kcCr0kd56Kb0ChzPyMvbPIS-tnqNcnNUjHNl0ncjNOyfeqwQCjg&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Podobno Amerykańska pielęgniarka zmarła po podaniu szczepionki Pfizera (spoiler alert: to fejk!)
+## Podobno Amerykańska pielęgniarka zmarła po podaniu szczepionki Pfizera (spoiler alert: to fejk!)
 
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) [https://fakenews.pl/.../zmarla-tiffany-dover.../](https://fakenews.pl/zdrowie/zmarla-tiffany-dover-pielegniarka-zaszczepiona-na-covid-19-brak-dowodow/?fbclid=IwAR1C6G7RYGtp4tV-avgPAZXHa4hFTjheKS8hCcUePWIOemH-rZxO7-10l_g) 
 
@@ -306,7 +262,7 @@ a tu polskie tłumaczenie: [https://randomseed.pl/.../reverse-engineering-kodu..
 
 \- [https://www.factcheck.org/.../anti-vaccine-posts-use.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Fanti-vaccine-posts-use-deceptively-edited-video-clip%2F%3Ffbclid%3DIwAR1RUcRRcrNuJmqxd0J6JaANJbhnKMD8HNYPZ1hiWy5mydm38dDZH96CkM8&h=AT1zUSH6ilcUKWvtt0aeSDOpeOoa4OE2be_l63w4DjrheJu5gG6-hq1_CyszcfV-49ZnYY9dmvNUmNyuV1OC_tq70ZpF84NMMORug70aJtr12l12zAONyCKH7LCjIUAsvyeTC3g&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Jak to jest z tą odpornością na COVID? Na ile czasu właściwie szczepionka dostarczy nam odporności? Oraz jak to się ma do tego, że wirus ciągle mutuje?
+## Jak to jest z tą odpornością na COVID? Na ile czasu właściwie szczepionka dostarczy nam odporności? Oraz jak to się ma do tego, że wirus ciągle mutuje?
 
 \- Za Tomasz Dzieciątkowski - Trust me I'm a Virologist:  “Pomimo roku w cieniu SARS-CoV-2 i powolnego wprowadzania szczepionek na rynek, nadal nie jest znany dokładny czas trwania odporności po zakażeniu, bowiem coraz częściej zgłaszane są przypadki osób ponownie zakażonych wirusem. Obecnie nie jest jasne, jak częste są ponowne zakażenia SARS-CoV-2 i jak długo utrzymują się przeciwciała w surowicy czy specyficzne dla wirusa limfocyty T. W przypadku wielu innych infekcji wirusami układu oddechowego, w tym wirusów grypy i sezonowych koronawirusów powodujących przeziębienia, przeciwciała w surowicy mogą utrzymywać się od zaledwie kilku miesięcy do kilku lat, a reinfekcje są bardzo częste. Poniższa praca stanowi przegląd aktualnej wiedz na temat czasu trwania odporności i ponownej infekcji koronawirusami, w tym i SARS-CoV-2, a także czasu trwania odporności na inne wirusy i szczepionki przeciwwirusowe. Badania te mają wpływ na potrzebę stosowania dalszych środków ochronnych i szczepień u osób wcześniej zakażonych SARS-CoV-2.” [https://academic.oup.com/.../10.1093/cid/ciaa1866/6041697...](https://l.facebook.com/l.php?u=https%3A%2F%2Facademic.oup.com%2Fcid%2Fadvance-article%2Fdoi%2F10.1093%2Fcid%2Fciaa1866%2F6041697%3Ffbclid%3DIwAR3EFZAxj8mJ4LVuHl6yb_q0TmT95uRF887rTYN_167TOGFs_mkhUhU1dWA&h=AT0epmVIInQt5oPmLNZRBX71aFBmuL5r9f4JQ4USiI2-CGLksilxBnN39_q8rSU9PgeWIw6oLFz8K1pW72Li0LN43Em4eRmRWqkxIXpmkDgmh-CFIVzfQGfYANz19jyHP04diB4&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
@@ -322,7 +278,7 @@ a tu polskie tłumaczenie: [https://randomseed.pl/.../reverse-engineering-kodu..
 
 \- ![🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png) Immunological memory to SARS-CoV-2 assessed for up to 8 months after infection: [https://science.sciencemag.org/.../01/06/science.abf4063...](https://science.sciencemag.org/content/early/2021/01/06/science.abf4063?fbclid=IwAR1RRce6wjbT3KzyAFcqN1HfPXqR9Y1La9tB4nx34MGcyEjEKVCK1JwxnJY) 
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Brytyjski wariant wirusa, co o nim wiadomo i czy się go bać? 
+## Brytyjski wariant wirusa, co o nim wiadomo i czy się go bać? 
 
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) by dr hab.n.med. Piotr Rzymski: [https://www.polityka.pl/.../2017711,1,brytyjski-wariant...](https://www.polityka.pl/tygodnikpolityka/nauka/2017711,1,brytyjski-wariant-sars-cov-2-co-o-nim-wiemy.read?fbclid=IwAR3oQtyPKWJSo3XMUVpXOMfCFIsOg0qCUTt7YRrTaSolv--AHIeKtorbLD8)
 
@@ -342,7 +298,7 @@ a tu polskie tłumaczenie: [https://randomseed.pl/.../reverse-engineering-kodu..
 
 \- ![🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png)![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) SARS-CoV-2 z RPA i Wielkiej Brytanii:  [https://www.polityka.pl/.../2097955,1,sars-cov-2-z-rpa-i...](https://www.polityka.pl/tygodnikpolityka/nauka/2097955,1,sars-cov-2-z-rpa-i-wielkiej-brytanii-sa-dobre-wiesci.read?fbclid=IwAR1-3CyGMbvdVbRoZc0nrbxCQPG2zlQRly9JE4eQMQfxwurPfjk0o0Nx_Eg) 
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Trochę o silnych, aczkolwiek bardzo rzadkich, reakcjach alergicznych na szczepionkę Pfizera i o generalnych zaleceniach/przeciwwskazaniach:
+## Trochę o silnych, aczkolwiek bardzo rzadkich, reakcjach alergicznych na szczepionkę Pfizera i o generalnych zaleceniach/przeciwwskazaniach:
 
 \- Suspicions grow that nanoparticles in Pfizer’s COVID-19 vaccine trigger rare allergic reactions [https://www.sciencemag.org/.../suspicions-grow...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.sciencemag.org%2Fnews%2F2020%2F12%2Fsuspicions-grow-nanoparticles-pfizer-s-covid-19-vaccine-trigger-rare-allergic-reactions%3Futm_campaign%3Dnews_weekly_2020-12-24%26et_rid%3D99774005%26et_cid%3D3610267%26fbclid%3DIwAR2cz8mds9WUpNUID25poDaCdNVAH6UvEQRNRp4vKUy2DYZ0XjIu_bNnuSM&h=AT1VJJqvZiuNGKtii2G7qp_gfDWY6lgRbIy6JPabPJg8Vd2X3RG9vUTU7fW7DDwPUW_OWo_1NoJUcWunHRDV8SG7aXK8sxGNI4Mt7A7nAIBtXnLj4O787pG_ZoEvkxpUD30lCvY&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
@@ -352,7 +308,7 @@ a tu polskie tłumaczenie: [https://randomseed.pl/.../reverse-engineering-kodu..
 
 \- Szczepionka Pfizer w pytaniach i odpowiedziach: [https://www.ema.europa.eu/.../med.../human/EPAR/comirnaty...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ema.europa.eu%2Fen%2Fmedicines%2Fhuman%2FEPAR%2Fcomirnaty%3Ffbclid%3DIwAR3rSyrtldT2RpVlzyNVBng8o_xcqAUrt_Fe0AQVFCpJBo_ZWeqGxHSSDtE&h=AT1cmiVDcSRgbj1wVt0qVx9XEn0iS6HEAwJ3PXmKos-G7E83Bx9J_81hYXWJYtj9G6XQcOa71qS1BRmAnHZqSuOao6bNxHvJXSETl726izRmAJodpwheKRftlo3Z6e9ap5tP1ss&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s)
 
-![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Czy wszystkie szczepionki przeciwko COVID, które są w trakcie badań klinicznych, opierają się o tę samą technologię, czyli wykorzystują mRNA?
+## Czy wszystkie szczepionki przeciwko COVID, które są w trakcie badań klinicznych, opierają się o tę samą technologię, czyli wykorzystują mRNA?
 
 \- Za Tomasz Dzieciątkowski - Trust me I'm a Virologist: “[…] w poniższej pracy sporządzono listę wszystkich szczepionek przeciwko SARS-CoV-2, które przechodzą testy przedkliniczne i kliniczne z wykorzystaniem baz danych WHO i ClinicalTrials, wraz ze szczegółami dotyczącymi projektu i lokalizacji badania. Najbardziej zaawansowane szczepionki zostały omówione bardziej szczegółowo, ze uwzględnieniem ich technologii, zalet i wad, a także wszelkich dostępnych ostatnich odkryć klinicznych. Omówiono również niektóre z głównych wyzwań, obaw dotyczących bezpieczeństwa i odpowiedzi opinii publicznej na testy szczepionek przeciwko SARS-CoV-2 oraz implikacji, co to może oznaczać na przyszłość. […]”: [https://bpspubs.onlinelibrary.wiley.com/.../10.../bcp.14686](https://l.facebook.com/l.php?u=https%3A%2F%2Fbpspubs.onlinelibrary.wiley.com%2Fdoi%2Fepdf%2F10.1111%2Fbcp.14686%3Ffbclid%3DIwAR3hqd50O-2JAy44yXBIxuJi_jb7fv5nJhDeIRMrAuzHwSj91IVJBm8U8r0&h=AT0kONTPQPaykBi1PrYWg6dO-a5xBSQ0SViOmqwW5acfOPCGmoDhGzzF-2ntvdBG0y2h4BO87QEiAP-euouFISCAoPGcjsXgEXfGCGwLe2CpQ09gmBKwJKuYqS9fUUVYv8cumiI&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
@@ -364,7 +320,7 @@ a tu polskie tłumaczenie: [https://randomseed.pl/.../reverse-engineering-kodu..
 
 \- ![🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png) How does the Oxford & AstraZeneca COVID-19 vaccine work? A guide to viral vector vaccines (ładna grafika): [https://www.compoundchem.com/.../viral-vector-vaccines/...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.compoundchem.com%2F2020%2F12%2F30%2Fviral-vector-vaccines%2F%3Ffbclid%3DIwAR1RRce6wjbT3KzyAFcqN1HfPXqR9Y1La9tB4nx34MGcyEjEKVCK1JwxnJY&h=AT0S6wP1f0piXBrtREt9YAPtWMPCMZAR_DveVTY3_LkCB7hO77yK0AIGY84fMstXKu0PXv9vJO3QJfFzW983rSGfTSUpFiqb4l6dNeFxXqxQYeQ2BHknWmRIFOLIASCGZx5tz2A&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s)
 
-![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/t4b/2/16/1f4cc.png) ![🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png) Temat przerzucenia odpowiedzialności za potencjalne działania niepożądane z producentów na rząd. O co w tym wszystkim chodzi?
+## Temat przerzucenia odpowiedzialności za potencjalne działania niepożądane z producentów na rząd. O co w tym wszystkim chodzi?
 
 ![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/tcf/2/16/1f514.png) Zacznijmy od linków. Potem mój komentarz/podsumowanie (pozwalam sobie na to jedynie w tym miejscu, bo to temat skomplikowany i bardzo istotny):
 
@@ -396,15 +352,29 @@ Natomiast szczepionki, które zostały dopuszczone do użycia na terenie UE zost
 
 ![⚠️](https://static.xx.fbcdn.net/images/emoji.php/v9/t5d/2/16/26a0.png) Coraz więcej słyszy się od naszych władz o utworzeniu tzw. funduszu kompensacyjnego za efekty niepożądane szczepionek (na wzór USA? [https://www.facebook.com/.../a.1416197364.../781885772415259](https://www.facebook.com/DrToczylowski/photos/a.141619736441869/781885772415259?__cft__[0]=AZWQRq5TNdjT7Yy4rkoJNbtlegph4oICTdGK6OA-cKkr4jXV4JIZUCe-pIoHKKcmIpPXdQLRYNz471jD_Chp18VTvTceWytueMqaQK7lfXZjnWeWrGGfvpDlEH9o8NzQnIt89hYuYq5waBrXx9iDgoAc&__tn__=-UK-R) ). Na tej podstawie można wywnioskować, że Skarb Państwa będzie zwalniał z odpowiedzialności za negatywne skutki szczepionek. Ale ponownie: dopóki nie znamy treści umowy między producentami a UE, to nie wiemy czy faktycznie jest tam mowa o zwolnieniu producenta z odpowiedzialności, czy może kwestia zorganizowania funduszu kompensacyjnego za efekty niepożądane szczepionek to jakaś indywidualna akcja naszego rządu mająca zachęcić do szczepień.
 
-![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/t4b/2/16/1f4cc.png)  Na koniec – Krótki film o prawdzie i fałszu:
+## Kto ponosi odpowiedzialność za szczepienia?
 
-[https://youtu.be/T1vW8YDDCSc](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FT1vW8YDDCSc%3Ffbclid%3DIwAR2zu33Iwdh1I9XtlL86nsmlBdQ8UOjXteVJmP1JmjYd-dSzY2Ntu2hvqJw&h=AT0l8ZaYX4lrh9RYZ1RWs-JAGI0XIZwhc5wF8IqgEYovPUN2WnmsxuAqtgoYabKK0j_0yNGf1Av-FrO1Q7-NdIhFzNfj1dfZJ_ZyQ7UP5J9jIEYCX99ATvlob3hhFrvsslnl83w&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
+Słyszeliście zapewne, że Pfizer i inni producenci szczepionek na COVID-19 nie odpowiadają za powikłania po szczepieniach? O co w tym chodzi?
+Opowiem Wam co się dzieje, kiedy firma ponosi bezpośrednią odpowiedzialność za możliwe problemy po szczepieniach. 
+Od lat 70-tych ubiegłego wieku liczba przypadków boreliozy w USA gwałtownie rosła, sięgając w śmiałych szacunkach nawet kilkudziesięciu tysięcy rocznie. Firma SmithKline Beecham Pharmaceuticals (dzisiejszy GSK) opracowała więc pierwszą na świecie szczepionkę przeciwko boreliozie - LYMERix. W badaniach klinicznych jej skuteczność oszacowano na 78%. Od 1998 do 2000 roku podano w USA około 1.5 miliona dawek. Szczepionka była dobrze tolerowana i naprawdę skuteczna. Niestety, szybko pojawiły się pierwsze doniesienia o przypuszczalnych powikłaniach po szczepieniu. Do roku 2000 w bazie VAERS zarejestrowano kilkadziesiąt poważnych skutków ubocznych tej szczepionki. Było to dokładnie 66 poważnych powikłań na 1.5 miliona dawek. Co to jest VAERS? Baza VAERS jest prostym narzędziem dostępnym dla wszystkich, przy pomocy którego każdy może zgłosić dowolne działanie niepożądane szczepienia i nie jest to weryfikowane. Trafiają tam takie zgłoszenia, jak nawet przemiana w Hulka po szczepieniu. Wydaje się bez sensu, jednak w tym vaersowym chaosie można zauważyć pewne ważne sygnały. Jest to taki szczepionkowy system wczesnego ostrzegania. Dzięki bazie VAERS z rynku wycofano np. pierwszą szczepionkę przeciwko rotawirusom, bo zauważono wyraźnie większą częstość zgłoszeń wgłobienia jelita. W przypadku szczepionki przeciwko boreliozie po przeanalizowaniu raportów uznano, że nie ma żadnych podstaw do uznania szczepionki za niebezpieczną, a raportowane powikłania nie mają związku ze szczepieniem. Jednak ziarno niepewności zostało zasiane. Firmę zaczęły zalewać pozwy sądowe. W gazetach pojawiały się sugestywne nagłówki. Ludzie przestali kupować szczepionkę i ostatecznie w roku 2002, cztery lata po jej zarejestrowaniu, firma zdecydowała wycofać swoją szczepionkę z rynku. Druga firma (współczesny Sanofi) pracująca nad konkurencyjną szczepionką, w obliczu złej reputacji LYMERix, także porzuciła swój projekt. Do dziś nie mamy szczepionki przeciwko boreliozie i prawdopodobnie jeszcze długo jej nie będziemy mieć.
+Dlaczego tak się stało? 
+Szczepiona przeciwko boreliozie nie była zalecana dla wszystkich, a jedynie dla grup ryzyka, czyli osób przebywających na obszarach endemicznego występowania boreliozy. Z tego powodu LYMERix nie została objęta rządowym systemem odszkodowań powstałych po szczepieniu - National Vaccine Injury Compensation Program (NVICP). Program NVICP powstał właśnie z myślą o tym, żeby producenci szczepionek mogli zajmować się szczepieniami, a nie walkami w sądach (nie oznacza to jednak, że szczepienia nie podlegają żadnej kontroli - wciąż są to najbardziej rygorystycznie kontrolowane produkty medyczne na świecie). W przypadku licznych, nawet kompletnie nieuzasadnionych oskarżeń, producenci szczepionek musieliby podnieść ceny szczepionek lub zupełnie zrezygnowaliby z ich produkcji. Dlatego w razie powikłań, osoby poszkodowane mogą oczekiwać pomocy nie od producenta, a od rządu USA. Szczepionka LYMERix nie miała tej ochrony i została po prostu zniszczona przez liczne pozwy, plotki i fałszywe oskarżenia.
+Dlatego polski Narodowy Program Szczepień przeciwko COVID-19 uwzględnia utworzenie funduszu kompensacyjnego, z którego popłyną odszkodowania dla osób mających niepożądane odczyny poszczepienne. Pozwala to producentom zająć się dopracowywaniem szczepionki, a jednocześnie zapewnia pomoc w przypadku powikłań.
+Liczę, że będzie to krok ku otworzeniu funduszu na wzór amerykańskiego NVICP, którego moim zdaniem w Polsce bardzo brakuje. 
 
-Nawet jak ktoś już oglądał, to warto sobie od czasu do czasu przypomnieć ![😉](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/2/16/1f609.png) 
+https://www.facebook.com/DrToczylowski/photos/a.141619736441869/781885772415259/?__tn__=%2CO*F
+
+## Szczepionki więcej dobrego niż złego?
+
+![](imgs/vax.png)
 
 ![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/t4b/2/16/1f4cc.png)  Grafika stąd: „Here’s the visual proof of why vaccines do more good than harm” [https://www.sciencemag.org/.../here-s-visual-proof-why...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.sciencemag.org%2Fnews%2F2017%2F04%2Fhere-s-visual-proof-why-vaccines-do-more-good-harm%3Futm_campaign%3DScienceNow%26utm_source%3DContractor%26utm_medium%3DFacebook%26fbclid%3DIwAR30C-BHeoS6lVps4g3n5rq8nYVvR9-3Afee-TGAGkhOVPIB7NVpieLk54A&h=AT22lLgxVTmJgeOnMwadg0IUN5oTJ-c13VdTqu_WRbJ5kFrsw3OCLIwOkMmxSOSVG7JYllhtFkxnheeTsSRPgJpqiQhibQhr2NvxWIOQMKyHo5EEzG6pSbDHb-sRGiIZQQ2gqSI&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s)
 
 Mam nadzieję, że komuś się to przyda. Enjoy!
+
+## Jaka jest skuteczność szczepionki na grypę sezonowa?
+
+Skuteczność szczepionki na grypę to około 60%, te szczepionki na covid maja skuteczność 95% [https://www.nejm.org/doi/full/10.1056/NEJMoa2034577]
 
 # Stanowiska
 
@@ -695,3 +665,33 @@ DLA CHĘTNYCH
 Nie, nie umarła.
 https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html
 
+# Posty nieprawdziwe różne
+
+## Pediatra - Bogdan Szpyruk
+
+
+
+> A co z ludźmi, którzy nie chcą się "szczepic"?
+>
+> Cała ta polaryzacja społeczeństwa doprowadziła do wrzucania ludzi do dwóch worów: pro- i antyszczepionkowców.  Do wora anty- wrzucani są także wszyscy, którzy po prostu się boją skutków odległych, mają poważne choroby przewlekłe, stosują leki przewlekle, planują ciążę, albo karmią piersią lub po prostu ludzie, którzy nie czują potrzeby przyjmowania wszystkich dobrodziejstw nauki i medycyny, aby tylko wywalczyć sobie dodatkowy rok bez jednej infekcji wirusowej. Ludziom z tego wora pragnę powiedzieć, że te "mesjańskie terapie genowe", zwane nieustannie szczepieniami nie były badane na ludziach chorych, leczących się przewlekle, ani na kobietach ciężarnych. Badania dopiero się zaczęły (sic!).  
+>
+> Dotychczas wiemy (wg FDA), że terapia mRNA w 95% zmniejsza ryzyko rozwoju objawów choroby covid. Innymi słowy taki człowiek może przechodzić covid bezobjawowo. Swoją drogą proszę zwrócić uwagę, że za kilka miesięcy pojawi się w mediach wydźwięk, że to populacja "niezaszczepiona" będzie zagrożeniem dla wszystkich dookoła, a tymczasem ta właśnie grupa ludzi "nieszczepionych" będzie zagrożona zachorowaniem po kontakcie z osobą szczepioną, jeśli ta akurat przechodzi bezobjawowo wirusa. Ale to przyszłość pokaże.
+>
+> Tymczasem mam dobre wieści dla worka antyszczepionkowców.
+>
+> W końcu pojawiają się prace o zadziwiająco wysokiej skuteczności terapii ziołowych w zapobieganiu i leczeniu covid. Do tego stopnia dobre prace, że WHO rozważa zastosowanie ich w regionach ubogich do czasu dystrybucji "szczepionek".
+>
+> Są to: bylica roczna (artemisia annua) najlepiej w postaci nalewki, jeżówka purpurowa i/lub wąskolistna (echinacea purpurea i e. angustifolia) też nalewka. Najlepiej przyjmować rano i wieczorem po miarce, cieszyć się zdrowiem i przestać się w końcu bać drugiego człowieka.
+>
+> cdn...
+
+https://www.facebook.com/PediatraGarwolin/posts/2809925472603683?comment_id=2810121609250736&notif_id=1610730815735126&notif_t=feedback_reaction_generic&ref=notif
+
+[Kacper Wiącek](https://www.facebook.com/kacper.wiacek.10?comment_id=Y29tbWVudDoyODA5OTI1NDcyNjAzNjgzXzI4MTAwNzY3MDkyNTUyMjY%3D&__cft__[0]=AZV2N8MYpCpGyuENNmOaL12TVs92UU1Z_m7bNvnjeH3oWqjHaCV3p-9LdHDHqEuZ5IureGBFy-mktB8-ILESobGdTRNrdVv-GdhJiWAq91qxKH7Jd0vLkslYRcaYvh80xsbWkBtgLjfQP3FO9xlhG-r7&__tn__=R]-R)
+
+To co Pana różni od prawdziwych specjalistów to podawanie źródeł, żaden szanujący się człowiek nauki nie pisze sobie od tak na Facebooku co mu się podoba, nie podając żadnych badań potwierdzających jego słów. Poraża mnie hipokryzja tego postu, pisze Pan o szczepionkach, których badania dopiero się zaczęły? One trwały od sierpnia i już się zakończyły, przeszły wszystkie wymagane fazy i zostały zaakceptowane przez agencje medyczne (to już zwyczajne kłamstwo), a jednocześnie rzuca Pan jakimiś niemalże przypadkowymi ziółkami i preparatami z niemalże zerowymi badaniami na temat ich skuteczności i tu już magicznie znikają wszelki sceptycyzm i wątpliwości, które bezpodstawnie towarzyszą w Pana wypowiedziach o szczepionkach. Tak dla jasności, szczepionkę można przyjmować jeśli karmimy piersią, specjalne towarzystwa to stwierdziły, wśród badanych były osoby przewlekłe chore i po przejściu covidu, a nawet niektóre badane kobiety zaszły w ciążę w trakcie i nic się nie dzieje dotychczas z ich dziećmi. Mimo to wszyscy rozumieją, że osoby ciężarne nie chcą się szczepić, i nikt ich za to nie wini. Za to takie osoby jak Pan są po prostu szkodliwe, bi zagrażają życiu udających im osób i pozostałych którzy mogą być narażeni na poważne (w przeciwieństwie do szczepionki) efektu przebycia covidu. Bo jest Pan przecież obrońcą praw obywateli, mając setki wziętych nie wiadomo skąd zastrzeżeń, które już dawno zostały obalone badaniami, a nie postami na Facebooku, ale oczywiście już wszystko jest ok z zupełnie nieprzebadanymi lekami, za którymi opowiada się garstka lekarzy z nikłymi dowodami. Swoją drogą ciekawe czemu? Może dlatego, że za szczepionkę nic Pan nie dostanie, bo jest dla obywateli praktycznie za darmo, ale jak pokazuję lekarz z Przemyśla na biznesie z amantadyny można się nieźle dorobić, bo naiwni ludzi zjeżdżają się z całej Polski na wizyty, a za każdą można sobie policzyć pareset złotych i interes się kręci.
+
+
+
+# Authors
+Mega podsumowanie Agata
