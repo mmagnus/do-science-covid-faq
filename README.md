@@ -10,6 +10,7 @@ Table of Contents
 =================
 
 * [Do Science\! Covid FAQ](#do-science-covid-faq)
+* [Table of Contents](#table-of-contents)
   * [Dobre źródła](#dobre-%C5%BAr%C3%B3d%C5%82a)
   * [Inne zbiory Pytań i Odpowiedzi](#inne-zbiory-pyta%C5%84-i-odpowiedzi)
   * [Strony z które sprawdzają fejki](#strony-z-kt%C3%B3re-sprawdzaj%C4%85-fejki)
@@ -34,7 +35,6 @@ Table of Contents
   * [Jak konkretnie działają szczepionki Pfizera/Moderny (oparte o mRNA)?](#jak-konkretnie-dzia%C5%82aj%C4%85-szczepionki-pfizeramoderny-oparte-o-mrna)
   * [A co w takiej szczepionce właściwie jest? Czy może ona zmienić ludzki genom?](#a-co-w-takiej-szczepionce-w%C5%82a%C5%9Bciwie-jest-czy-mo%C5%BCe-ona-zmieni%C4%87-ludzki-genom)
   * [Słyszałem/\-am, że szczepionki mogą powodować bezpłodność i zagrażać ciąży:](#s%C5%82ysza%C5%82em-am-%C5%BCe-szczepionki-mog%C4%85-powodowa%C4%87-bezp%C5%82odno%C5%9B%C4%87-i-zagra%C5%BCa%C4%87-ci%C4%85%C5%BCy)
-  * [Podobno Amerykańska pielęgniarka zmarła po podaniu szczepionki Pfizera (spoiler alert: to fejk\!)](#podobno-ameryka%C5%84ska-piel%C4%99gniarka-zmar%C5%82a-po-podaniu-szczepionki-pfizera-spoiler-alert-to-fejk)
   * [Jak to jest z tą odpornością na COVID? Na ile czasu właściwie szczepionka dostarczy nam odporności? Oraz jak to się ma do tego, że wirus ciągle mutuje?](#jak-to-jest-z-t%C4%85-odporno%C5%9Bci%C4%85-na-covid-na-ile-czasu-w%C5%82a%C5%9Bciwie-szczepionka-dostarczy-nam-odporno%C5%9Bci-oraz-jak-to-si%C4%99-ma-do-tego-%C5%BCe-wirus-ci%C4%85gle-mutuje)
   * [Brytyjski wariant wirusa, co o nim wiadomo i czy się go bać?](#brytyjski-wariant-wirusa-co-o-nim-wiadomo-i-czy-si%C4%99-go-ba%C4%87)
   * [Trochę o silnych, aczkolwiek bardzo rzadkich, reakcjach alergicznych na szczepionkę Pfizera i o generalnych zaleceniach/przeciwwskazaniach:](#troch%C4%99-o-silnych-aczkolwiek-bardzo-rzadkich-reakcjach-alergicznych-na-szczepionk%C4%99-pfizera-i-o-generalnych-zaleceniachprzeciwwskazaniach)
@@ -54,7 +54,7 @@ Table of Contents
   * [KIEDYŚ TO BYŁY (SŁABE) TERAPIE GENOWE](#kiedy%C5%9B-to-by%C5%82y-s%C5%82abe-terapie-genowe)
   * [O KATAROCZŁOWIEKU GMO\!](#o-katarocz%C5%82owieku-gmo)
 * [Fejki](#fejki)
-  * [Pielęgniarka umarła w UK? NIE](#piel%C4%99gniarka-umar%C5%82a-w-uk-nie)
+  * [Podobno Amerykańska pielęgniarka zmarła po podaniu szczepionki Pfizera (spoiler alert: to fejk\!)](#podobno-ameryka%C5%84ska-piel%C4%99gniarka-zmar%C5%82a-po-podaniu-szczepionki-pfizera-spoiler-alert-to-fejk)
 * [Posty nieprawdziwe różne](#posty-nieprawdziwe-r%C3%B3%C5%BCne)
   * [Pediatra \- Bogdan Szpyruk](#pediatra---bogdan-szpyruk)
 * [Authors](#authors)
@@ -300,16 +300,6 @@ a tu polskie tłumaczenie: [https://randomseed.pl/.../reverse-engineering-kodu..
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Szczepionki przeciwko SARS-CoV-2, płodność kobiet i syncytyna, tłumaczy wirusolożka Emilia Skirmuntt [https://www.mp.pl/.../255705,szczepionki-przeciwko-sars...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mp.pl%2Fszczepienia%2Fekspert%2Fekspert-covid-19%2F255705%2Cszczepionki-przeciwko-sars-cov-2-plodnosc-kobiet-i-syncytyna%3Ffbclid%3DIwAR1M8lo1SRFu7CQFJBil7bt48aFnXMvMlz-sovHMNEmy0efRuFSmhCRpnEw&h=AT3hmEoqUEJP0j5SXuYmLTdq8i7l7mbLF5lJr_vMfDIHDIm3QKSZNZv91tDGcZdmNYM-KGTTiVA0TtLRlu7QvCt8CNj6bccFb1sRKwD0Qtspdg0J3wd8fnsyIBGJikJP3eNCRJQ&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
 \- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) Czy szczepionka zagraża ciąży? I czy będzie skuteczna mimo mutacji wirusa? Prof. Szuster-Ciesielska odpowiada [https://www.wp.pl/...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.wp.pl%2F%3Fs%3Dportal.abczdrowie.pl%2Fprof-szuster-ciesielska-o-szczepionkach-pfitzera-i-moderny-beda-nas-chronily-przed-roznymi-typami-koronawirusow-wideo%26src01%3D8d289%26c%3D168%26fbclid%3DIwAR3oa58QxlZrvAEHCrmZNSqunUReSe5R6W_9DGIlOIUkwweBsDFkH4zKJnE&h=AT3flA70i5IHQ3PM0pgl0PhEk0dnHC8D1stxHEqZ8j4eAn7Q2jnNOsuGoU-KOA9rEgmtBHG06jtFBgl192Q-kcCr0kd56Kb0ChzPyMvbPIS-tnqNcnNUjHNl0ncjNOyfeqwQCjg&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
-
-## Podobno Amerykańska pielęgniarka zmarła po podaniu szczepionki Pfizera (spoiler alert: to fejk!)
-
-\- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) [https://fakenews.pl/.../zmarla-tiffany-dover.../](https://fakenews.pl/zdrowie/zmarla-tiffany-dover-pielegniarka-zaszczepiona-na-covid-19-brak-dowodow/?fbclid=IwAR1C6G7RYGtp4tV-avgPAZXHa4hFTjheKS8hCcUePWIOemH-rZxO7-10l_g) 
-
-\- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) [https://konkret24.tvn24.pl/.../nie-pielegniarka-ktora...](https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html?fbclid=IwAR0CoBHd_9Y9sF4hFxMbHRZc5nxjKI5u4DX6FJ5BBfyzpiEQXyj-87xaIOc) 
-
-\- [https://www.reuters.com/.../uk-factcheck-nurse-covid...](https://www.reuters.com/article/uk-factcheck-nurse-covid-vaccine-dead-idUSKBN29629G?fbclid=IwAR1-3CyGMbvdVbRoZc0nrbxCQPG2zlQRly9JE4eQMQfxwurPfjk0o0Nx_Eg) 
-
-\- [https://www.factcheck.org/.../anti-vaccine-posts-use.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Fanti-vaccine-posts-use-deceptively-edited-video-clip%2F%3Ffbclid%3DIwAR1RUcRRcrNuJmqxd0J6JaANJbhnKMD8HNYPZ1hiWy5mydm38dDZH96CkM8&h=AT1zUSH6ilcUKWvtt0aeSDOpeOoa4OE2be_l63w4DjrheJu5gG6-hq1_CyszcfV-49ZnYY9dmvNUmNyuV1OC_tq70ZpF84NMMORug70aJtr12l12zAONyCKH7LCjIUAsvyeTC3g&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
 ## Jak to jest z tą odpornością na COVID? Na ile czasu właściwie szczepionka dostarczy nam odporności? Oraz jak to się ma do tego, że wirus ciągle mutuje?
 
@@ -708,11 +698,18 @@ DLA CHĘTNYCH
 
 
 # Fejki
-
-## Pielęgniarka umarła w UK? NIE
-
+## Podobno Amerykańska pielęgniarka zmarła po podaniu szczepionki Pfizera (spoiler alert: to fejk!)
 Nie, nie umarła.
+
 https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html
+
+\- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) [https://fakenews.pl/.../zmarla-tiffany-dover.../](https://fakenews.pl/zdrowie/zmarla-tiffany-dover-pielegniarka-zaszczepiona-na-covid-19-brak-dowodow/?fbclid=IwAR1C6G7RYGtp4tV-avgPAZXHa4hFTjheKS8hCcUePWIOemH-rZxO7-10l_g) 
+
+\- ![🇵🇱](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/2/16/1f1f5_1f1f1.png) [https://konkret24.tvn24.pl/.../nie-pielegniarka-ktora...](https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepieniu-nie-umarla,1042567.html?fbclid=IwAR0CoBHd_9Y9sF4hFxMbHRZc5nxjKI5u4DX6FJ5BBfyzpiEQXyj-87xaIOc) 
+
+\- [https://www.reuters.com/.../uk-factcheck-nurse-covid...](https://www.reuters.com/article/uk-factcheck-nurse-covid-vaccine-dead-idUSKBN29629G?fbclid=IwAR1-3CyGMbvdVbRoZc0nrbxCQPG2zlQRly9JE4eQMQfxwurPfjk0o0Nx_Eg) 
+
+\- [https://www.factcheck.org/.../anti-vaccine-posts-use.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Fanti-vaccine-posts-use-deceptively-edited-video-clip%2F%3Ffbclid%3DIwAR1RUcRRcrNuJmqxd0J6JaANJbhnKMD8HNYPZ1hiWy5mydm38dDZH96CkM8&h=AT1zUSH6ilcUKWvtt0aeSDOpeOoa4OE2be_l63w4DjrheJu5gG6-hq1_CyszcfV-49ZnYY9dmvNUmNyuV1OC_tq70ZpF84NMMORug70aJtr12l12zAONyCKH7LCjIUAsvyeTC3g&__tn__=-UK-R&c[0]=AT0wx9o_9FoDMDQ4Fy2asE4d7NvK4xosd2kvodjwljnskgGsfTeTrk2nMEMKZ4lCzJ3-L0DFYq5kVuYH9FZQ2Nv7KNpyC6WW2Gb_Dakg-zofMBqBopHq4aNQIDel8KyGuK7AfFedLaeKDR4Ub5b-KsizcO2Fg89-5u1BpoSH86bI__s) 
 
 # Posty nieprawdziwe różne
 
