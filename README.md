@@ -1,6 +1,6 @@
 
 <div align="left">
-  <h1>Do Science! Covid FQA</h1>
+  <h1>Do Science! Covid FAQ</h1>
     <img align="center" width="300px" src="imgs/logo.png"></center>
 </div>
 
