@@ -41,11 +41,13 @@ Table of Contents
   * [Czy wszystkie szczepionki przeciwko COVID, które są w trakcie badań klinicznych, opierają się o tę samą technologię, czyli wykorzystują mRNA?](#czy-wszystkie-szczepionki-przeciwko-covid-kt%C3%B3re-s%C4%85-w-trakcie-bada%C5%84-klinicznych-opieraj%C4%85-si%C4%99-o-t%C4%99-sam%C4%85-technologi%C4%99-czyli-wykorzystuj%C4%85-mrna)
   * [Temat przerzucenia odpowiedzialności za potencjalne działania niepożądane z producentów na rząd\. O co w tym wszystkim chodzi?](#temat-przerzucenia-odpowiedzialno%C5%9Bci-za-potencjalne-dzia%C5%82ania-niepo%C5%BC%C4%85dane-z-producent%C3%B3w-na-rz%C4%85d-o-co-w-tym-wszystkim-chodzi)
   * [Kto ponosi odpowiedzialność za szczepienia?](#kto-ponosi-odpowiedzialno%C5%9B%C4%87-za-szczepienia)
+    * [Fundusz kompensacyjny?](#fundusz-kompensacyjny)
   * [Szczepionki więcej dobrego niż złego?](#szczepionki-wi%C4%99cej-dobrego-ni%C5%BC-z%C5%82ego)
   * [Jaka jest skuteczność szczepionki na grypę sezonowa?](#jaka-jest-skuteczno%C5%9B%C4%87-szczepionki-na-gryp%C4%99-sezonowa)
 * [Stanowiska](#stanowiska)
   * [Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID\-19 oraz testach PCR wykrywających SARS\-CoV\-2](#stanowisko-komitetu-genetyki-cz%C5%82owieka-i-patologii-molekularnej-pan-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywaj%C4%85cych-sars-cov-2)
   * [Stanowisko to jest również podzielane przez <strong>Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej</strong>](#stanowisko-to-jest-r%C3%B3wnie%C5%BC-podzielane-przez-polskie-towarzystwo-immunologii-do%C5%9Bwiadczalnej-i-klinicznej)
+  * [Historia szczepionek RNA?](#historia-szczepionek-rna)
 * [\#mrnawpigułce](#mrnawpigu%C5%82ce)
   * [OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE \!11\!\!\!\!](#osoby-zmar%C5%82y-po-przyj%C4%99ciu-szczepionki-przeciwko-covid-19-wloncz-my%C5%9Blnie-11)
   * [LUCYFERAZA RAZ\!](#lucyferaza-raz)
@@ -403,6 +405,13 @@ Liczę, że będzie to krok ku otworzeniu funduszu na wzór amerykańskiego NVIC
 
 https://www.facebook.com/DrToczylowski/photos/a.141619736441869/781885772415259/?__tn__=%2CO*F
 
+![](imgs/139572083_2154476454714235_6400582400414057261_o.png)
+
+### Fundusz kompensacyjny?
+> Aby zwiększyć bezpieczeństwo pacjentów, zaproponowaliśmy rozwiązanie polegające na stworzeniu Funduszu Kompensacyjnego. Dysponentem Funduszu będzie Rzecznik Praw Pacjenta - poinformował na konferencji prasowej minister Adam Niedzielski. Do świadczeń będą uprawnieni pacjenci, którzy w wyniku NOP po podaniu szczepionki przeciw COVID-19 spędzą w szpitalu co najmniej 14 dni lub będą miały wstrząs anafilaktyczny.
+
+https://pulsmedycyny.pl/powstanie-fundusz-kompensacyjny-dla-pacjentow-z-najciezszymi-nop-po-zaszczepieniu-na-covid-19-1105366
+
 ## Szczepionki więcej dobrego niż złego?
 
 ![](imgs/vax.png)
@@ -521,6 +530,27 @@ Piśmiennictwo:
 12. https://www.hematology.org/covid-19/ash-astct-covid-19-and-vaccines
 
 Źródło http://www.ptg-e.org.pl/Stanowisko-Polskiego-Towarzystwa-Gastroenterologii-oraz-Konsultanta-Krajowego-w-dziedzinie-gastroenterologii-w-sprawie-szczepien-przeciw-COVID-19-u-pacjentow-z-nieswoistymi-chorobami-zapalnymi-jelit-,310.html 
+## Historia szczepionek RNA?
+https://www.facebook.com/profKrzysztofJFilipiak/posts/2154493061379241
+
+Prof. Krzysztof J. Filipiak
+
+31 LAT TRWAŁA HISTORIA BADAŃ NAD SZCZEPIONKAMI mRNA, którymi możemy dzisiaj się zaszczepić przeciwko COVID-19 i zwalczyć pandemię. Nie wszyscy zrozumieją dokładny mechanizm ich działania (rycina z podręcznika immunologii), ale każdy prześledzić może to KALENDARIUM - już niedługo znajdzie się ono pewnie w każdym podręczniku historii medycyny. Żyjemy w trudnych, pandemicznych czasach, ale czasach triumfu medycyny i jej postępów!
+1989 – pierwsze dane o możliwości transportu mRNA zamkniętego w cząsteczkach liposomalnych do komórek ssaków (Instytut Salka, University of California-San Diego)
+1990 – pierwsze zastosowanie technologii wstrzykiwania mRNA na zwierzętach (University of Wisconsin)
+1993 – pierwsze dowody na skuteczność zamkniętego w liposomach RNA w stymulacji limfocytów typu T
+1994 – pierwsza publikacja o możliwości zastosowania mRNA jako szczepionki skutecznej w pobudzaniu odpowiedzi komórkowej i humoralnej
+2000 – utworzenie pierwszej niemieckiej firmy biotechnologicznej CureVac, badającej możliwości produkcji szczepionek mRNA (Ingmar Hoerr) – szczepionka mRNA przeciwko COVID-19 tej właśnie firmy aktualnie w stadium badań klinicznych
+2001 – pierwsze badania kliniczne na ludziach – dostarczenie mRNA do komórke dendrytycznych i wprowadzenie tych komórek do organizmu pacjenta 
+2005 – ostateczne pokonanie barier w skutecznym dostarczeniu mRNA do komórki poprzez użycie modyfikowanych nukleozydów (Węgierka – Katalin Kariko oraz Amerykanin – Drew Wiessman)
+2009 – pierwsze badania kliniczne na ludziach z bezpośrednim wstrzyknięciem mRNA – badania na grupie chorych z przerzutową, zaawansowaną formą czerniaka złośliwego
+2010 – utworzenie pierwszej amerykańskiej firmy biotechnologicznej Moderna (ModeRNA Therapeutics) nakierowanej na produkcję szczepionek opartych na technologii mRNA; powstanie podobnej firmy niemieckiej BioNTech w Europie.
+2010-20 – okres badań różnych leków i szczepionek mRNA w obszarze: sercowo-naczyniowym, metabolicznym, chorób nerek, wybranych nowotworów; wstępne próby szczepionek mRNA m.in. dla wirusa grypy, cytomegalowirusa, wirusa Zika
+2020 – Pfizer/BioNTech otrzymują pozwolenie na dopuszczenie do stosowania szczepionki mRNA przeciwko COVID-19 w związku z pandemią na świecie
+2020 – Wielka Brytania jako pierwszy kraj na świecie rejestruje szczepionkę mRNA przeciwko COVID-19 firmy Pfizer/BioNTech i rozpoczyna jej podawanie; kilka dni później podobną decyzję podejmuje FDA w USA, następnie EMA w Unii Europejskiej
+2021 - druga szczepionka mRNA (firmy Moderna) zarejestrowana i dostępna w Unii Europejskiej
+2021 - kolejne szczepionki w tej technologii czekają na publikacje badań i rejestrację ...
+
 # #mrnawpigułce
 
 https://www.facebook.com/hashtag/mrnawpigułce
