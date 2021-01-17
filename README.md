@@ -8,6 +8,8 @@ Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 
 Agregator wiedzy o pandemii.
 
+https://github.com/mmagnus/do-science-covid-faq
+
 Table of Contents
 =================
 
@@ -422,8 +424,6 @@ Dlatego polski Narodowy Program Szczepień przeciwko COVID-19 uwzględnia utworz
 Liczę, że będzie to krok ku otworzeniu funduszu na wzór amerykańskiego NVICP, którego moim zdaniem w Polsce bardzo brakuje. 
 
 https://www.facebook.com/DrToczylowski/photos/a.141619736441869/781885772415259/?__tn__=%2CO*F
-
-![](imgs/139572083_2154476454714235_6400582400414057261_o.png)
 
 ### Fundusz kompensacyjny?
 > Aby zwiększyć bezpieczeństwo pacjentów, zaproponowaliśmy rozwiązanie polegające na stworzeniu Funduszu Kompensacyjnego. Dysponentem Funduszu będzie Rzecznik Praw Pacjenta - poinformował na konferencji prasowej minister Adam Niedzielski. Do świadczeń będą uprawnieni pacjenci, którzy w wyniku NOP po podaniu szczepionki przeciw COVID-19 spędzą w szpitalu co najmniej 14 dni lub będą miały wstrząs anafilaktyczny.
