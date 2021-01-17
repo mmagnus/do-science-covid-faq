@@ -45,14 +45,14 @@ Table of Contents
   * [Szczepionki więcej dobrego niż złego?](#szczepionki-wi%C4%99cej-dobrego-ni%C5%BC-z%C5%82ego)
   * [Poszczepienne problemy (historycznie)?](#poszczepienne-problemy-historycznie)
   * [Jaka jest skuteczność szczepionki na grypę sezonowa?](#jaka-jest-skuteczno%C5%9B%C4%87-szczepionki-na-gryp%C4%99-sezonowa)
-* [Stanowiska](#stanowiska)
-  * [Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID\-19 oraz testach PCR wykrywających SARS\-CoV\-2](#stanowisko-komitetu-genetyki-cz%C5%82owieka-i-patologii-molekularnej-pan-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywaj%C4%85cych-sars-cov-2)
-  * [Stanowisko to jest również podzielane przez <strong>Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej</strong>](#stanowisko-to-jest-r%C3%B3wnie%C5%BC-podzielane-przez-polskie-towarzystwo-immunologii-do%C5%9Bwiadczalnej-i-klinicznej)
   * [Historia szczepionek RNA?](#historia-szczepionek-rna)
   * [Dać ludziom chorować i nabędziemy odporności zbiorowej? NIE](#da%C4%87-ludziom-chorowa%C4%87-i-nab%C4%99dziemy-odporno%C5%9Bci-zbiorowej-nie)
   * [Jakie są różnice między szczepionkami Pfizer/BioNTech a ModeRNA?](#jakie-s%C4%85-r%C3%B3%C5%BCnice-mi%C4%99dzy-szczepionkami-pfizerbiontech-a-moderna)
   * [Jakie szczepionki są w badaniach?](#jakie-szczepionki-s%C4%85-w-badaniach)
     * [Johnson &amp; Johnson](#johnson--johnson)
+* [Stanowiska](#stanowiska)
+  * [Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID\-19 oraz testach PCR wykrywających SARS\-CoV\-2](#stanowisko-komitetu-genetyki-cz%C5%82owieka-i-patologii-molekularnej-pan-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywaj%C4%85cych-sars-cov-2)
+  * [Stanowisko to jest również podzielane przez <strong>Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej</strong>](#stanowisko-to-jest-r%C3%B3wnie%C5%BC-podzielane-przez-polskie-towarzystwo-immunologii-do%C5%9Bwiadczalnej-i-klinicznej)
 * [\#mrnawpigułce](#mrnawpigu%C5%82ce)
   * [OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE \!11\!\!\!\!](#osoby-zmar%C5%82y-po-przyj%C4%99ciu-szczepionki-przeciwko-covid-19-wloncz-my%C5%9Blnie-11)
   * [LUCYFERAZA RAZ\!](#lucyferaza-raz)
@@ -430,6 +430,51 @@ Narkolepsja
 
 Skuteczność szczepionki na grypę to około 60%, te szczepionki na covid maja skuteczność 95% [https://www.nejm.org/doi/full/10.1056/NEJMoa2034577]
 
+## Historia szczepionek RNA?
+https://www.facebook.com/profKrzysztofJFilipiak/posts/2154493061379241
+
+Prof. Krzysztof J. Filipiak
+
+31 LAT TRWAŁA HISTORIA BADAŃ NAD SZCZEPIONKAMI mRNA, którymi możemy dzisiaj się zaszczepić przeciwko COVID-19 i zwalczyć pandemię. Nie wszyscy zrozumieją dokładny mechanizm ich działania (rycina z podręcznika immunologii), ale każdy prześledzić może to KALENDARIUM - już niedługo znajdzie się ono pewnie w każdym podręczniku historii medycyny. Żyjemy w trudnych, pandemicznych czasach, ale czasach triumfu medycyny i jej postępów!
+1989 – pierwsze dane o możliwości transportu mRNA zamkniętego w cząsteczkach liposomalnych do komórek ssaków (Instytut Salka, University of California-San Diego)
+1990 – pierwsze zastosowanie technologii wstrzykiwania mRNA na zwierzętach (University of Wisconsin)
+1993 – pierwsze dowody na skuteczność zamkniętego w liposomach RNA w stymulacji limfocytów typu T
+1994 – pierwsza publikacja o możliwości zastosowania mRNA jako szczepionki skutecznej w pobudzaniu odpowiedzi komórkowej i humoralnej
+2000 – utworzenie pierwszej niemieckiej firmy biotechnologicznej CureVac, badającej możliwości produkcji szczepionek mRNA (Ingmar Hoerr) – szczepionka mRNA przeciwko COVID-19 tej właśnie firmy aktualnie w stadium badań klinicznych
+2001 – pierwsze badania kliniczne na ludziach – dostarczenie mRNA do komórke dendrytycznych i wprowadzenie tych komórek do organizmu pacjenta 
+2005 – ostateczne pokonanie barier w skutecznym dostarczeniu mRNA do komórki poprzez użycie modyfikowanych nukleozydów (Węgierka – Katalin Kariko oraz Amerykanin – Drew Wiessman)
+2009 – pierwsze badania kliniczne na ludziach z bezpośrednim wstrzyknięciem mRNA – badania na grupie chorych z przerzutową, zaawansowaną formą czerniaka złośliwego
+2010 – utworzenie pierwszej amerykańskiej firmy biotechnologicznej Moderna (ModeRNA Therapeutics) nakierowanej na produkcję szczepionek opartych na technologii mRNA; powstanie podobnej firmy niemieckiej BioNTech w Europie.
+2010-20 – okres badań różnych leków i szczepionek mRNA w obszarze: sercowo-naczyniowym, metabolicznym, chorób nerek, wybranych nowotworów; wstępne próby szczepionek mRNA m.in. dla wirusa grypy, cytomegalowirusa, wirusa Zika
+2020 – Pfizer/BioNTech otrzymują pozwolenie na dopuszczenie do stosowania szczepionki mRNA przeciwko COVID-19 w związku z pandemią na świecie
+2020 – Wielka Brytania jako pierwszy kraj na świecie rejestruje szczepionkę mRNA przeciwko COVID-19 firmy Pfizer/BioNTech i rozpoczyna jej podawanie; kilka dni później podobną decyzję podejmuje FDA w USA, następnie EMA w Unii Europejskiej
+2021 - druga szczepionka mRNA (firmy Moderna) zarejestrowana i dostępna w Unii Europejskiej
+2021 - kolejne szczepionki w tej technologii czekają na publikacje badań i rejestrację ...
+
+## Dać ludziom chorować i nabędziemy odporności zbiorowej? NIE
+
+> Jeśli ktokolwiek jeszcze ma wątpliwości, czy możemy nabyć odporności zbiorowiskowej na SARS-CoV-2 w wyniku zakażeń "dzikim" wirusem, może przeżyć spore rozczarowanie. Kwestie te porusza artykuł z najnowszego numeru "Science". Pomijam fakt, że jak do tej pory nigdy nie udało się nabyć "herd immunity" w wyniku naturalnych zakażeń.
+
+https://www.facebook.com/permalink.php?story_fbid=224350382668942&id=105823707854944
+
+https://science.sciencemag.org/content/371/6526/230
+
+## Jakie są różnice między szczepionkami Pfizer/BioNTech a ModeRNA?
+Krótkie i zwięzłe podsumowanie podobieństw i różnic pomiędzy szczepionkami mRNA przeciwko SARS-CoV-2. Warto przeczytać
+
+> Unia Europejska autoryzowała do tej pory dwie szczepionki przeciwko covid: od BioNTechu/Pfizera i Moderny. Obie opierają się na technologii mRNA. Co jednak je różni?
+
+https://www.polityka.pl/tygodnikpolityka/nauka/2098649,1,szczepionki-mrna-co-je-laczy-co-rozni-ktora-jest-lepsza.read
+
+## Jakie szczepionki są w badaniach?
+
+### Johnson & Johnson
+
+"New England Journal of Medicine" opublikował właśnie wyniki badań klinicznych 1/2 fazy kolejnego kandydata na szczepionkę przeciwko SARS-CoV-2. Preparat opracowywany przez firmę Johnson & Johnson bazuje na technologii niereplikującego się wektora adenowirusowego Ad.26CoS.2, kodującego pełnej długości białko kolca SARS-CoV-2.
+Badanie miało charakter wieloośrodkowy, z wykorzystaniem placebo i obejmowało dorosłych w wieku od 18 do 55 lat oraz osoby w wieku 65 lat lub starsze. Po podaniu pierwszej dawki szczepionki 805 uczestnikom najczęściej zgłaszanymi działaniami niepożądanymi były: uczucie zmęczenia, bóle głowy, bóle mięśni i bóle w miejscu wstrzyknięcia. Najczęstszym ogólnoustrojowym działaniem niepożądanym była gorączka. Reaktogenność była mniejsza po drugiej dawce. Miana przeciwciał neutralizujących przeciwko wirusowi typu dzikiego wykryto u 90% lub więcej wszystkich uczestników 29 dnia po podaniu pierwszej dawki szczepionki. Miana pozostawały stabilne do co najmniej dnia 71 po zaszczepieniu. Druga dawka zapewniła wzrost miana o współczynnik 2,6 do 2,9. We wnioskach stwierdzono, iż uzyskane profile bezpieczeństwa i immunogenności preparatu Ad26.COV2.S sugerują dalszy jego rozwój jako kandydata na szczepionkę przeciwko SARS-CoV-2. --Tomasz Dzieciątkowski - Trust me I'm a Virologist
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa2034201
+
 # Stanowiska
 
 ## Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID-19 oraz testach PCR wykrywających SARS-CoV-2
@@ -536,51 +581,6 @@ Piśmiennictwo:
 12. https://www.hematology.org/covid-19/ash-astct-covid-19-and-vaccines
 
 Źródło http://www.ptg-e.org.pl/Stanowisko-Polskiego-Towarzystwa-Gastroenterologii-oraz-Konsultanta-Krajowego-w-dziedzinie-gastroenterologii-w-sprawie-szczepien-przeciw-COVID-19-u-pacjentow-z-nieswoistymi-chorobami-zapalnymi-jelit-,310.html 
-## Historia szczepionek RNA?
-https://www.facebook.com/profKrzysztofJFilipiak/posts/2154493061379241
-
-Prof. Krzysztof J. Filipiak
-
-31 LAT TRWAŁA HISTORIA BADAŃ NAD SZCZEPIONKAMI mRNA, którymi możemy dzisiaj się zaszczepić przeciwko COVID-19 i zwalczyć pandemię. Nie wszyscy zrozumieją dokładny mechanizm ich działania (rycina z podręcznika immunologii), ale każdy prześledzić może to KALENDARIUM - już niedługo znajdzie się ono pewnie w każdym podręczniku historii medycyny. Żyjemy w trudnych, pandemicznych czasach, ale czasach triumfu medycyny i jej postępów!
-1989 – pierwsze dane o możliwości transportu mRNA zamkniętego w cząsteczkach liposomalnych do komórek ssaków (Instytut Salka, University of California-San Diego)
-1990 – pierwsze zastosowanie technologii wstrzykiwania mRNA na zwierzętach (University of Wisconsin)
-1993 – pierwsze dowody na skuteczność zamkniętego w liposomach RNA w stymulacji limfocytów typu T
-1994 – pierwsza publikacja o możliwości zastosowania mRNA jako szczepionki skutecznej w pobudzaniu odpowiedzi komórkowej i humoralnej
-2000 – utworzenie pierwszej niemieckiej firmy biotechnologicznej CureVac, badającej możliwości produkcji szczepionek mRNA (Ingmar Hoerr) – szczepionka mRNA przeciwko COVID-19 tej właśnie firmy aktualnie w stadium badań klinicznych
-2001 – pierwsze badania kliniczne na ludziach – dostarczenie mRNA do komórke dendrytycznych i wprowadzenie tych komórek do organizmu pacjenta 
-2005 – ostateczne pokonanie barier w skutecznym dostarczeniu mRNA do komórki poprzez użycie modyfikowanych nukleozydów (Węgierka – Katalin Kariko oraz Amerykanin – Drew Wiessman)
-2009 – pierwsze badania kliniczne na ludziach z bezpośrednim wstrzyknięciem mRNA – badania na grupie chorych z przerzutową, zaawansowaną formą czerniaka złośliwego
-2010 – utworzenie pierwszej amerykańskiej firmy biotechnologicznej Moderna (ModeRNA Therapeutics) nakierowanej na produkcję szczepionek opartych na technologii mRNA; powstanie podobnej firmy niemieckiej BioNTech w Europie.
-2010-20 – okres badań różnych leków i szczepionek mRNA w obszarze: sercowo-naczyniowym, metabolicznym, chorób nerek, wybranych nowotworów; wstępne próby szczepionek mRNA m.in. dla wirusa grypy, cytomegalowirusa, wirusa Zika
-2020 – Pfizer/BioNTech otrzymują pozwolenie na dopuszczenie do stosowania szczepionki mRNA przeciwko COVID-19 w związku z pandemią na świecie
-2020 – Wielka Brytania jako pierwszy kraj na świecie rejestruje szczepionkę mRNA przeciwko COVID-19 firmy Pfizer/BioNTech i rozpoczyna jej podawanie; kilka dni później podobną decyzję podejmuje FDA w USA, następnie EMA w Unii Europejskiej
-2021 - druga szczepionka mRNA (firmy Moderna) zarejestrowana i dostępna w Unii Europejskiej
-2021 - kolejne szczepionki w tej technologii czekają na publikacje badań i rejestrację ...
-
-## Dać ludziom chorować i nabędziemy odporności zbiorowej? NIE
-
-> Jeśli ktokolwiek jeszcze ma wątpliwości, czy możemy nabyć odporności zbiorowiskowej na SARS-CoV-2 w wyniku zakażeń "dzikim" wirusem, może przeżyć spore rozczarowanie. Kwestie te porusza artykuł z najnowszego numeru "Science". Pomijam fakt, że jak do tej pory nigdy nie udało się nabyć "herd immunity" w wyniku naturalnych zakażeń.
-
-https://www.facebook.com/permalink.php?story_fbid=224350382668942&id=105823707854944
-
-https://science.sciencemag.org/content/371/6526/230
-
-## Jakie są różnice między szczepionkami Pfizer/BioNTech a ModeRNA?
-Krótkie i zwięzłe podsumowanie podobieństw i różnic pomiędzy szczepionkami mRNA przeciwko SARS-CoV-2. Warto przeczytać
-
-> Unia Europejska autoryzowała do tej pory dwie szczepionki przeciwko covid: od BioNTechu/Pfizera i Moderny. Obie opierają się na technologii mRNA. Co jednak je różni?
-
-https://www.polityka.pl/tygodnikpolityka/nauka/2098649,1,szczepionki-mrna-co-je-laczy-co-rozni-ktora-jest-lepsza.read
-
-## Jakie szczepionki są w badaniach?
-
-### Johnson & Johnson
-
-"New England Journal of Medicine" opublikował właśnie wyniki badań klinicznych 1/2 fazy kolejnego kandydata na szczepionkę przeciwko SARS-CoV-2. Preparat opracowywany przez firmę Johnson & Johnson bazuje na technologii niereplikującego się wektora adenowirusowego Ad.26CoS.2, kodującego pełnej długości białko kolca SARS-CoV-2.
-Badanie miało charakter wieloośrodkowy, z wykorzystaniem placebo i obejmowało dorosłych w wieku od 18 do 55 lat oraz osoby w wieku 65 lat lub starsze. Po podaniu pierwszej dawki szczepionki 805 uczestnikom najczęściej zgłaszanymi działaniami niepożądanymi były: uczucie zmęczenia, bóle głowy, bóle mięśni i bóle w miejscu wstrzyknięcia. Najczęstszym ogólnoustrojowym działaniem niepożądanym była gorączka. Reaktogenność była mniejsza po drugiej dawce. Miana przeciwciał neutralizujących przeciwko wirusowi typu dzikiego wykryto u 90% lub więcej wszystkich uczestników 29 dnia po podaniu pierwszej dawki szczepionki. Miana pozostawały stabilne do co najmniej dnia 71 po zaszczepieniu. Druga dawka zapewniła wzrost miana o współczynnik 2,6 do 2,9. We wnioskach stwierdzono, iż uzyskane profile bezpieczeństwa i immunogenności preparatu Ad26.COV2.S sugerują dalszy jego rozwój jako kandydata na szczepionkę przeciwko SARS-CoV-2. --Tomasz Dzieciątkowski - Trust me I'm a Virologist
-
-https://www.nejm.org/doi/full/10.1056/NEJMoa2034201
-
 # #mrnawpigułce
 
 https://www.facebook.com/hashtag/mrnawpigułce
