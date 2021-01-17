@@ -22,6 +22,7 @@ Table of Contents
   * [Wyjątkowo dobre filmy](#wyj%C4%85tkowo-dobre-filmy)
 * [FAQ](#faq)
   * [Czy szczepionki mRNA to "terapie genowe?" NIE](#czy-szczepionki-mrna-to-terapie-genowe-nie)
+  * [Czy mRNA ze szczepionki replikuje się w komórkach? NIE](#czy-mrna-ze-szczepionki-replikuje-si%C4%99-w-kom%C3%B3rkach-nie)
   * [Czy mRNA może być włączone do DNA?](#czy-mrna-mo%C5%BCe-by%C4%87-w%C5%82%C4%85czone-do-dna)
     * [Przez odwrotną transkryptazę? NIE](#przez-odwrotn%C4%85-transkryptaz%C4%99-nie)
     * [Przez retrotraspozony LINE? NIE](#przez-retrotraspozony-line-nie)
@@ -146,14 +147,23 @@ Kasia tłumaczy jak jest, bardzo przystępnie o nowych szczepionkach RNA, dlacze
 
 Szczepienia nie są terapią genową. Terapie genowe wprowadzają zmiany w genomie, natomiast w przypadku szczepionek mRNA (szczepionki firm Pfizer i Moderna) nie ma mowy o zmianach genetycznych, ponieważ nie ma fizycznie możliwości, żeby cząsteczka mRNA została przepisana na DNA (a więc prościej: aby doszło do kierowanej modyfikacji genetycznej).
 
+## Czy mRNA ze szczepionki replikuje się w komórkach? NIE
+
+mRNA się nie replikuje w komórkach.
+
+-------------------------------------------------------------------------------
+
+W literaturze znana jest technologia pozwalająca RNA się replikować, aby podawać mniejsze dawki i obniżyć reakcje niepożądane, ale nie jest ona stosowana w szczepionkach Pfizer/BioNTech ani Moderna.
+
+https://www.nature.com/articles/d41586-021-00019-w
+
 ## Czy mRNA może być włączone do DNA?
-- to mRNA się nie replikuje!
-- mRNA nie włącza się do DNA (więc kolejny fragment nie ma zupełnie sensu, i jest zbudowany na argumencie, że kiedyś używana DNA w terapiach genowych i ono mogło się włączyć do DNA) - w komórkach ludzkich nie ma ŻADNEGO enzymu, który wziąć mRNA ze szczepionki i je przepisać na DNA a następnie włączyć to DNA do genomu człowieka.
-- Telomeraza nie może sobie działać na byle jakim mRNA, więc nie zadziała na mRNA.
+
+mRNA nie włącza się do DNA (więc kolejny fragment nie ma zupełnie sensu, i jest zbudowany na argumencie, że kiedyś używana DNA w terapiach genowych i ono mogło się włączyć do DNA) - w komórkach ludzkich nie ma ŻADNEGO enzymu, który wziąć mRNA ze szczepionki i je przepisać na DNA a następnie włączyć to DNA do genomu człowieka.
+
+Telomeraza nie może sobie działać na byle jakim mRNA, więc nie zadziała na mRNA.
 
 Zresztą jakby tak było, to sama infekcja Covidem powodowałaby, że jego RNA wchodziłby do naszych genów i je zmieniał, a o tym jakoś nikt nie mówi. Dlatego mRNA szczepionki miałby by się integrować w genom a RNA z wirusa już nie?
-
-
 
 ### Przez odwrotną transkryptazę? NIE
 
