@@ -19,6 +19,7 @@ Table of Contents
 * [Wyjątkowo dobre artykuły](#wyj%C4%85tkowo-dobre-artyku%C5%82y)
   * [Wyjątkowo dobre filmy](#wyj%C4%85tkowo-dobre-filmy)
 * [FAQ](#faq)
+  * [Czy szczepionki mRNA to "terapie genowe?" NIE](#czy-szczepionki-mrna-to-terapie-genowe-nie)
   * [Czy mRNA może być włączone do DNA?](#czy-mrna-mo%C5%BCe-by%C4%87-w%C5%82%C4%85czone-do-dna)
     * [Przez odwrotną transkryptazę? NIE](#przez-odwrotn%C4%85-transkryptaz%C4%99-nie)
     * [Przez retrotraspozony LINE? NIE](#przez-retrotraspozony-line-nie)
@@ -134,9 +135,15 @@ How the Pfizer-BioNTech Vaccine Works
 
 Kasia tłumaczy jak jest, bardzo przystępnie o nowych szczepionkach RNA, dlaczego nie są takie nowe, jakie są skutki uboczne, dlaczego CEO Pfizera sprzedał swoje akcje wtedy kiedy sprzedał i dlaczego wszystko poszło tak szybko (co zaskoczyło wszystkich, w tym naukowców, np. dr Fauciego, a trochę w tym szczęścia, ogromu wiedzy i bardzo dużo płynącego $$$). Świetne! 
 
-https://www.youtube.com/watch?v=XRW9E5Gq_Ew
+**11 pytań o szczepionki mRNA na COVID-19**
+<iframe width="800" height="441" src="https://www.youtube.com/embed/XRW9E5Gq_Ew" frameborder="0" allowfullscreen></iframe>
+<https://www.youtube.com/watch?v=XRW9E5Gq_Ew>
 
 # FAQ
+## Czy szczepionki mRNA to "terapie genowe?" NIE
+
+Szczepienia nie są terapią genową. Terapie genowe wprowadzają zmiany w genomie, natomiast w przypadku szczepionek mRNA (szczepionki firm Pfizer i Moderna) nie ma mowy o zmianach genetycznych, ponieważ nie ma fizycznie możliwości, żeby cząsteczka mRNA została przepisana na DNA (a więc prościej: aby doszło do kierowanej modyfikacji genetycznej).
+
 ## Czy mRNA może być włączone do DNA?
 - to mRNA się nie replikuje!
 - mRNA nie włącza się do DNA (więc kolejny fragment nie ma zupełnie sensu, i jest zbudowany na argumencie, że kiedyś używana DNA w terapiach genowych i ono mogło się włączyć do DNA) - w komórkach ludzkich nie ma ŻADNEGO enzymu, który wziąć mRNA ze szczepionki i je przepisać na DNA a następnie włączyć to DNA do genomu człowieka.
@@ -775,8 +782,6 @@ https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepie
 
 ## Pediatra - Bogdan Szpyruk
 
-
-
 > A co z ludźmi, którzy nie chcą się "szczepic"?
 >
 > Cała ta polaryzacja społeczeństwa doprowadziła do wrzucania ludzi do dwóch worów: pro- i antyszczepionkowców.  Do wora anty- wrzucani są także wszyscy, którzy po prostu się boją skutków odległych, mają poważne choroby przewlekłe, stosują leki przewlekle, planują ciążę, albo karmią piersią lub po prostu ludzie, którzy nie czują potrzeby przyjmowania wszystkich dobrodziejstw nauki i medycyny, aby tylko wywalczyć sobie dodatkowy rok bez jednej infekcji wirusowej. Ludziom z tego wora pragnę powiedzieć, że te "mesjańskie terapie genowe", zwane nieustannie szczepieniami nie były badane na ludziach chorych, leczących się przewlekle, ani na kobietach ciężarnych. Badania dopiero się zaczęły (sic!).  
@@ -793,11 +798,8 @@ https://konkret24.tvn24.pl/swiat,109/nie-pielegniarka-ktora-zemdlala-po-szczepie
 
 https://www.facebook.com/PediatraGarwolin/posts/2809925472603683?comment_id=2810121609250736&notif_id=1610730815735126&notif_t=feedback_reaction_generic&ref=notif
 
-[Kacper Wiącek](https://www.facebook.com/kacper.wiacek.10?comment_id=Y29tbWVudDoyODA5OTI1NDcyNjAzNjgzXzI4MTAwNzY3MDkyNTUyMjY%3D&__cft__[0]=AZV2N8MYpCpGyuENNmOaL12TVs92UU1Z_m7bNvnjeH3oWqjHaCV3p-9LdHDHqEuZ5IureGBFy-mktB8-ILESobGdTRNrdVv-GdhJiWAq91qxKH7Jd0vLkslYRcaYvh80xsbWkBtgLjfQP3FO9xlhG-r7&__tn__=R]-R)
-
 To co Pana różni od prawdziwych specjalistów to podawanie źródeł, żaden szanujący się człowiek nauki nie pisze sobie od tak na Facebooku co mu się podoba, nie podając żadnych badań potwierdzających jego słów. Poraża mnie hipokryzja tego postu, pisze Pan o szczepionkach, których badania dopiero się zaczęły? One trwały od sierpnia i już się zakończyły, przeszły wszystkie wymagane fazy i zostały zaakceptowane przez agencje medyczne (to już zwyczajne kłamstwo), a jednocześnie rzuca Pan jakimiś niemalże przypadkowymi ziółkami i preparatami z niemalże zerowymi badaniami na temat ich skuteczności i tu już magicznie znikają wszelki sceptycyzm i wątpliwości, które bezpodstawnie towarzyszą w Pana wypowiedziach o szczepionkach. Tak dla jasności, szczepionkę można przyjmować jeśli karmimy piersią, specjalne towarzystwa to stwierdziły, wśród badanych były osoby przewlekłe chore i po przejściu covidu, a nawet niektóre badane kobiety zaszły w ciążę w trakcie i nic się nie dzieje dotychczas z ich dziećmi. Mimo to wszyscy rozumieją, że osoby ciężarne nie chcą się szczepić, i nikt ich za to nie wini. Za to takie osoby jak Pan są po prostu szkodliwe, bi zagrażają życiu udających im osób i pozostałych którzy mogą być narażeni na poważne (w przeciwieństwie do szczepionki) efektu przebycia covidu. Bo jest Pan przecież obrońcą praw obywateli, mając setki wziętych nie wiadomo skąd zastrzeżeń, które już dawno zostały obalone badaniami, a nie postami na Facebooku, ale oczywiście już wszystko jest ok z zupełnie nieprzebadanymi lekami, za którymi opowiada się garstka lekarzy z nikłymi dowodami. Swoją drogą ciekawe czemu? Może dlatego, że za szczepionkę nic Pan nie dostanie, bo jest dla obywateli praktycznie za darmo, ale jak pokazuję lekarz z Przemyśla na biznesie z amantadyny można się nieźle dorobić, bo naiwni ludzi zjeżdżają się z całej Polski na wizyty, a za każdą można sobie policzyć pareset złotych i interes się kręci.
-
-
 
 # Authors
 Mega podsumowanie Agata
+
