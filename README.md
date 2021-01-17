@@ -6,6 +6,8 @@
 
 Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 
+Agregator wiedzy o pandemii.
+
 Table of Contents
 =================
 
