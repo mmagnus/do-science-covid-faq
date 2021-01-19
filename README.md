@@ -23,7 +23,8 @@ Table of Contents
 * [Wyjątkowo dobre artykuły](#wyj%C4%85tkowo-dobre-artyku%C5%82y)
   * [Wyjątkowo dobre filmy](#wyj%C4%85tkowo-dobre-filmy)
 * [Najnowsze](#najnowsze)
-  * [Czy 23 osoby zmarły w Norwegii na skutek szczepienia na COVID\-19?](#czy-23-osoby-zmar%C5%82y-w-norwegii-na-skutek-szczepienia-na-covid-19)
+  * [Czy 23 osoby zmarły w Norwegii na skutek szczepienia na COVID\-19? Brak dowodów](#czy-23-osoby-zmar%C5%82y-w-norwegii-na-skutek-szczepienia-na-covid-19-brak-dowod%C3%B3w)
+  * [Kilka procent umiera\! Ja nie umrę? FAŁSZ](#kilka-procent-umiera-ja-nie-umr%C4%99-fa%C5%82sz)
 * [FAQ](#faq)
   * [Czy szczepionki mRNA to "terapie genowe?" NIE](#czy-szczepionki-mrna-to-terapie-genowe-nie)
   * [Czy mRNA ze szczepionki replikuje się w komórkach? NIE](#czy-mrna-ze-szczepionki-replikuje-si%C4%99-w-kom%C3%B3rkach-nie)
@@ -156,10 +157,13 @@ Kasia tłumaczy jak jest, bardzo przystępnie o nowych szczepionkach RNA, dlacze
 <https://www.youtube.com/watch?v=XRW9E5Gq_Ew>
 
 # Najnowsze
-## Czy 23 osoby zmarły w Norwegii na skutek szczepienia na COVID-19?
+## Czy 23 osoby zmarły w Norwegii na skutek szczepienia na COVID-19? Brak dowodów
 
 Tak, niestety to prawda. Ale ciekawe jak te osoby przeszly by zarażenie covidem. Niestety okazało, się, że reakcja na szczepionkę dla tak słabych osób była zasilna (lub to są przypadkowe zgody, nie związane ze szczepieniem, gdyż w norwegii umiera 400 bardzo starych i nieuleczalnie chorych dziennie). Lekarz powinien ocenić czy pacjenta klasyfikować do szczepienia, więc to on podejmuje decyzje https://fakenews.pl/zdrowie/czy-23-osoby-zmarly-w-norwegii-po-przyjeciu-szczepionki-na-covid/
 
+## Kilka procent umiera! Ja nie umrę? FAŁSZ
+Niestety, pojawia się coraz więcej informacji, że bez objawowy covid to początek dużych problemów ze zdrowiem.
+https://www.theguardian.com/society/2021/jan/18/almost-30-of-covid-patients-in-england-re-admitted-to-hospital-after-discharge-study?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1611002851
 # FAQ
 ## Czy szczepionki mRNA to "terapie genowe?" NIE
 
