@@ -158,9 +158,7 @@ Kasia tłumaczy jak jest, bardzo przystępnie o nowych szczepionkach RNA, dlacze
 # Najnowsze
 ## Czy 23 osoby zmarły w Norwegii na skutek szczepienia na COVID-19?
 
-Tak, to prawda. Ale ciekawe jak te osoby przeszly by zarażenie covidem. Niestety okazało, się, że reakcja na szczepionkę dla tak słabych osób była zasilna (lub to są przypadkowe zgody, nie związane ze szczepieniem, gdyż w norwegii umiera 400 bardzo starych i nieuleczalnie chorych dziennie). 
-
-https://fakenews.pl/.../czy-23-osoby-zmarly-w-norwegii.../
+Tak, niestety to prawda. Ale ciekawe jak te osoby przeszly by zarażenie covidem. Niestety okazało, się, że reakcja na szczepionkę dla tak słabych osób była zasilna (lub to są przypadkowe zgody, nie związane ze szczepieniem, gdyż w norwegii umiera 400 bardzo starych i nieuleczalnie chorych dziennie). Lekarz powinien ocenić czy pacjenta klasyfikować do szczepienia, więc to on podejmuje decyzje https://fakenews.pl/zdrowie/czy-23-osoby-zmarly-w-norwegii-po-przyjeciu-szczepionki-na-covid/
 
 # FAQ
 ## Czy szczepionki mRNA to "terapie genowe?" NIE
