@@ -56,7 +56,9 @@ Table of Contents
   * [Jakie są różnice między szczepionkami Pfizer/BioNTech a ModeRNA?](#jakie-s%C4%85-r%C3%B3%C5%BCnice-mi%C4%99dzy-szczepionkami-pfizerbiontech-a-moderna)
   * [Jakie szczepionki są w badaniach?](#jakie-szczepionki-s%C4%85-w-badaniach)
     * [Johnson &amp; Johnson](#johnson--johnson)
+    * [Jakies inne szczepinki są dopuszczone?](#jakies-inne-szczepinki-s%C4%85-dopuszczone)
 * [Stanowiska](#stanowiska)
+  * [Karmisz piersią? Możesz się szczepić?](#karmisz-piersi%C4%85-mo%C5%BCesz-si%C4%99-szczepi%C4%87)
   * [Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID\-19 oraz testach PCR wykrywających SARS\-CoV\-2](#stanowisko-komitetu-genetyki-cz%C5%82owieka-i-patologii-molekularnej-pan-w-sprawie-rozpowszechnianych-nieprawdziwych-informacji-o-szczepionkach-przeciw-covid-19-oraz-testach-pcr-wykrywaj%C4%85cych-sars-cov-2)
   * [Stanowisko to jest również podzielane przez <strong>Polskie Towarzystwo Immunologii Doświadczalnej i Klinicznej</strong>](#stanowisko-to-jest-r%C3%B3wnie%C5%BC-podzielane-przez-polskie-towarzystwo-immunologii-do%C5%9Bwiadczalnej-i-klinicznej)
 * [\#mrnawpigułce](#mrnawpigu%C5%82ce)
@@ -66,6 +68,8 @@ Table of Contents
   * [CZY RNA WEJDZIE MI DO MÓZGU?](#czy-rna-wejdzie-mi-do-m%C3%B3zgu)
   * [KIEDYŚ TO BYŁY (SŁABE) TERAPIE GENOWE](#kiedy%C5%9B-to-by%C5%82y-s%C5%82abe-terapie-genowe)
   * [O KATAROCZŁOWIEKU GMO\!](#o-katarocz%C5%82owieku-gmo)
+* [Posty](#posty)
+  * [Wypowiedź  Prof\. dr hab\. Jana Lubińskiego Kierownika  Zakładu Genetyki i Patomorfologii Pomorskiego  Uniwersytetu  Medycznego na temat szczepionki przeciw chorobie COVID\-19\.](#wypowied%C5%BA--prof-dr-hab-jana-lubi%C5%84skiego-kierownika--zak%C5%82adu-genetyki-i-patomorfologii-pomorskiego--uniwersytetu--medycznego-na-temat-szczepionki-przeciw-chorobie-covid-19)
 * [Fejki](#fejki)
   * [Podobno Amerykańska pielęgniarka zmarła po podaniu szczepionki Pfizera (spoiler alert: to fejk\!)](#podobno-ameryka%C5%84ska-piel%C4%99gniarka-zmar%C5%82a-po-podaniu-szczepionki-pfizera-spoiler-alert-to-fejk)
 * [Posty nieprawdziwe różne](#posty-nieprawdziwe-r%C3%B3%C5%BCne)
@@ -77,9 +81,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ## Dobre źródła
 
 - Polityka: https://www.polityka.pl/TygodnikPolityka/nauka/  
+- OKO.press https://oko.press
+
+Profile na Facebook:
+
 - Crazy Nauka https://www.facebook.com/crazynauka  
 - Tomasz Dzieciątkowski  https://www.facebook.com/Tomasz-Dzieciątkowski-Trust-me-Im-a-Virologist-105823707854944 
 - Kacper Toczyłowski https://www.facebook.com/DrToczylowski/
+- Prof. Krzysztof J. Filipiak https://www.facebook.com/profKrzysztofJFilipiak
 
 ## Inne zbiory Pytań i Odpowiedzi
 
@@ -169,6 +178,10 @@ Zresztą jakby tak było, to sama infekcja Covidem powodowałaby, że jego RNA w
 
 ### Przez odwrotną transkryptazę? NIE
 
+Odwrotną transkryptazy nie ma w komórkach ludzkich. Więc, nie, nie jest to możliwe.
+
+Patrz też: Zresztą jakby tak było, to sama infekcja Covidem powodowałaby, że jego RNA wchodziłby do naszych genów i je zmieniał, a o tym jakoś nikt nie mówi. Dlatego mRNA szczepionki miałby by się integrować w genom a RNA z wirusa już nie?
+
 ### Przez retrotraspozony LINE? NIE
 
 mRNA przetranskrybowane z retrotranspozonów LINE może się wiązać ze swoimi białkami ORF1 i ORF2 w cytoplazmie, tworząc tzw. kompleks rybonukleoproteinowy, który jest następnie transportowany z powrotem do jądra komórki. Tam ORF2 zaczyna odgrywać rolę endonukleazy ("otwierającej" łańcuch DNA w celu wklejenia do niego nowej kopii LINE) oraz odwrotnej transkryptazy (przepisującej mRNA z powrotem na DNA).
@@ -177,7 +190,7 @@ mRNA przetranskrybowane z retrotranspozonów LINE może się wiązać ze swoimi 
 
 Tak czy siak nie ma mowy, żeby rewertaza transpozonu albo zabłąkanego retrowirusa w rodzaju HIV uprowadziła szczepionkowe mRNA. To są enzymy specyficzne, rozpoznające "swoją" sekwencję. Używanie uniwersalnego enzymu odwrotnej transkrypcji byłoby sprzeczne z egoistycznym interesem wirusa.
 
-Source: internety, grupa pro-naukowa na fb
+źródło: grupa pro-naukowa na fb
 
 ## Jak to możliwe, że tak szybko gotowa? 
 Macie wątpliwości co do szczepionki na koronawirusa, że została za szybko wyprodukowana i nic o niej nie wiemy? Ten artykuł wiele tłumaczy:
@@ -194,11 +207,7 @@ Badania mogły przebiegać szybciej ponieważ:
 
 - wszystkim zależało na tym, żeby się udało, dlatego wyjątkowo nie było problemów z biurokracją
 
-Dodatkowo, nieprawdą jest że nie wiemy nic o tych szczepionkach ani że nie znamy mechanizmu ich działania. Oczywiście, zawsze można się dowiedzieć więcej (dlatego warto wspierać rozwój nauki ![🙂](https://static.xx.fbcdn.net/images/emoji.php/v9/teb/2/16/1f642.png) ), ale naukowcy pracują nad szczepionkami typu mRNA już od kilku lat.
-
-Jakby ktoś miał wątpliwości, chętnie podzielę się innymi artykułami i filmami na temat szczepionki i samego wirusa.
-
-Ja planuję się zaszczepić
+Dodatkowo, nieprawdą jest że nie wiemy nic o tych szczepionkach ani że nie znamy mechanizmu ich działania. Oczywiście, zawsze można się dowiedzieć więcej (dlatego warto wspierać rozwój nauki, ale naukowcy pracują nad szczepionkami typu mRNA już od kilku lat.
 
 https://www.nature.com/articles/s41586-020-2798-3
 
@@ -497,7 +506,20 @@ Badanie miało charakter wieloośrodkowy, z wykorzystaniem placebo i obejmowało
 
 https://www.nejm.org/doi/full/10.1056/NEJMoa2034201
 
+### Jakies inne szczepinki są dopuszczone?
+Lekarz Kacper Toczyłowski
+https://www.facebook.com/DrToczylowski/posts/792913347979168
+Słyszeliście o szczepionce wektorowej na COVID-19? 
+Kojarzycie zbiórki na najdroższy lek świata dla dzieci z SMA? Czy wiecie, że mechanizm działania tej szczepionki jest podobny do najdroższego leku na świecie? Jest to adenowirus, który wnika do naszych komórek i wprowadza kod genetyczny, na podstawie którego produkowane są odpowiednie białka. Możliwe, że tę szczepionkę będziemy mieć już w lutym. 
+Zainteresowanie szczepieniami przeciwko COVID-19 jest duże. Niestety, w obecnym tempie osoby młode niezwiązane z ochroną zdrowia zaszczepią się najwcześniej za kilka lat. Poza tym, szczepionek mRNA nie wystarczy dla wszystkich. Problemem jest też to, że niestabilność mRNA wymaga przechowywania tych szczepionek w zamrażarce (ta Pfizera aż w -70stC, czyli w zamrażarkach niskotemperaturowych, do których nie wszyscy mają dostęp). 
+Rozwiązaniem tych kłopotów mogą być szczepionki o innym mechanizmie działania, jak np. tania szczepionka wektorowa opracowana przez AstraZeneca i Uniwersytet Oxfordzki, którą przechwuje się w lodówce. 
+#COVID19 #szczepienie #AstraZeneca  #oxford
+
+
 # Stanowiska
+
+## Karmisz piersią? Możesz się szczepić?
+https://www.facebook.com/CentrumNaukioLaktacji/posts/3819535588089480?__cft__[0]=AZVUGfhso2k90-4_k4A78_5-zeY9Wv611by9ZsmuN0XLk-q7NO7_t20ojjRlV2lzXr87v1NV6etlbfvt4VxQY8sUnk9UGKuRT91eESIEsxp0_tMSutd9yjR2DLi-jsNU97JDhkoKjvgCbQzXtJ2aOpmgqRcqpZOZ4o08KP2nJZMvaA&__tn__=%2CO%2CP-y-R
 
 ## Stanowisko Komitetu Genetyki Człowieka i Patologii Molekularnej PAN, w sprawie rozpowszechnianych nieprawdziwych informacji o szczepionkach przeciw COVID-19 oraz testach PCR wykrywających SARS-CoV-2
 
@@ -777,6 +799,25 @@ DLA CHĘTNYCH
 
 [https://pl.wikipedia.org/wiki/Mikrobiom](https://pl.wikipedia.org/wiki/Mikrobiom?fbclid=IwAR28DIPBq95WD8GzV31OIeOmE5p4FmDUJUUUDDdK6Vpf8s0Ts2Ed50HJeq0)
 
+
+
+# Posty
+## Wypowiedź  Prof. dr hab. Jana Lubińskiego Kierownika  Zakładu Genetyki i Patomorfologii Pomorskiego  Uniwersytetu  Medycznego na temat szczepionki przeciw chorobie COVID-19.
+
+"31 grudnia 2020 roku w jednym z najbardziej prestiżowych czasopism medycznych „New England Journal of Medicine” ukazała się publikacja opisująca dotychczasowe wyniki próby klinicznej nad szczepionką przeciw Covid-19 firmy Pfizer stosowaną w Polsce.  
+Szczepionka ta o nazwie „BNT162b2” jest lipidową nanocząsteczką otaczającą zmodyfikowany mRNA kodujący silne antygenowe białko – „spike protein” produkowane przez wirusa SARS-CoV-2 i wspólne dla całej grupy koronawirusów. Według aktualnych danych mRNA nie wbudowuje się do genomu pacjentów.  
+
+W próbie wzięło udział 43.548 osób z których 21.720 otrzymało BNT 162b2 i 21.728 „placebo” w okresie od lipca do listopada 2020. Średni wiek uczestników próby wyniósł 52 lata z czego 42% było w wieku powyżej 55 lat. Stwierdzono 8 przypadków zachorowania na Covid-19 wśród osób, którym podano szczepionkę i 162 zachorowania w podgrupie „placebo”. 
+
+BNT162b2 zapobiegła Covid-19 ze skutecznością 95% i podobną niezależnie od wieku, płci i współistniejących chorób. Występowanie poważnych działań niepożądanych było rzadkie i podobne zarówno w grupie szczepionej jak i „placebo”. 
+Warto zaznaczyć, że również bardzo dobre wyniki uzyskano w równolegle przeprowadzonym badaniu ok. 30.000 osób nad inną szczepionką mRNA1273 – „Moderna”. 
+Tak więc – istniejące dane zdecydowanie wskazują na celowość szczepień z zastosowaniem BNT 162 b2, mimo oczywistych ograniczeń będących konsekwencją koniecznego ze względu na epidemię krótkiego okresu obserwacji. "
+Prof. dr hab. n. med. Jan Lubiński  
+
+Genetyk kliniczny 
+Pomorski Uniwersytet Medyczny w Szczecinie 
+Wyrażam zgodę na publikację mojego wizerunku i wypowiedzi w ramach akcji promującej szczepienia przeciw COVID - 19 realizowanym przez Ministerstwo Rodziny i Polityki Społecznej. 
+Prof. dr hab. n. med. Jan Lubiński
 
 
 # Fejki
