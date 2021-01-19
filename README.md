@@ -22,6 +22,8 @@ Table of Contents
   * [prof\. Roman Zieliński](#prof-roman-zieli%C5%84ski)
 * [Wyjątkowo dobre artykuły](#wyj%C4%85tkowo-dobre-artyku%C5%82y)
   * [Wyjątkowo dobre filmy](#wyj%C4%85tkowo-dobre-filmy)
+* [Najnowsze](#najnowsze)
+  * [Czy 23 osoby zmarły w Norwegii na skutek szczepienia na COVID\-19?](#czy-23-osoby-zmar%C5%82y-w-norwegii-na-skutek-szczepienia-na-covid-19)
 * [FAQ](#faq)
   * [Czy szczepionki mRNA to "terapie genowe?" NIE](#czy-szczepionki-mrna-to-terapie-genowe-nie)
   * [Czy mRNA ze szczepionki replikuje się w komórkach? NIE](#czy-mrna-ze-szczepionki-replikuje-si%C4%99-w-kom%C3%B3rkach-nie)
@@ -152,6 +154,13 @@ Kasia tłumaczy jak jest, bardzo przystępnie o nowych szczepionkach RNA, dlacze
 **11 pytań o szczepionki mRNA na COVID-19**
 <iframe width="800" height="441" src="https://www.youtube.com/embed/XRW9E5Gq_Ew" frameborder="0" allowfullscreen></iframe>
 <https://www.youtube.com/watch?v=XRW9E5Gq_Ew>
+
+# Najnowsze
+## Czy 23 osoby zmarły w Norwegii na skutek szczepienia na COVID-19?
+
+Tak, to prawda. Ale ciekawe jak te osoby przeszly by zarażenie covidem. Niestety okazało, się, że reakcja na szczepionkę dla tak słabych osób była zasilna (lub to są przypadkowe zgody, nie związane ze szczepieniem, gdyż w norwegii umiera 400 bardzo starych i nieuleczalnie chorych dziennie). 
+
+https://fakenews.pl/.../czy-23-osoby-zmarly-w-norwegii.../
 
 # FAQ
 ## Czy szczepionki mRNA to "terapie genowe?" NIE
