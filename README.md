@@ -255,6 +255,11 @@ W procesie produkcji szczepionek mRNA nie wykorzystuje się linii komórkowych, 
 
 https://www.mp.pl/szczepienia/specjalne/250300,linie-komorkowe-hek-293-i-perc6
 
+Miesiąc temu Watykan ustosunkował się do szczepionek na koronawirusa jako akceptowalnych moralnie:
+https://www.bbc.com/news/world-europe-55409693
+A tak gwoli ścisłości, te "komórki od kilku abortowanych dzieci potrzebnych do każdego eksperymentu" to linie komórkowe wyprowadzone z w latach '60:
+"W obu przypadkach aborcja miała miejsce w latach sześćdziesiątych i była dokonana z przyczyn pozamedycznych, po wyroku sądu. Jeśli chcielibyśmy tę sytuację porównać do jakiejkolwiek znanej nam procedury medycznej, to można mówić o dawstwie, jak w przypadku pobierania organów. Aborcje więc nie zostały dokonane w celu pobrania komórek płodów."
+https://www.poradnikzdrowie.pl/zdrowie/choroby-zakazne/czy-szczepionki-pochodza-z-abortowanych-plodow-aa-nnNQ-WRkX-PspA.html
 
 ## Badania kliniczne Moderny trwają do?
 
