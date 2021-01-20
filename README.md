@@ -159,7 +159,11 @@ Kasia tłumaczy jak jest, bardzo przystępnie o nowych szczepionkach RNA, dlacze
 # Najnowsze
 ## Czy 23 osoby zmarły w Norwegii na skutek szczepienia na COVID-19? Brak dowodów
 
-Tak, niestety to prawda. Ale ciekawe jak te osoby przeszly by zarażenie covidem. Niestety okazało, się, że reakcja na szczepionkę dla tak słabych osób była zasilna (lub to są przypadkowe zgody, nie związane ze szczepieniem, gdyż w norwegii umiera 400 bardzo starych i nieuleczalnie chorych dziennie). Lekarz powinien ocenić czy pacjenta klasyfikować do szczepienia, więc to on podejmuje decyzje https://fakenews.pl/zdrowie/czy-23-osoby-zmarly-w-norwegii-po-przyjeciu-szczepionki-na-covid/
+Tak, niestety to prawda. Jednak nie można bezpośrednio połączyć zgonów ze szczepieniem, gdyż w Norwegii umiera 400 bardzo starych i nieuleczalnie chorych dziennie, dlatego związek ze szczepieniem może być przypadkowy. Być może faktycznie reakcja na szczepionkę dla tak słabych i śmiertelnie chorych osób była za silna i te osoby zmarły przez wywołanie reakcji przez szczepionkę, ale to wymaga dokładnych badań. 
+
+Lekarz powinien ocenić czy pacjenta klasyfikować do szczepienia, więc to on podejmuje decyzje, więc dlatego Norwegia zwraca na to uwagę, aby lekarze zwracali na to uwagę i czy reakcja na szczepionkę może być szkodliwa dla tej grupy osób.
+
+https://fakenews.pl/zdrowie/czy-23-osoby-zmarly-w-norwegii-po-przyjeciu-szczepionki-na-covid/
 
 ## Kilka procent umiera! Ja nie umrę? FAŁSZ
 Niestety, pojawia się coraz więcej informacji, że bez objawowy covid to początek dużych problemów ze zdrowiem.
