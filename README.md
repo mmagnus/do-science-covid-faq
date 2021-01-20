@@ -86,12 +86,17 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - Polityka: https://www.polityka.pl/TygodnikPolityka/nauka/  
 - OKO.press https://oko.press
 
-Profile na Facebook:
+Profile/blogi popularnonaukowe na Facebook:
 
 - Crazy Nauka https://www.facebook.com/crazynauka  
+- Defoliator https://www.facebook.com/defoliator/
+
+Lekarze:
+
 - Tomasz Dzieciątkowski  https://www.facebook.com/Tomasz-Dzieciątkowski-Trust-me-Im-a-Virologist-105823707854944 
 - Kacper Toczyłowski https://www.facebook.com/DrToczylowski/
 - Prof. Krzysztof J. Filipiak https://www.facebook.com/profKrzysztofJFilipiak
+
 
 ## Inne zbiory Pytań i Odpowiedzi
 
