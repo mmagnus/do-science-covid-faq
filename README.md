@@ -163,6 +163,9 @@ Tak, niestety to prawda. Jednak nie można bezpośrednio połączyć zgonów ze 
 
 Lekarz powinien ocenić czy pacjenta klasyfikować do szczepienia, więc to on podejmuje decyzje, więc dlatego Norwegia zwraca na to uwagę, aby lekarze zwracali na to uwagę i czy reakcja na szczepionkę może być szkodliwa dla tej grupy osób.
 
+> “It may be a coincidence, but we aren’t sure,” Steinar Madsen, medical director of the Norwegian Medicines Agency, told The BMJ. “There is no certain connection between these deaths and the vaccine.”
+
+https://www.thejournal.ie/norway-vaccine-elderly-patients-5326967-Jan2021/
 https://fakenews.pl/zdrowie/czy-23-osoby-zmarly-w-norwegii-po-przyjeciu-szczepionki-na-covid/
 
 ## Kilka procent umiera! Ja nie umrę? FAŁSZ
