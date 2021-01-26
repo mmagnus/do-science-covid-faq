@@ -255,19 +255,15 @@ W procesie produkcji szczepionek mRNA nie wykorzystuje się linii komórkowych, 
 
 https://www.mp.pl/szczepienia/specjalne/250300,linie-komorkowe-hek-293-i-perc6
 
--------------------------------------------------------------------------------
-
-W „Nocie Kongregacji Nauki Wiary na temat moralnej oceny stosowania niektórych szczepionek przeciwko COVID-19” podkreślono, **że w sytuacji braku dostępu do szczepionek przeciwko COVID-19, które nie budzą zastrzeżeń etycznych, jest moralnie dopuszczalne stosowanie szczepionek przeciwko COVID-19, w których procesie badawczym i produkcji wykorzystuje się linie ludzkich komórek zarodkowych uzyskane z materiału pobranego w wyniku zabiegu sztucznego poronienia.**
+> W „Nocie Kongregacji Nauki Wiary na temat moralnej oceny stosowania niektórych szczepionek przeciwko COVID-19” podkreślono, **że w sytuacji braku dostępu do szczepionek przeciwko COVID-19, które nie budzą zastrzeżeń etycznych, jest moralnie dopuszczalne stosowanie szczepionek przeciwko COVID-19, w których procesie badawczym i produkcji wykorzystuje się linie ludzkich komórek zarodkowych uzyskane z materiału pobranego w wyniku zabiegu sztucznego poronienia.**
 
 <https://www.mp.pl/szczepienia/aktualnosci/255527,kongregacja-nauki-wiary-w-sprawie-szczepionek-przec
 iwko-covid-19>
 
--------------------------------------------------------------------------------
-
-Miesiąc temu Watykan ustosunkował się do szczepionek na koronawirusa jako akceptowalnych moralnie:
+> Miesiąc temu Watykan ustosunkował się do szczepionek na koronawirusa jako akceptowalnych moralnie:
 https://www.bbc.com/news/world-europe-55409693
-A tak gwoli ścisłości, te "komórki od kilku abortowanych dzieci potrzebnych do każdego eksperymentu" to linie komórkowe wyprowadzone z w latach '60:
-"W obu przypadkach aborcja miała miejsce w latach sześćdziesiątych i była dokonana z przyczyn pozamedycznych, po wyroku sądu. Jeśli chcielibyśmy tę sytuację porównać do jakiejkolwiek znanej nam procedury medycznej, to można mówić o dawstwie, jak w przypadku pobierania organów. Aborcje więc nie zostały dokonane w celu pobrania komórek płodów."
+
+> A tak gwoli ścisłości, te "komórki od kilku abortowanych dzieci potrzebnych do każdego eksperymentu" to linie komórkowe wyprowadzone z w latach '60: "W obu przypadkach aborcja miała miejsce w latach sześćdziesiątych i była dokonana z przyczyn pozamedycznych, po wyroku sądu. Jeśli chcielibyśmy tę sytuację porównać do jakiejkolwiek znanej nam procedury medycznej, to można mówić o dawstwie, jak w przypadku pobierania organów. Aborcje więc nie zostały dokonane w celu pobrania komórek płodów."
 https://www.poradnikzdrowie.pl/zdrowie/choroby-zakazne/czy-szczepionki-pochodza-z-abortowanych-plodow-aa-nnNQ-WRkX-PspA.html
 
 
