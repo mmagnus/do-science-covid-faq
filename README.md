@@ -243,6 +243,10 @@ W procesie produkcji szczepionek mRNA nie wykorzystuje się linii komórkowych, 
 
 https://www.mp.pl/szczepienia/specjalne/250300,linie-komorkowe-hek-293-i-perc6
 
+W „Nocie Kongregacji Nauki Wiary na temat moralnej oceny stosowania niektórych szczepionek przeciwko COVID-19” podkreślono, **że w sytuacji braku dostępu do szczepionek przeciwko COVID-19, które nie budzą zastrzeżeń etycznych, jest moralnie dopuszczalne stosowanie szczepionek przeciwko COVID-19, w których procesie badawczym i produkcji wykorzystuje się linie ludzkich komórek zarodkowych uzyskane z materiału pobranego w wyniku zabiegu sztucznego poronienia.**
+
+<https://www.mp.pl/szczepienia/aktualnosci/255527,kongregacja-nauki-wiary-w-sprawie-szczepionek-przeciwko-covid-19>
+
 
 ## Badania kliniczne Moderny trwają do?
 
