@@ -86,12 +86,17 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - Polityka: https://www.polityka.pl/TygodnikPolityka/nauka/  
 - OKO.press https://oko.press
 
-Profile na Facebook:
+Profile/blogi popularnonaukowe na Facebook:
 
 - Crazy Nauka https://www.facebook.com/crazynauka  
+- Defoliator https://www.facebook.com/defoliator/
+
+Lekarze:
+
 - Tomasz Dzieciątkowski  https://www.facebook.com/Tomasz-Dzieciątkowski-Trust-me-Im-a-Virologist-105823707854944 
 - Kacper Toczyłowski https://www.facebook.com/DrToczylowski/
 - Prof. Krzysztof J. Filipiak https://www.facebook.com/profKrzysztofJFilipiak
+
 
 ## Inne zbiory Pytań i Odpowiedzi
 
@@ -159,7 +164,14 @@ Kasia tłumaczy jak jest, bardzo przystępnie o nowych szczepionkach RNA, dlacze
 # Najnowsze
 ## Czy 23 osoby zmarły w Norwegii na skutek szczepienia na COVID-19? Brak dowodów
 
-Tak, niestety to prawda. Ale ciekawe jak te osoby przeszly by zarażenie covidem. Niestety okazało, się, że reakcja na szczepionkę dla tak słabych osób była zasilna (lub to są przypadkowe zgody, nie związane ze szczepieniem, gdyż w norwegii umiera 400 bardzo starych i nieuleczalnie chorych dziennie). Lekarz powinien ocenić czy pacjenta klasyfikować do szczepienia, więc to on podejmuje decyzje https://fakenews.pl/zdrowie/czy-23-osoby-zmarly-w-norwegii-po-przyjeciu-szczepionki-na-covid/
+Tak, niestety to prawda. Jednak nie można bezpośrednio połączyć zgonów ze szczepieniem, gdyż w Norwegii umiera 400 bardzo starych i nieuleczalnie chorych dziennie, dlatego związek ze szczepieniem może być przypadkowy. Być może faktycznie reakcja na szczepionkę dla tak słabych i śmiertelnie chorych osób była za silna i te osoby zmarły przez wywołanie reakcji przez szczepionkę, ale to wymaga dokładnych badań. 
+
+Lekarz powinien ocenić czy pacjenta klasyfikować do szczepienia, więc to on podejmuje decyzje, więc dlatego Norwegia zwraca na to uwagę, aby lekarze zwracali na to uwagę i czy reakcja na szczepionkę może być szkodliwa dla tej grupy osób.
+
+> “It may be a coincidence, but we aren’t sure,” Steinar Madsen, medical director of the Norwegian Medicines Agency, told The BMJ. “There is no certain connection between these deaths and the vaccine.”
+
+https://www.thejournal.ie/norway-vaccine-elderly-patients-5326967-Jan2021/
+https://fakenews.pl/zdrowie/czy-23-osoby-zmarly-w-norwegii-po-przyjeciu-szczepionki-na-covid/
 
 ## Kilka procent umiera! Ja nie umrę? FAŁSZ
 Niestety, pojawia się coraz więcej informacji, że bez objawowy covid to początek dużych problemów ze zdrowiem.
@@ -243,9 +255,20 @@ W procesie produkcji szczepionek mRNA nie wykorzystuje się linii komórkowych, 
 
 https://www.mp.pl/szczepienia/specjalne/250300,linie-komorkowe-hek-293-i-perc6
 
+-------------------------------------------------------------------------------
+
 W „Nocie Kongregacji Nauki Wiary na temat moralnej oceny stosowania niektórych szczepionek przeciwko COVID-19” podkreślono, **że w sytuacji braku dostępu do szczepionek przeciwko COVID-19, które nie budzą zastrzeżeń etycznych, jest moralnie dopuszczalne stosowanie szczepionek przeciwko COVID-19, w których procesie badawczym i produkcji wykorzystuje się linie ludzkich komórek zarodkowych uzyskane z materiału pobranego w wyniku zabiegu sztucznego poronienia.**
 
-<https://www.mp.pl/szczepienia/aktualnosci/255527,kongregacja-nauki-wiary-w-sprawie-szczepionek-przeciwko-covid-19>
+<https://www.mp.pl/szczepienia/aktualnosci/255527,kongregacja-nauki-wiary-w-sprawie-szczepionek-przec
+iwko-covid-19>
+
+-------------------------------------------------------------------------------
+
+Miesiąc temu Watykan ustosunkował się do szczepionek na koronawirusa jako akceptowalnych moralnie:
+https://www.bbc.com/news/world-europe-55409693
+A tak gwoli ścisłości, te "komórki od kilku abortowanych dzieci potrzebnych do każdego eksperymentu" to linie komórkowe wyprowadzone z w latach '60:
+"W obu przypadkach aborcja miała miejsce w latach sześćdziesiątych i była dokonana z przyczyn pozamedycznych, po wyroku sądu. Jeśli chcielibyśmy tę sytuację porównać do jakiejkolwiek znanej nam procedury medycznej, to można mówić o dawstwie, jak w przypadku pobierania organów. Aborcje więc nie zostały dokonane w celu pobrania komórek płodów."
+https://www.poradnikzdrowie.pl/zdrowie/choroby-zakazne/czy-szczepionki-pochodza-z-abortowanych-plodow-aa-nnNQ-WRkX-PspA.html
 
 
 ## Badania kliniczne Moderny trwają do?
