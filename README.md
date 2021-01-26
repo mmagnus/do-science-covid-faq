@@ -265,7 +265,6 @@ https://www.bbc.com/news/world-europe-55409693
 > A tak gwoli ścisłości, te "komórki od kilku abortowanych dzieci potrzebnych do każdego eksperymentu" to linie komórkowe wyprowadzone z w latach '60: "W obu przypadkach aborcja miała miejsce w latach sześćdziesiątych i była dokonana z przyczyn pozamedycznych, po wyroku sądu. Jeśli chcielibyśmy tę sytuację porównać do jakiejkolwiek znanej nam procedury medycznej, to można mówić o dawstwie, jak w przypadku pobierania organów. Aborcje więc nie zostały dokonane w celu pobrania komórek płodów."
 https://www.poradnikzdrowie.pl/zdrowie/choroby-zakazne/czy-szczepionki-pochodza-z-abortowanych-plodow-aa-nnNQ-WRkX-PspA.html
 
-
 ## Badania kliniczne Moderny trwają do?
 
 FDA do 2022 https://www.fda.gov/media/144637/download 
