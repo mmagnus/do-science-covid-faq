@@ -661,6 +661,20 @@ Piśmiennictwo:
 
 https://www.facebook.com/hashtag/mrnawpigułce
 
+## SPISEK, TO SPISEK!
+
+Z dużą ulgą świat naukowy odetchnął, gdy Moderna i Pfizer/BioNTech pokazały, że ich szczepionki dobrze radzą sobie z nowymi wariantami wirusa. 
+
+Czasem w internetach ktoś pisze, że jak to możliwe, że "stare" szczepionki mRNA działają na nowe warianty wirusa. Spisek, spisek, te warianty zostały wprowadzone przez Big farmę, bo jak to jest, że szczepionka na nie działa, jak powinna nie działać bo to nowe warianty.
+
+Ano, jest tak, że szczepionki zawierają informację o białku kolca (ang. spike) wirusa Sars-Cov-2, i na szczęście, większość mutacji w tych nowych wariantach wirusa jest w innych białkach, a więc zupełnie nie ma to znaczenia dla tych szczepionek.
+Niestety, jest jedna mutacja w białku kolca w nowym wariacie wirusa, w pozycji 501, która powoduje, że wirus łatwiej wchodzi do komórek ludzkich. To już nie jest fajne i może być problematycznie.
+
+No, ale na szczęście nie jest, ponieważ, nasz układ odpornościowy wyuczony przez zaszczepienie jak rozpoznawać wirusa, operuje w taki sposób "z przymrużeniem oka" 😉 i nawet jak mu się do końca nie zgadza białko kolca z wirusa, z białkiem ze szczepionki, to i tak zostanie podniesiony alarm i nastąpi atak układu odpornościowego na intruza.
+
+Dlatego szczepionki są ciągle skuteczne, nawet na nowe warianty. Temat jest cały czas pod nadzorem naukowców, więc pewnie niedługo dowiemy się czegoś więcej, kolejne mutacje w białku kolca, mogą spowodować spadek skuteczności szczepionki, dlatego Moderna już ruszyła z badaniami klinicznymi nowych wariantów mRNA.
+
+W międzyczasie, kto może niech się szczepi!
 
 
 ## OSOBY ZMARŁY PO PRZYJĘCIU SZCZEPIONKI PRZECIWKO COVID 19 WLONCZ MYŚLNIE !11!!!!
