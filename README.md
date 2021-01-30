@@ -6,7 +6,7 @@
 
 Zgoś poprawkę przez https://github.com/mmagnus/do-science-covid-faq/issues/new
 
-Bardzo roboczy agregator wiedzy o pandemii, wykorzystywany głównie przez grupę antytrolli Do Science!
+Bardzo roboczy agregator wiedzy o pandemii, wykorzystywany głównie przez grupę antytrolli Do Science! ale nie tylko.
 
 https://github.com/mmagnus/do-science-covid-faq
 
